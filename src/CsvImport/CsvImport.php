@@ -76,7 +76,7 @@ class CsvImport
 
         $Location = new Location();
         foreach ($reader as $rowNum => $row) {
-            if ($rowNum < $this->headerRowCount) {
+            if ($rowNum <= $this->headerRowCount) {
                 continue;
             }
 
