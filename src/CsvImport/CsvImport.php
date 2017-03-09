@@ -80,6 +80,11 @@ class CsvImport
                 continue;
             }
 
+            // Trim whitespace from all values
+            foreach ($row as $fieldName => &$value) {
+                $value = trim($value);
+            }
+
             $categoryId = $this->getCategoryId($row);
             $locationTypeId = $Location->getLocationTypeId($this, $row);
             $locationCode = $Location->getLocationCode($row);
