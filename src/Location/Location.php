@@ -111,7 +111,7 @@ class Location
         }
 
         // Assume that any non-country and non-state FIPS code corresponds to a county
-        if (isset($import->headers['fips'])) {
+        if (in_array('fips', $import->headers)) {
             switch ($row['fips']) {
                 case 0:
                     return 4; // Country
