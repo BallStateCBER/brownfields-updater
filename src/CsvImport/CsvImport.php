@@ -45,6 +45,7 @@ class CsvImport
         $fields = [
             'categoryId' => null,
             'categoryIds' => [],
+            'filename' => null,
             'headerRowCount' => 0,
             'headers' => [
                 'fips',
