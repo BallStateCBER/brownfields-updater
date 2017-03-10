@@ -46,7 +46,7 @@ class CsvImport
             'categoryId' => null,
             'categoryIds' => [],
             'filename' => null,
-            'headerRowCount' => 0,
+            'headerRowCount' => 5,
             'headers' => [
                 'fips',
                 'locationName',

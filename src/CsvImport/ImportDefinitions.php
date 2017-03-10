@@ -14,7 +14,6 @@ class ImportDefinitions
 
         $imports['Population by age'] = [
             'filename' => 'Demographics_PopulationbyAge.csv',
-            'headerRowCount' => 5,
             'sourceId' => 93, // American Community Survey (https://factfinder.census.gov/...)
             'categoryIds' => [
                 'Total' => 1,
@@ -31,7 +30,6 @@ class ImportDefinitions
 
         $imports['Average household size'] = [
             'filename' => 'Demographics_AverageHouseholdSize.csv',
-            'headerRowCount' => 5,
             'sourceId' => 94, // American Community Survey (https://factfinder.census.gov/...)
             'categoryIds' => [
                 'Average Household Size' => 348
