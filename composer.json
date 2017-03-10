@@ -11,7 +11,8 @@
         "cakephp/migrations": "~1.0",
         "cakephp/plugin-installer": "*",
         "mmerian/csv": "^1.0",
-        "josegonzalez/dotenv": "dev-master"
+        "josegonzalez/dotenv": "dev-master",
+        "cakephp/cakephp-codesniffer": "*"
     },
     "require-dev": {
         "psy/psysh": "@stable",

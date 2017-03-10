@@ -3,13 +3,16 @@
 /tmp/*
 /logs/*
 
-#PhpStorm
+# PhpStorm
 .idea/*
 
-#GitHub
+# GitHub
 .github/*
 
 # Environment variable definitions
 /config/.env
 /config/.env.production
 /config/.env.dev
+
+# NPM
+/node_modules/*
