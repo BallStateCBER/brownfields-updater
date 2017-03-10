@@ -16,9 +16,8 @@ use Cake\ORM\Entity;
  * @property \Cake\I18n\Time $created
  * @property \Cake\I18n\Time $modified
  *
- * @property \App\Model\Entity\LocType $loc_type
- * @property \App\Model\Entity\Loc $loc
- * @property \App\Model\Entity\Category $category
+ * @property \App\Model\Entity\LocationType $location_type
+ * @property \App\Model\Entity\DataCategory $data_category
  * @property \App\Model\Entity\Source $source
  */
 class Data extends Entity

@@ -43,15 +43,11 @@ class DataTable extends Table
 
         $this->addBehavior('Timestamp');
 
-        $this->belongsTo('LocTypes', [
+        $this->belongsTo('LocationTypes', [
             'foreignKey' => 'loc_type_id',
             'joinType' => 'INNER'
         ]);
-        $this->belongsTo('Locs', [
-            'foreignKey' => 'loc_id',
-            'joinType' => 'INNER'
-        ]);
-        $this->belongsTo('Categories', [
+        $this->belongsTo('DataCategories', [
             'foreignKey' => 'category_id',
             'joinType' => 'INNER'
         ]);
