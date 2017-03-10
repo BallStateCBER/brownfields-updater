@@ -2,6 +2,7 @@
 namespace App\Shell;
 
 use App\CsvImport\CsvImport;
+use App\CsvImport\ImportDefinitions;
 use Cake\Console\Shell;
 use Cake\ORM\TableRegistry;
 
@@ -144,7 +145,7 @@ class ImportShell extends Shell
 
         // Run import
         $importName = $this->availableImports($importNum);
-        $imports = $this->getImportDefinitions();
+        $imports = ImportDefinitions::getDefinitions();
         $importObj = new CsvImport($imports[$importName]);
         $importObj->readCsv();
         $this->prepareImport($importObj->data);
@@ -368,7 +369,7 @@ class ImportShell extends Shell
      */
     private function availableImports($key = null)
     {
-        $importNames = array_keys($this->getImportDefinitions());
+        $importNames = array_keys(ImportDefinitions::getDefinitions());
 
         if (empty($importNames)) {
             $this->abort('No imports are available to run');
@@ -381,34 +382,5 @@ class ImportShell extends Shell
         sort($importNames);
 
         return $importNames;
-    }
-
-    /**
-     * Returns the definitions of each supported import
-     *
-     * @return array
-     */
-    public function getImportDefinitions()
-    {
-        $imports = [];
-
-        $imports['Population by age'] = [
-            'filename' => 'Demographics_PopulationbyAge.csv',
-            'headerRowCount' => 5,
-            'sourceId' => 93, // American Community Survey (https://factfinder.census.gov/...)
-            'categoryIds' => [
-                'Total' => 1,
-                'Total Under 5 years old' => 6010,
-                'Total 5 to 14' => 5723,
-                'Total 15 to 24' => 5724,
-                'Total  25 to 44' => 5725,
-                'Total 45 to 59' => 5726,
-                'Total 60 to 74' => 5727,
-                'Total 75 and older' => 5728,
-                'Total Under 18 years old' => 6011
-            ]
-        ];
-
-        return $imports;
     }
 }
