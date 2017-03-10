@@ -114,7 +114,7 @@ class ImportShell extends Shell
             $msg .= '[0]';
         }
         $msg .= ' or type \'all\'';
-        $importSelection = $this->in($msg);
+        $importSelection = $this->in($msg, null, 'all');
 
         $this->autoImport = $importSelection == 'all';
         if ($importSelection == 'all') {
