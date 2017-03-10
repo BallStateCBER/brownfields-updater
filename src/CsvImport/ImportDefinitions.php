@@ -29,6 +29,15 @@ class ImportDefinitions
             ]
         ];
 
+        $imports['Average household size'] = [
+            'filename' => 'Demographics_AverageHouseholdSize.csv',
+            'headerRowCount' => 5,
+            'sourceId' => 94, // American Community Survey (https://factfinder.census.gov/...)
+            'categoryIds' => [
+                'Average Household Size' => 348
+            ]
+        ];
+
         return $imports;
     }
 }
