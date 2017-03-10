@@ -38,7 +38,7 @@ class CsvImport
     /**
      * CsvImport constructor
      *
-     * @param $params
+     * @param array $params Properties for new object
      */
     public function __construct($params)
     {
