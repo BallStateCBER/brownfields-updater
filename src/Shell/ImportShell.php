@@ -322,7 +322,10 @@ class ImportShell extends Shell
                 $percentDone = $this->getProgress($step, $this->stepCount);
                 $msg = "Importing: $percentDone";
                 $this->_io->overwrite($msg, 0);
-                $this->statisticsTable->save($statEntity);
+                if (! $this->statisticsTable->save($statEntity)) {
+                    $this->out();
+                    $this->abortWithEntityError($statEntity->errors());
+                }
             }
         }
 
@@ -334,7 +337,10 @@ class ImportShell extends Shell
                     $percentDone = $this->getProgress($step, $this->stepCount);
                     $msg = "Importing: $percentDone";
                     $this->_io->overwrite($msg, 0);
-                    $this->statisticsTable->save($statEntity);
+                    if (! $this->statisticsTable->save($statEntity)) {
+                        $this->out();
+                        $this->abortWithEntityError($statEntity->errors());
+                    }
                 }
             } else {
                 $this->out();
