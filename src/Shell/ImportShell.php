@@ -1,15 +1,17 @@
 <?php
 namespace App\Shell;
 
+use App\CsvImport\CsvImport;
 use Cake\Console\Shell;
-use Cake\Filesystem\Folder;
 use Cake\ORM\TableRegistry;
 
 class ImportShell extends Shell
 {
-
-    public $stepCount;
+    public $ignoreCount = 0;
     public $statisticsTable;
+    public $stepCount;
+    public $toInsert = [];
+    public $toOverwrite = [];
 
     /**
      * Modifies the standard output of running 'cake import --help'
@@ -142,10 +144,11 @@ class ImportShell extends Shell
 
         // Run import
         $importName = $this->availableImports($importNum);
-        $importClass = "App\\Shell\\Imports\\{$importName}Shell";
-        $importObj = new $importClass();
-
-        return $importObj->run();
+        $imports = $this->getImportDefinitions();
+        $importObj = new CsvImport($imports[$importName]);
+        $importObj->readCsv();
+        $this->prepareImport($importObj->data);
+        $this->import();
     }
 
     /**
@@ -153,81 +156,58 @@ class ImportShell extends Shell
      * reports on actions that will be taken by the import process, and
      * prompts to user to begin the import
      *
+     * @param array $data Array of data for a statistics record (value, category_id, etc.)
      * @return void
      */
-    private function prepareImport()
+    private function prepareImport($data)
     {
-        if (empty($this->apiCallResults)) {
-            $this->abort('No data returned');
-        }
-
         // Get totals for what was returned
-        $dataPointCount = 0;
-        foreach ($this->apiCallResults as $fips => $data) {
-            $dataPointCount += count($data);
-        }
-        $locationCount = count($this->apiCallResults);
-        $msg = number_format($dataPointCount) . __n(' data point ', ' data points ', $dataPointCount);
-        $msg .= 'found for ' . number_format($locationCount) . ' locations';
+        $dataPointCount = count($data);
+        $msg = number_format($dataPointCount) . __n(' data point ', ' data points ', $dataPointCount) . 'found';
         $this->out($msg, 2);
 
         // Break down insert / overwrite / ignore and catch errors
-        $Location = new Location();
         $this->statisticsTable = TableRegistry::get('Data');
         $this->out('Preparing import...', 0);
-        $step = 0;
-        foreach ($this->apiCallResults as $fips => $data) {
-            $locationId = $Location->getIdFromCode($fips, $this->locationTypeId);
-            if (! $locationId) {
-                $this->abort("FIPS code $fips does not correspond to any known county.");
-            }
-            foreach ($data as $category => $value) {
-                $step++;
-                $percentDone = $this->getProgress($step, $dataPointCount);
-                $msg = "Preparing import: $percentDone";
-                $this->_io->overwrite($msg, 0);
+        foreach ($data as $step => $row) {
+            $percentDone = $this->getProgress($step, $dataPointCount);
+            $msg = "Preparing import: $percentDone";
+            $this->_io->overwrite($msg, 0);
 
-                // Look for matching records
-                $matchingRecords = $this->getMatchingRecords($locationId, $category);
+            // Look for matching records
+            $matchingRecords = $this->getMatchingRecords([
+                'loc_type_id' => $row['loc_type_id'],
+                'loc_id' => $row['loc_id'],
+                'survey_date' => $row['survey_date'],
+                'category_id' => $row['category_id']
+            ]);
 
-                // Prepare record for inserting / overwriting
-                $newRecord = [
-                    'loc_type_id' => $this->locationTypeId,
-                    'loc_id' => $locationId,
-                    'survey_date' => $this->surveyDate,
-                    'category_id' => $this->categoryIds[$category],
-                    'value' => $value,
-                    'source_id' => $this->sourceId
-                ];
-
-                // Mark for insertion
-                if (empty($matchingRecords)) {
-                    $statEntity = $this->statisticsTable->newEntity($newRecord);
-                    $errors = $statEntity->errors();
-                    if (! empty($errors)) {
-                        $this->abortWithEntityError($errors);
-                    }
-                    $this->toInsert[] = $statEntity;
-                    continue;
-                }
-
-                // Increment ignore count
-                $recordedValue = $matchingRecords[0]['value'];
-                if ($recordedValue == $value) {
-                    $this->ignoreCount++;
-                    continue;
-                }
-
-                // Mark for overwriting
-                $recordId = $matchingRecords[0]['id'];
-                $statEntity = $this->statisticsTable->get($recordId);
-                $statEntity = $this->statisticsTable->patchEntity($statEntity, $newRecord);
+            // Mark for insertion
+            if (empty($matchingRecords)) {
+                $statEntity = $this->statisticsTable->newEntity($row);
                 $errors = $statEntity->errors();
                 if (! empty($errors)) {
                     $this->abortWithEntityError($errors);
                 }
-                $this->toOverwrite[] = $statEntity;
+                $this->toInsert[] = $statEntity;
+                continue;
             }
+
+            // Increment ignore count
+            if ($matchingRecords[0]['value'] == $row['value']) {
+                $this->ignoreCount++;
+                continue;
+            }
+
+            // Mark for overwriting
+            $recordId = $matchingRecords[0]['id'];
+            $statEntity = $this->statisticsTable->get($recordId);
+            $statEntity = $this->statisticsTable->patchEntity($statEntity, $row);
+            $errors = $statEntity->errors();
+            if (! empty($errors)) {
+                $this->abortWithEntityError($errors);
+            }
+            $this->toOverwrite[] = $statEntity;
         }
         $this->out();
 
@@ -251,21 +231,11 @@ class ImportShell extends Shell
     /**
      * Returns an array of records that match the current data location, date, and category
      *
-     * @param int $locationId Location ID
-     * @param string $category Category name
+     * @param array $conditions Conditions for where()
      * @return array
      */
-    private function getMatchingRecords($locationId, $category)
+    private function getMatchingRecords($conditions)
     {
-        if (! isset($this->categoryIds[$category])) {
-            $this->abort("Unrecognized category: $category");
-        }
-        $conditions = [
-            'loc_type_id' => $this->locationTypeId,
-            'loc_id' => $locationId,
-            'survey_date' => $this->surveyDate,
-            'category_id' => $this->categoryIds[$category]
-        ];
         $results = $this->statisticsTable->find('all')
             ->select(['id', 'value'])
             ->where($conditions)
@@ -340,13 +310,10 @@ class ImportShell extends Shell
      */
     protected function import()
     {
-        $this->prepareImport();
-
         $step = 0;
         $percentDone = $this->getProgress($step, $this->stepCount);
         $msg = "Importing: $percentDone";
         $this->out($msg, 0);
-        $statisticsTable = TableRegistry::get('Statistics');
 
         // Insert
         if (! empty($this->toInsert)) {
@@ -355,7 +322,7 @@ class ImportShell extends Shell
                 $percentDone = $this->getProgress($step, $this->stepCount);
                 $msg = "Importing: $percentDone";
                 $this->_io->overwrite($msg, 0);
-                $statisticsTable->save($statEntity);
+                $this->statisticsTable->save($statEntity);
             }
         }
 
@@ -367,7 +334,7 @@ class ImportShell extends Shell
                     $percentDone = $this->getProgress($step, $this->stepCount);
                     $msg = "Importing: $percentDone";
                     $this->_io->overwrite($msg, 0);
-                    $statisticsTable->save($statEntity);
+                    $this->statisticsTable->save($statEntity);
                 }
             } else {
                 $this->out();
@@ -410,6 +377,11 @@ class ImportShell extends Shell
         return $importNames;
     }
 
+    /**
+     * Returns the definitions of each supported import
+     *
+     * @return array
+     */
     public function getImportDefinitions()
     {
         $imports = [];
