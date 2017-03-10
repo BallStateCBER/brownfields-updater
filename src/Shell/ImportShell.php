@@ -170,7 +170,7 @@ class ImportShell extends Shell
      * prompts to user to begin the import
      *
      * @param array $data Array of data for a statistics record (value, category_id, etc.)
-     * @return void
+     * @return bool
      */
     private function prepareImport($data)
     {
@@ -251,6 +251,8 @@ class ImportShell extends Shell
             }
             return false;
         }
+
+        return true;
     }
 
     /**
