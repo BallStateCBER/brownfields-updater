@@ -13,6 +13,7 @@ class ImportShell extends Shell
     public $stepCount;
     public $toInsert = [];
     public $toOverwrite = [];
+    public $autoImport;
 
     /**
      * Modifies the standard output of running 'cake import --help'
@@ -106,16 +107,24 @@ class ImportShell extends Shell
             $this->out("[$k] " . $this->helper('Colorful')->menuOption($import));
         }
         $this->out('');
-        $msg = 'Please select an import to run: ';
+        $msg = 'Please select an import to run ';
         if (count($available) > 1) {
             $msg .= '[0-' . (count($available) - 1) . ']';
         } else {
             $msg .= '[0]';
         }
-        $importNum = $this->in($msg);
-        if ($this->availableImports($importNum)) {
-            return $importNum;
+        $msg .= ' or type \'all\'';
+        $importSelection = $this->in($msg);
+
+        $this->autoImport = $importSelection == 'all';
+        if ($importSelection == 'all') {
+            return true;
         }
+
+        if ($this->availableImports($importSelection)) {
+            return $importSelection;
+        }
+
         $this->out($this->helper('Colorful')->error('Invalid selection'), 2);
 
         return $this->menu();
@@ -130,26 +139,29 @@ class ImportShell extends Shell
     public function main($importName = null)
     {
         // Process $importName parameter (e.g. "bin\cake import PopulationAge")
-        $importNum = false;
+        $importSelection = false;
         if ($importName) {
-            $importNum = array_search($importName, $this->availableImports());
-            if ($importNum === false) {
+            $importSelection = array_search($importName, $this->availableImports());
+            if ($importSelection === false) {
                 $this->out("Import \"$importName\" not found", 2);
             }
         }
 
         // Display menu of available imports
-        if ($importNum === false) {
-            $importNum = $this->menu();
+        if ($importSelection === false) {
+            $importSelection = $this->menu();
         }
 
-        // Run import
-        $importName = $this->availableImports($importNum);
-        $imports = ImportDefinitions::getDefinitions();
-        $importObj = new CsvImport($imports[$importName]);
-        $importObj->readCsv();
-        $this->prepareImport($importObj->data);
-        $this->import();
+        // Run import(s)
+        if ($this->autoImport) {
+            $importCount = count($this->availableImports());
+            for ($importNum = 0; $importNum < $importCount; $importNum++) {
+                $this->import($importNum);
+                $this->out();
+            }
+        } else {
+            $this->import($importSelection);
+        }
     }
 
     /**
@@ -162,6 +174,12 @@ class ImportShell extends Shell
      */
     private function prepareImport($data)
     {
+        // Clear saved data form previous import
+        $this->ignoreCount = 0;
+        $this->stepCount = 0;
+        $this->toInsert = [];
+        $this->toOverwrite = [];
+
         // Get totals for what was returned
         $dataPointCount = count($data);
         $msg = number_format($dataPointCount) . __n(' data point ', ' data points ', $dataPointCount) . 'found';
@@ -220,12 +238,18 @@ class ImportShell extends Shell
 
         if ($this->stepCount == 0) {
             $this->out('Nothing to import');
-            $this->_stop();
+            if (! $this->autoImport) {
+                $this->_stop();
+            }
+            return false;
         }
 
         $begin = $this->in('Begin import?', ['y', 'n'], 'y');
         if ($begin == 'n') {
-            $this->_stop();
+            if (! $this->autoImport) {
+                $this->_stop();
+            }
+            return false;
         }
     }
 
@@ -307,10 +331,27 @@ class ImportShell extends Shell
     /**
      * Prepares an import and conducts inserts and updates where appropriate
      *
+     * @param int $importNum Import number
      * @return bool
      */
-    protected function import()
+    protected function import($importNum)
     {
+        $imports = ImportDefinitions::getDefinitions();
+        $importName = $this->availableImports($importNum);
+
+        $this->out(str_pad('', strlen($importName), '-'));
+        $this->out($importName);
+        $this->out(str_pad('', strlen($importName), '-'));
+
+        $importObj = new CsvImport($imports[$importName]);
+        $this->out('Reading ' . $importObj->filename . '...');
+        $importObj->readCsv();
+
+        $prepResult = $this->prepareImport($importObj->data);
+        if (! $prepResult) {
+            return true;
+        }
+
         $step = 0;
         $percentDone = $this->getProgress($step, $this->stepCount);
         $msg = "Importing: $percentDone";
