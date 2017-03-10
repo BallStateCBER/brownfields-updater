@@ -375,11 +375,11 @@ class ImportShell extends Shell
             $this->abort('No imports are available to run');
         }
 
+        sort($importNames);
+
         if ($key !== null) {
             return isset($importNames[$key]) ? $importNames[$key] : false;
         }
-
-        sort($importNames);
 
         return $importNames;
     }
