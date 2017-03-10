@@ -36,6 +36,16 @@ class ImportDefinitions
             ]
         ];
 
+        $imports['Dependency ratio'] = [
+            'filename' => 'Demographics_DependencyRatio.csv',
+            'sourceId' => 95, // American Community Survey (https://factfinder.census.gov/...)
+            'categoryIds' => [
+                'Total Population' => 1,
+                'Total 0 to 14 years old' => 6012,
+                'Total Over 65 years old' => 6013
+            ]
+        ];
+
         return $imports;
     }
 }

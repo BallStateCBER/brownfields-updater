@@ -1,0 +1,287 @@
+Source ,American Community Survey ,,,
+Note ,Dependency Ratio,,,
+URL ,https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_15_5YR_B01001&prodType=table,,,
+,,,,
+Fips ,Geography ,Year ,Statistics ,Value 
+0,United States ,2015,Total Population,316515021
+18000,Indiana ,2015,Total Population,6568645
+18001,"Adams County, Indiana",2015,Total Population,34642
+18003,"Allen County, Indiana",2015,Total Population,363453
+18005,"Bartholomew County, Indiana",2015,Total Population,79488
+18007,"Benton County, Indiana",2015,Total Population,8752
+18009,"Blackford County, Indiana",2015,Total Population,12476
+18011,"Boone County, Indiana",2015,Total Population,60511
+18013,"Brown County, Indiana",2015,Total Population,15011
+18015,"Carroll County, Indiana",2015,Total Population,20014
+18017,"Cass County, Indiana",2015,Total Population,38476
+18019,"Clark County, Indiana",2015,Total Population,113181
+18021,"Clay County, Indiana",2015,Total Population,26686
+18023,"Clinton County, Indiana",2015,Total Population,32835
+18025,"Crawford County, Indiana",2015,Total Population,10591
+18027,"Daviess County, Indiana",2015,Total Population,32411
+18029,"Dearborn County, Indiana",2015,Total Population,49679
+18031,"Decatur County, Indiana",2015,Total Population,26240
+18033,"DeKalb County, Indiana",2015,Total Population,42449
+18035,"Delaware County, Indiana",2015,Total Population,117335
+18037,"Dubois County, Indiana",2015,Total Population,42291
+18039,"Elkhart County, Indiana",2015,Total Population,200685
+18041,"Fayette County, Indiana",2015,Total Population,23773
+18043,"Floyd County, Indiana",2015,Total Population,75900
+18045,"Fountain County, Indiana",2015,Total Population,16888
+18047,"Franklin County, Indiana",2015,Total Population,22935
+18049,"Fulton County, Indiana",2015,Total Population,20527
+18051,"Gibson County, Indiana",2015,Total Population,33668
+18053,"Grant County, Indiana",2015,Total Population,68896
+18055,"Greene County, Indiana",2015,Total Population,32815
+18057,"Hamilton County, Indiana",2015,Total Population,296635
+18059,"Hancock County, Indiana",2015,Total Population,71328
+18061,"Harrison County, Indiana",2015,Total Population,39230
+18063,"Hendricks County, Indiana",2015,Total Population,153435
+18065,"Henry County, Indiana",2015,Total Population,49146
+18067,"Howard County, Indiana",2015,Total Population,82765
+18069,"Huntington County, Indiana",2015,Total Population,36863
+18071,"Jackson County, Indiana",2015,Total Population,43471
+18073,"Jasper County, Indiana",2015,Total Population,33448
+18075,"Jay County, Indiana",2015,Total Population,21255
+18077,"Jefferson County, Indiana",2015,Total Population,32453
+18079,"Jennings County, Indiana",2015,Total Population,28113
+18081,"Johnson County, Indiana",2015,Total Population,145645
+18083,"Knox County, Indiana",2015,Total Population,38062
+18085,"Kosciusko County, Indiana",2015,Total Population,77983
+18087,"LaGrange County, Indiana",2015,Total Population,38084
+18089,"Lake County, Indiana",2015,Total Population,491596
+18091,"LaPorte County, Indiana",2015,Total Population,111280
+18093,"Lawrence County, Indiana",2015,Total Population,45814
+18095,"Madison County, Indiana",2015,Total Population,130280
+18097,"Marion County, Indiana",2015,Total Population,926335
+18099,"Marshall County, Indiana",2015,Total Population,46962
+18101,"Martin County, Indiana",2015,Total Population,10262
+18103,"Miami County, Indiana",2015,Total Population,36211
+18105,"Monroe County, Indiana",2015,Total Population,142404
+18107,"Montgomery County, Indiana",2015,Total Population,38172
+18109,"Morgan County, Indiana",2015,Total Population,69403
+18111,"Newton County, Indiana",2015,Total Population,14057
+18113,"Noble County, Indiana",2015,Total Population,47546
+18115,"Ohio County, Indiana",2015,Total Population,6033
+18117,"Orange County, Indiana",2015,Total Population,19725
+18119,"Owen County, Indiana",2015,Total Population,21192
+18121,"Parke County, Indiana",2015,Total Population,17107
+18123,"Perry County, Indiana",2015,Total Population,19414
+18125,"Pike County, Indiana",2015,Total Population,12687
+18127,"Porter County, Indiana",2015,Total Population,166570
+18129,"Posey County, Indiana",2015,Total Population,25567
+18131,"Pulaski County, Indiana",2015,Total Population,13047
+18133,"Putnam County, Indiana",2015,Total Population,37650
+18135,"Randolph County, Indiana",2015,Total Population,25596
+18137,"Ripley County, Indiana",2015,Total Population,28612
+18139,"Rush County, Indiana",2015,Total Population,16991
+18141,"St. Joseph County, Indiana",2015,Total Population,267246
+18143,"Scott County, Indiana",2015,Total Population,23783
+18145,"Shelby County, Indiana",2015,Total Population,44441
+18147,"Spencer County, Indiana",2015,Total Population,20856
+18149,"Starke County, Indiana",2015,Total Population,23117
+18151,"Steuben County, Indiana",2015,Total Population,34267
+18153,"Sullivan County, Indiana",2015,Total Population,21111
+18155,"Switzerland County, Indiana",2015,Total Population,10500
+18157,"Tippecanoe County, Indiana",2015,Total Population,180952
+18159,"Tipton County, Indiana",2015,Total Population,15573
+18161,"Union County, Indiana",2015,Total Population,7299
+18163,"Vanderburgh County, Indiana",2015,Total Population,181305
+18165,"Vermillion County, Indiana",2015,Total Population,15860
+18167,"Vigo County, Indiana",2015,Total Population,108268
+18169,"Wabash County, Indiana",2015,Total Population,32358
+18171,"Warren County, Indiana",2015,Total Population,8367
+18173,"Warrick County, Indiana",2015,Total Population,60995
+18175,"Washington County, Indiana",2015,Total Population,27930
+18177,"Wayne County, Indiana",2015,Total Population,67866
+18179,"Wells County, Indiana",2015,Total Population,27796
+18181,"White County, Indiana",2015,Total Population,24388
+18183,"Whitley County, Indiana",2015,Total Population,33330
+0,United States ,2015,Total 0 to 14 years old ,61093786
+18000,Indiana ,2015,Total 0 to 14 years old ,1314278
+18001,"Adams County, Indiana",2015,Total 0 to 14 years old ,9230
+18003,"Allen County, Indiana",2015,Total 0 to 14 years old ,80054
+18005,"Bartholomew County, Indiana",2015,Total 0 to 14 years old ,16236
+18007,"Benton County, Indiana",2015,Total 0 to 14 years old ,1842
+18009,"Blackford County, Indiana",2015,Total 0 to 14 years old ,2224
+18011,"Boone County, Indiana",2015,Total 0 to 14 years old ,13532
+18013,"Brown County, Indiana",2015,Total 0 to 14 years old ,2336
+18015,"Carroll County, Indiana",2015,Total 0 to 14 years old ,3829
+18017,"Cass County, Indiana",2015,Total 0 to 14 years old ,7613
+18019,"Clark County, Indiana",2015,Total 0 to 14 years old ,21885
+18021,"Clay County, Indiana",2015,Total 0 to 14 years old ,5157
+18023,"Clinton County, Indiana",2015,Total 0 to 14 years old ,7171
+18025,"Crawford County, Indiana",2015,Total 0 to 14 years old ,1975
+18027,"Daviess County, Indiana",2015,Total 0 to 14 years old ,8046
+18029,"Dearborn County, Indiana",2015,Total 0 to 14 years old ,9596
+18031,"Decatur County, Indiana",2015,Total 0 to 14 years old ,5370
+18033,"DeKalb County, Indiana",2015,Total 0 to 14 years old ,8764
+18035,"Delaware County, Indiana",2015,Total 0 to 14 years old ,18383
+18037,"Dubois County, Indiana",2015,Total 0 to 14 years old ,8531
+18039,"Elkhart County, Indiana",2015,Total 0 to 14 years old ,47320
+18041,"Fayette County, Indiana",2015,Total 0 to 14 years old ,4420
+18043,"Floyd County, Indiana",2015,Total 0 to 14 years old ,14544
+18045,"Fountain County, Indiana",2015,Total 0 to 14 years old ,3123
+18047,"Franklin County, Indiana",2015,Total 0 to 14 years old ,4575
+18049,"Fulton County, Indiana",2015,Total 0 to 14 years old ,4006
+18051,"Gibson County, Indiana",2015,Total 0 to 14 years old ,6606
+18053,"Grant County, Indiana",2015,Total 0 to 14 years old ,11914
+18055,"Greene County, Indiana",2015,Total 0 to 14 years old ,6125
+18057,"Hamilton County, Indiana",2015,Total 0 to 14 years old ,71436
+18059,"Hancock County, Indiana",2015,Total 0 to 14 years old ,14127
+18061,"Harrison County, Indiana",2015,Total 0 to 14 years old ,7416
+18063,"Hendricks County, Indiana",2015,Total 0 to 14 years old ,33133
+18065,"Henry County, Indiana",2015,Total 0 to 14 years old ,8351
+18067,"Howard County, Indiana",2015,Total 0 to 14 years old ,15647
+18069,"Huntington County, Indiana",2015,Total 0 to 14 years old ,6777
+18071,"Jackson County, Indiana",2015,Total 0 to 14 years old ,8810
+18073,"Jasper County, Indiana",2015,Total 0 to 14 years old ,6898
+18075,"Jay County, Indiana",2015,Total 0 to 14 years old ,4581
+18077,"Jefferson County, Indiana",2015,Total 0 to 14 years old ,5481
+18079,"Jennings County, Indiana",2015,Total 0 to 14 years old ,5595
+18081,"Johnson County, Indiana",2015,Total 0 to 14 years old ,30670
+18083,"Knox County, Indiana",2015,Total 0 to 14 years old ,6653
+18085,"Kosciusko County, Indiana",2015,Total 0 to 14 years old ,15978
+18087,"LaGrange County, Indiana",2015,Total 0 to 14 years old ,10844
+18089,"Lake County, Indiana",2015,Total 0 to 14 years old ,100196
+18091,"LaPorte County, Indiana",2015,Total 0 to 14 years old ,20243
+18093,"Lawrence County, Indiana",2015,Total 0 to 14 years old ,8407
+18095,"Madison County, Indiana",2015,Total 0 to 14 years old ,23932
+18097,"Marion County, Indiana",2015,Total 0 to 14 years old ,195901
+18099,"Marshall County, Indiana",2015,Total 0 to 14 years old ,9809
+18101,"Martin County, Indiana",2015,Total 0 to 14 years old ,1936
+18103,"Miami County, Indiana",2015,Total 0 to 14 years old ,6495
+18105,"Monroe County, Indiana",2015,Total 0 to 14 years old ,19190
+18107,"Montgomery County, Indiana",2015,Total 0 to 14 years old ,7273
+18109,"Morgan County, Indiana",2015,Total 0 to 14 years old ,13580
+18111,"Newton County, Indiana",2015,Total 0 to 14 years old ,2557
+18113,"Noble County, Indiana",2015,Total 0 to 14 years old ,10046
+18115,"Ohio County, Indiana",2015,Total 0 to 14 years old ,996
+18117,"Orange County, Indiana",2015,Total 0 to 14 years old ,3843
+18119,"Owen County, Indiana",2015,Total 0 to 14 years old ,3790
+18121,"Parke County, Indiana",2015,Total 0 to 14 years old ,3029
+18123,"Perry County, Indiana",2015,Total 0 to 14 years old ,3425
+18125,"Pike County, Indiana",2015,Total 0 to 14 years old ,2301
+18127,"Porter County, Indiana",2015,Total 0 to 14 years old ,31395
+18129,"Posey County, Indiana",2015,Total 0 to 14 years old ,4755
+18131,"Pulaski County, Indiana",2015,Total 0 to 14 years old ,2439
+18133,"Putnam County, Indiana",2015,Total 0 to 14 years old ,6091
+18135,"Randolph County, Indiana",2015,Total 0 to 14 years old ,4956
+18137,"Ripley County, Indiana",2015,Total 0 to 14 years old ,5661
+18139,"Rush County, Indiana",2015,Total 0 to 14 years old ,3158
+18141,"St. Joseph County, Indiana",2015,Total 0 to 14 years old ,53478
+18143,"Scott County, Indiana",2015,Total 0 to 14 years old ,4475
+18145,"Shelby County, Indiana",2015,Total 0 to 14 years old ,8635
+18147,"Spencer County, Indiana",2015,Total 0 to 14 years old ,3929
+18149,"Starke County, Indiana",2015,Total 0 to 14 years old ,4445
+18151,"Steuben County, Indiana",2015,Total 0 to 14 years old ,5989
+18153,"Sullivan County, Indiana",2015,Total 0 to 14 years old ,3482
+18155,"Switzerland County, Indiana",2015,Total 0 to 14 years old ,2180
+18157,"Tippecanoe County, Indiana",2015,Total 0 to 14 years old ,31553
+18159,"Tipton County, Indiana",2015,Total 0 to 14 years old ,2743
+18161,"Union County, Indiana",2015,Total 0 to 14 years old ,1318
+18163,"Vanderburgh County, Indiana",2015,Total 0 to 14 years old ,33625
+18165,"Vermillion County, Indiana",2015,Total 0 to 14 years old ,2896
+18167,"Vigo County, Indiana",2015,Total 0 to 14 years old ,18810
+18169,"Wabash County, Indiana",2015,Total 0 to 14 years old ,5715
+18171,"Warren County, Indiana",2015,Total 0 to 14 years old ,1494
+18173,"Warrick County, Indiana",2015,Total 0 to 14 years old ,12460
+18175,"Washington County, Indiana",2015,Total 0 to 14 years old ,5484
+18177,"Wayne County, Indiana",2015,Total 0 to 14 years old ,12566
+18179,"Wells County, Indiana",2015,Total 0 to 14 years old ,5578
+18181,"White County, Indiana",2015,Total 0 to 14 years old ,4778
+18183,"Whitley County, Indiana",2015,Total 0 to 14 years old ,6437
+0,United States ,2015,Total Over 65 years old ,44615477
+18000,Indiana ,2015,Total Over 65 years old ,913131
+18001,"Adams County, Indiana",2015,Total Over 65 years old ,4950
+18003,"Allen County, Indiana",2015,Total Over 65 years old ,46355
+18005,"Bartholomew County, Indiana",2015,Total Over 65 years old ,11730
+18007,"Benton County, Indiana",2015,Total Over 65 years old ,1404
+18009,"Blackford County, Indiana",2015,Total Over 65 years old ,2426
+18011,"Boone County, Indiana",2015,Total Over 65 years old ,7592
+18013,"Brown County, Indiana",2015,Total Over 65 years old ,3039
+18015,"Carroll County, Indiana",2015,Total Over 65 years old ,3469
+18017,"Cass County, Indiana",2015,Total Over 65 years old ,6086
+18019,"Clark County, Indiana",2015,Total Over 65 years old ,15590
+18021,"Clay County, Indiana",2015,Total Over 65 years old ,4291
+18023,"Clinton County, Indiana",2015,Total Over 65 years old ,5018
+18025,"Crawford County, Indiana",2015,Total Over 65 years old ,1768
+18027,"Daviess County, Indiana",2015,Total Over 65 years old ,4638
+18029,"Dearborn County, Indiana",2015,Total Over 65 years old ,7252
+18031,"Decatur County, Indiana",2015,Total Over 65 years old ,3988
+18033,"DeKalb County, Indiana",2015,Total Over 65 years old ,6064
+18035,"Delaware County, Indiana",2015,Total Over 65 years old ,18365
+18037,"Dubois County, Indiana",2015,Total Over 65 years old ,6605
+18039,"Elkhart County, Indiana",2015,Total Over 65 years old ,26076
+18041,"Fayette County, Indiana",2015,Total Over 65 years old ,4271
+18043,"Floyd County, Indiana",2015,Total Over 65 years old ,10636
+18045,"Fountain County, Indiana",2015,Total Over 65 years old ,3125
+18047,"Franklin County, Indiana",2015,Total Over 65 years old ,3521
+18049,"Fulton County, Indiana",2015,Total Over 65 years old ,3542
+18051,"Gibson County, Indiana",2015,Total Over 65 years old ,5361
+18053,"Grant County, Indiana",2015,Total Over 65 years old ,11890
+18055,"Greene County, Indiana",2015,Total Over 65 years old ,5755
+18057,"Hamilton County, Indiana",2015,Total Over 65 years old ,29464
+18059,"Hancock County, Indiana",2015,Total Over 65 years old ,10194
+18061,"Harrison County, Indiana",2015,Total Over 65 years old ,6088
+18063,"Hendricks County, Indiana",2015,Total Over 65 years old ,18306
+18065,"Henry County, Indiana",2015,Total Over 65 years old ,8632
+18067,"Howard County, Indiana",2015,Total Over 65 years old ,14576
+18069,"Huntington County, Indiana",2015,Total Over 65 years old ,5729
+18071,"Jackson County, Indiana",2015,Total Over 65 years old ,6515
+18073,"Jasper County, Indiana",2015,Total Over 65 years old ,5076
+18075,"Jay County, Indiana",2015,Total Over 65 years old ,3492
+18077,"Jefferson County, Indiana",2015,Total Over 65 years old ,5087
+18079,"Jennings County, Indiana",2015,Total Over 65 years old ,4047
+18081,"Johnson County, Indiana",2015,Total Over 65 years old ,19461
+18083,"Knox County, Indiana",2015,Total Over 65 years old ,6262
+18085,"Kosciusko County, Indiana",2015,Total Over 65 years old ,11352
+18087,"LaGrange County, Indiana",2015,Total Over 65 years old ,4717
+18089,"Lake County, Indiana",2015,Total Over 65 years old ,69742
+18091,"LaPorte County, Indiana",2015,Total Over 65 years old ,16947
+18093,"Lawrence County, Indiana",2015,Total Over 65 years old ,8034
+18095,"Madison County, Indiana",2015,Total Over 65 years old ,21527
+18097,"Marion County, Indiana",2015,Total Over 65 years old ,102636
+18099,"Marshall County, Indiana",2015,Total Over 65 years old ,7384
+18101,"Martin County, Indiana",2015,Total Over 65 years old ,1703
+18103,"Miami County, Indiana",2015,Total Over 65 years old ,5534
+18105,"Monroe County, Indiana",2015,Total Over 65 years old ,15620
+18107,"Montgomery County, Indiana",2015,Total Over 65 years old ,6269
+18109,"Morgan County, Indiana",2015,Total Over 65 years old ,10051
+18111,"Newton County, Indiana",2015,Total Over 65 years old ,2423
+18113,"Noble County, Indiana",2015,Total Over 65 years old ,6616
+18115,"Ohio County, Indiana",2015,Total Over 65 years old ,1139
+18117,"Orange County, Indiana",2015,Total Over 65 years old ,3376
+18119,"Owen County, Indiana",2015,Total Over 65 years old ,3514
+18121,"Parke County, Indiana",2015,Total Over 65 years old ,2881
+18123,"Perry County, Indiana",2015,Total Over 65 years old ,3176
+18125,"Pike County, Indiana",2015,Total Over 65 years old ,2330
+18127,"Porter County, Indiana",2015,Total Over 65 years old ,23087
+18129,"Posey County, Indiana",2015,Total Over 65 years old ,4025
+18131,"Pulaski County, Indiana",2015,Total Over 65 years old ,2326
+18133,"Putnam County, Indiana",2015,Total Over 65 years old ,5512
+18135,"Randolph County, Indiana",2015,Total Over 65 years old ,4639
+18137,"Ripley County, Indiana",2015,Total Over 65 years old ,4724
+18139,"Rush County, Indiana",2015,Total Over 65 years old ,2962
+18141,"St. Joseph County, Indiana",2015,Total Over 65 years old ,37524
+18143,"Scott County, Indiana",2015,Total Over 65 years old ,3670
+18145,"Shelby County, Indiana",2015,Total Over 65 years old ,6739
+18147,"Spencer County, Indiana",2015,Total Over 65 years old ,3584
+18149,"Starke County, Indiana",2015,Total Over 65 years old ,3779
+18151,"Steuben County, Indiana",2015,Total Over 65 years old ,5691
+18153,"Sullivan County, Indiana",2015,Total Over 65 years old ,3362
+18155,"Switzerland County, Indiana",2015,Total Over 65 years old ,1644
+18157,"Tippecanoe County, Indiana",2015,Total Over 65 years old ,18135
+18159,"Tipton County, Indiana",2015,Total Over 65 years old ,2956
+18161,"Union County, Indiana",2015,Total Over 65 years old ,1192
+18163,"Vanderburgh County, Indiana",2015,Total Over 65 years old ,27107
+18165,"Vermillion County, Indiana",2015,Total Over 65 years old ,2883
+18167,"Vigo County, Indiana",2015,Total Over 65 years old ,15352
+18169,"Wabash County, Indiana",2015,Total Over 65 years old ,6196
+18171,"Warren County, Indiana",2015,Total Over 65 years old ,1560
+18173,"Warrick County, Indiana",2015,Total Over 65 years old ,9401
+18175,"Washington County, Indiana",2015,Total Over 65 years old ,4176
+18177,"Wayne County, Indiana",2015,Total Over 65 years old ,11885
+18179,"Wells County, Indiana",2015,Total Over 65 years old ,4706
+18181,"White County, Indiana",2015,Total Over 65 years old ,4403
+18183,"Whitley County, Indiana",2015,Total Over 65 years old ,5204
