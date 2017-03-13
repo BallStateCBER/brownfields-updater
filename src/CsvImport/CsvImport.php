@@ -86,6 +86,10 @@ class CsvImport
             }
 
             $categoryId = $this->getCategoryId($row);
+            if (! $categoryId) {
+                continue;
+            }
+
             $locationTypeId = $Location->getLocationTypeId($this, $row);
             $locationCode = $Location->getLocationCode($row);
             $locationId = $Location->getIdFromCode($locationCode, $locationTypeId);
@@ -114,7 +118,7 @@ class CsvImport
             return $this->categoryId;
         }
 
-        if (isset($this->categoryIds[$row['dataCategoryName']])) {
+        if (array_key_exists($row['dataCategoryName'], $this->categoryIds)) {
             return $this->categoryIds[$row['dataCategoryName']];
         }
 
