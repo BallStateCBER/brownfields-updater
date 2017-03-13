@@ -31,8 +31,13 @@ Adding new imports
 After import
 ------------
 
-- After an import completes, update the relevant method in `/Controller/ReportsController.php` in the Brownfield 
+- After an import completes, update the report-specific method in `/Controller/ReportsController.php` in the Brownfield 
 Grant Writers' Tool with the appropriate new year.
+- If the new data belongs to different data categories than old data, update the report-specific methods in
+  - `/Model/CsvReport.php`
+  - `/Model/ExcelReport.php`
+  - `/Model/SvgChartReport.php`
+  - `/Model/TableReport.php`
+- If the relevant report description (set in the `chart_descriptions` database table) mentions the previously-used
+year, update it to the new year.
 - Load `http://brownfield.cberdata.org/data_center/pages/clear_cache` to clear old cached charts/tables.
-- If the relevant report description (set in the `chart_descriptions` database table) references data from the old 
-year, update it to reflect the new year.
