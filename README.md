@@ -26,7 +26,32 @@ for permission to overwrite existing records if appropriate.
 
 Adding new imports
 -------------------------
-(todo)
+Add a new set of parameters to the return value of `ImportDefinitions::getDefinitions()`
+```
+$imports['Name of input for menu'] = [
+    // Required
+    'filename' => 'filename.csv',
+    'sourceId' => ...,
+    
+    // Required (one of these two)  
+    'categoryId' => ..., // if a single category ID for the entire file
+    'categoryIds' => [ // if multiple
+        'Exact category name from CSV file' => {categoryId},
+        ...
+    ],
+    
+    // Optional
+    'headerRowCount' => ..., // Defaults to 5
+    'headers' => [ // Defaults to the following
+        'fips',
+        'locationName',
+        'year',
+        'dataCategoryName',
+        'value'
+    ],
+    'locationTypeId' => ... // Used if file has no 'fips' column
+];
+```
 
 After import
 ------------
