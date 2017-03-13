@@ -46,6 +46,26 @@ class ImportDefinitions
             ]
         ];
 
+        $imports['Disability age breakdown'] = [
+            'filename' => 'Demographics_DisabilityAgeBreakdown.csv',
+            'sourceId' => 96,
+            'categoryIds' => [
+                'Total' => null,
+                'Total Under 5 years' => null,
+                'Total Under 5 years old with disability' => null,
+                'Total 5-17 year' => null,
+                'Total 5-17 year old with disability' => 6014,
+                'Total 18-34 years' => null,
+                'Total 18-34 years with a disability' => 6015,
+                'Total 35-64' => null,
+                'Total 35-64 years with a disability' => 6016,
+                'Total 65-74 years old' => null,
+                'Total 65-74 with a disability' => 5803,
+                'Total 75 years and older' => null,
+                'Total 75 years and older with a disability' => 5804
+            ]
+        ];
+
         return $imports;
     }
 }
