@@ -228,6 +228,10 @@ class ImportShell extends Shell
             }
             $this->toOverwrite[] = $statEntity;
         }
+
+        $msg = "Preparing import: 100%";
+        $this->_io->overwrite($msg, 0);
+
         $this->out();
 
         $this->stepCount = 0;
@@ -394,6 +398,9 @@ class ImportShell extends Shell
                 $this->out($msg);
             }
         }
+
+        $msg = "Importing: 100%";
+        $this->_io->overwrite($msg, 0);
 
         $this->out();
         $msg = $this->helper('Colorful')->success('Import complete');
