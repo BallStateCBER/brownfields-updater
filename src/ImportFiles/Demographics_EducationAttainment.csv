@@ -1,0 +1,757 @@
+Source ,American Community Survey,,,
+Note ,Education Attainment 2015,,,
+URL ,https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_15_5YR_S1501&prodType=table,,,
+,,,,
+Fips ,Geography ,Years ,Statistics ,Value 
+0,United States,2015,Total; Estimate; Population 25 years and over,211462522
+18000,Indiana ,2015,Total; Estimate; Population 25 years and over,4316273
+18001,"Adams County, Indiana",2015,Total; Estimate; Population 25 years and over,20912
+18003,"Allen County, Indiana",2015,Total; Estimate; Population 25 years and over,233222
+18005,"Bartholomew County, Indiana",2015,Total; Estimate; Population 25 years and over,53618
+18007,"Benton County, Indiana",2015,Total; Estimate; Population 25 years and over,5892
+18009,"Blackford County, Indiana",2015,Total; Estimate; Population 25 years and over,8739
+18011,"Boone County, Indiana",2015,Total; Estimate; Population 25 years and over,39913
+18013,"Brown County, Indiana",2015,Total; Estimate; Population 25 years and over,11036
+18015,"Carroll County, Indiana",2015,Total; Estimate; Population 25 years and over,13748
+18017,"Cass County, Indiana",2015,Total; Estimate; Population 25 years and over,25838
+18019,"Clark County, Indiana",2015,Total; Estimate; Population 25 years and over,77603
+18021,"Clay County, Indiana",2015,Total; Estimate; Population 25 years and over,18235
+18023,"Clinton County, Indiana",2015,Total; Estimate; Population 25 years and over,21499
+18025,"Crawford County, Indiana",2015,Total; Estimate; Population 25 years and over,7389
+18027,"Daviess County, Indiana",2015,Total; Estimate; Population 25 years and over,20092
+18029,"Dearborn County, Indiana",2015,Total; Estimate; Population 25 years and over,33990
+18031,"Decatur County, Indiana",2015,Total; Estimate; Population 25 years and over,17634
+18033,"DeKalb County, Indiana",2015,Total; Estimate; Population 25 years and over,28125
+18035,"Delaware County, Indiana",2015,Total; Estimate; Population 25 years and over,71099
+18037,"Dubois County, Indiana",2015,Total; Estimate; Population 25 years and over,28503
+18039,"Elkhart County, Indiana",2015,Total; Estimate; Population 25 years and over,126571
+18041,"Fayette County, Indiana",2015,Total; Estimate; Population 25 years and over,16551
+18043,"Floyd County, Indiana",2015,Total; Estimate; Population 25 years and over,51455
+18045,"Fountain County, Indiana",2015,Total; Estimate; Population 25 years and over,11656
+18047,"Franklin County, Indiana",2015,Total; Estimate; Population 25 years and over,15561
+18049,"Fulton County, Indiana",2015,Total; Estimate; Population 25 years and over,13991
+18051,"Gibson County, Indiana",2015,Total; Estimate; Population 25 years and over,22878
+18053,"Grant County, Indiana",2015,Total; Estimate; Population 25 years and over,45070
+18055,"Greene County, Indiana",2015,Total; Estimate; Population 25 years and over,22774
+18057,"Hamilton County, Indiana",2015,Total; Estimate; Population 25 years and over,190788
+18059,"Hancock County, Indiana",2015,Total; Estimate; Population 25 years and over,48118
+18061,"Harrison County, Indiana",2015,Total; Estimate; Population 25 years and over,27167
+18063,"Hendricks County, Indiana",2015,Total; Estimate; Population 25 years and over,100853
+18065,"Henry County, Indiana",2015,Total; Estimate; Population 25 years and over,34723
+18067,"Howard County, Indiana",2015,Total; Estimate; Population 25 years and over,57030
+18069,"Huntington County, Indiana",2015,Total; Estimate; Population 25 years and over,24821
+18071,"Jackson County, Indiana",2015,Total; Estimate; Population 25 years and over,29371
+18073,"Jasper County, Indiana",2015,Total; Estimate; Population 25 years and over,22029
+18075,"Jay County, Indiana",2015,Total; Estimate; Population 25 years and over,13920
+18077,"Jefferson County, Indiana",2015,Total; Estimate; Population 25 years and over,21976
+18079,"Jennings County, Indiana",2015,Total; Estimate; Population 25 years and over,18691
+18081,"Johnson County, Indiana",2015,Total; Estimate; Population 25 years and over,96050
+18083,"Knox County, Indiana",2015,Total; Estimate; Population 25 years and over,24882
+18085,"Kosciusko County, Indiana",2015,Total; Estimate; Population 25 years and over,51316
+18087,"LaGrange County, Indiana",2015,Total; Estimate; Population 25 years and over,21662
+18089,"Lake County, Indiana",2015,Total; Estimate; Population 25 years and over,325777
+18091,"LaPorte County, Indiana",2015,Total; Estimate; Population 25 years and over,77149
+18093,"Lawrence County, Indiana",2015,Total; Estimate; Population 25 years and over,32002
+18095,"Madison County, Indiana",2015,Total; Estimate; Population 25 years and over,89672
+18097,"Marion County, Indiana",2015,Total; Estimate; Population 25 years and over,603299
+18099,"Marshall County, Indiana",2015,Total; Estimate; Population 25 years and over,30883
+18101,"Martin County, Indiana",2015,Total; Estimate; Population 25 years and over,7131
+18103,"Miami County, Indiana",2015,Total; Estimate; Population 25 years and over,24915
+18105,"Monroe County, Indiana",2015,Total; Estimate; Population 25 years and over,79416
+18107,"Montgomery County, Indiana",2015,Total; Estimate; Population 25 years and over,25465
+18109,"Morgan County, Indiana",2015,Total; Estimate; Population 25 years and over,47126
+18111,"Newton County, Indiana",2015,Total; Estimate; Population 25 years and over,9843
+18113,"Noble County, Indiana",2015,Total; Estimate; Population 25 years and over,31266
+18115,"Ohio County, Indiana",2015,Total; Estimate; Population 25 years and over,4397
+18117,"Orange County, Indiana",2015,Total; Estimate; Population 25 years and over,13437
+18119,"Owen County, Indiana",2015,Total; Estimate; Population 25 years and over,14932
+18121,"Parke County, Indiana",2015,Total; Estimate; Population 25 years and over,12066
+18123,"Perry County, Indiana",2015,Total; Estimate; Population 25 years and over,13657
+18125,"Pike County, Indiana",2015,Total; Estimate; Population 25 years and over,8977
+18127,"Porter County, Indiana",2015,Total; Estimate; Population 25 years and over,112289
+18129,"Posey County, Indiana",2015,Total; Estimate; Population 25 years and over,17633
+18131,"Pulaski County, Indiana",2015,Total; Estimate; Population 25 years and over,9031
+18133,"Putnam County, Indiana",2015,Total; Estimate; Population 25 years and over,24705
+18135,"Randolph County, Indiana",2015,Total; Estimate; Population 25 years and over,17583
+18137,"Ripley County, Indiana",2015,Total; Estimate; Population 25 years and over,19321
+18139,"Rush County, Indiana",2015,Total; Estimate; Population 25 years and over,11670
+18141,"St. Joseph County, Indiana",2015,Total; Estimate; Population 25 years and over,172854
+18143,"Scott County, Indiana",2015,Total; Estimate; Population 25 years and over,16254
+18145,"Shelby County, Indiana",2015,Total; Estimate; Population 25 years and over,30456
+18147,"Spencer County, Indiana",2015,Total; Estimate; Population 25 years and over,14471
+18149,"Starke County, Indiana",2015,Total; Estimate; Population 25 years and over,15800
+18151,"Steuben County, Indiana",2015,Total; Estimate; Population 25 years and over,23141
+18153,"Sullivan County, Indiana",2015,Total; Estimate; Population 25 years and over,15024
+18155,"Switzerland County, Indiana",2015,Total; Estimate; Population 25 years and over,7055
+18157,"Tippecanoe County, Indiana",2015,Total; Estimate; Population 25 years and over,99327
+18159,"Tipton County, Indiana",2015,Total; Estimate; Population 25 years and over,10981
+18161,"Union County, Indiana",2015,Total; Estimate; Population 25 years and over,4963
+18163,"Vanderburgh County, Indiana",2015,Total; Estimate; Population 25 years and over,121733
+18165,"Vermillion County, Indiana",2015,Total; Estimate; Population 25 years and over,11097
+18167,"Vigo County, Indiana",2015,Total; Estimate; Population 25 years and over,69381
+18169,"Wabash County, Indiana",2015,Total; Estimate; Population 25 years and over,22061
+18171,"Warren County, Indiana",2015,Total; Estimate; Population 25 years and over,5933
+18173,"Warrick County, Indiana",2015,Total; Estimate; Population 25 years and over,41492
+18175,"Washington County, Indiana",2015,Total; Estimate; Population 25 years and over,18908
+18177,"Wayne County, Indiana",2015,Total; Estimate; Population 25 years and over,46353
+18179,"Wells County, Indiana",2015,Total; Estimate; Population 25 years and over,18746
+18181,"White County, Indiana",2015,Total; Estimate; Population 25 years and over,16792
+18183,"Whitley County, Indiana",2015,Total; Estimate; Population 25 years and over,22818
+0,United States,2015,Total; Estimate; Population 25 years and over - Less than 9th grade,12093869
+18000,Indiana ,2015,Total; Estimate; Population 25 years and over - Less than 9th grade,172868
+18001,"Adams County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,1551
+18003,"Allen County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,8983
+18005,"Bartholomew County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,1710
+18007,"Benton County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,102
+18009,"Blackford County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,379
+18011,"Boone County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,852
+18013,"Brown County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,217
+18015,"Carroll County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,583
+18017,"Cass County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,1708
+18019,"Clark County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,3162
+18021,"Clay County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,632
+18023,"Clinton County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,1393
+18025,"Crawford County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,379
+18027,"Daviess County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,2734
+18029,"Dearborn County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,995
+18031,"Decatur County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,600
+18033,"DeKalb County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,974
+18035,"Delaware County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,2312
+18037,"Dubois County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,1701
+18039,"Elkhart County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,10544
+18041,"Fayette County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,1051
+18043,"Floyd County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,1740
+18045,"Fountain County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,501
+18047,"Franklin County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,684
+18049,"Fulton County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,530
+18051,"Gibson County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,684
+18053,"Grant County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,1660
+18055,"Greene County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,934
+18057,"Hamilton County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,2109
+18059,"Hancock County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,571
+18061,"Harrison County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,938
+18063,"Hendricks County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,1832
+18065,"Henry County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,1394
+18067,"Howard County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,1994
+18069,"Huntington County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,566
+18071,"Jackson County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,1245
+18073,"Jasper County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,635
+18075,"Jay County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,661
+18077,"Jefferson County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,867
+18079,"Jennings County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,878
+18081,"Johnson County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,1846
+18083,"Knox County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,615
+18085,"Kosciusko County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,2499
+18087,"LaGrange County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,6027
+18089,"Lake County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,15660
+18091,"LaPorte County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,2763
+18093,"Lawrence County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,1170
+18095,"Madison County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,2898
+18097,"Marion County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,30007
+18099,"Marshall County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,2104
+18101,"Martin County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,378
+18103,"Miami County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,1022
+18105,"Monroe County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,1862
+18107,"Montgomery County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,653
+18109,"Morgan County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,1072
+18111,"Newton County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,361
+18113,"Noble County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,2079
+18115,"Ohio County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,151
+18117,"Orange County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,777
+18119,"Owen County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,730
+18121,"Parke County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,583
+18123,"Perry County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,599
+18125,"Pike County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,297
+18127,"Porter County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,2312
+18129,"Posey County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,320
+18131,"Pulaski County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,425
+18133,"Putnam County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,839
+18135,"Randolph County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,939
+18137,"Ripley County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,695
+18139,"Rush County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,524
+18141,"St. Joseph County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,6170
+18143,"Scott County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,1209
+18145,"Shelby County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,1080
+18147,"Spencer County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,464
+18149,"Starke County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,947
+18151,"Steuben County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,613
+18153,"Sullivan County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,570
+18155,"Switzerland County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,322
+18157,"Tippecanoe County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,3356
+18159,"Tipton County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,435
+18161,"Union County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,116
+18163,"Vanderburgh County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,3525
+18165,"Vermillion County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,287
+18167,"Vigo County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,2151
+18169,"Wabash County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,813
+18171,"Warren County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,239
+18173,"Warrick County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,712
+18175,"Washington County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,1177
+18177,"Wayne County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,1979
+18179,"Wells County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,401
+18181,"White County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,573
+18183,"Whitley County, Indiana",2015,Total; Estimate; Population 25 years and over - Less than 9th grade,537
+0,United States,2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",16135225
+18000,Indiana ,2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",351986
+18001,"Adams County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",1548
+18003,"Allen County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",15953
+18005,"Bartholomew County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",3511
+18007,"Benton County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",549
+18009,"Blackford County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",886
+18011,"Boone County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",1807
+18013,"Brown County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",910
+18015,"Carroll County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",1069
+18017,"Cass County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",2727
+18019,"Clark County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",6748
+18021,"Clay County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",1685
+18023,"Clinton County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",1562
+18025,"Crawford County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",924
+18027,"Daviess County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",2322
+18029,"Dearborn County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",2268
+18031,"Decatur County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",1412
+18033,"DeKalb County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",2378
+18035,"Delaware County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",5738
+18037,"Dubois County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",1746
+18039,"Elkhart County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",13784
+18041,"Fayette County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",2191
+18043,"Floyd County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",3811
+18045,"Fountain County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",937
+18047,"Franklin County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",1350
+18049,"Fulton County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",1533
+18051,"Gibson County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",1659
+18053,"Grant County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",4510
+18055,"Greene County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",2355
+18057,"Hamilton County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",5252
+18059,"Hancock County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",2313
+18061,"Harrison County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",2379
+18063,"Hendricks County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",4452
+18065,"Henry County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",3281
+18067,"Howard County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",4803
+18069,"Huntington County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",1980
+18071,"Jackson County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",2424
+18073,"Jasper County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",2025
+18075,"Jay County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",1551
+18077,"Jefferson County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",2065
+18079,"Jennings County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",2140
+18081,"Johnson County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",5821
+18083,"Knox County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",2383
+18085,"Kosciusko County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",5009
+18087,"LaGrange County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",1987
+18089,"Lake County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",26016
+18091,"LaPorte County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",7560
+18093,"Lawrence County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",2882
+18095,"Madison County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",8504
+18097,"Marion County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",60225
+18099,"Marshall County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",2677
+18101,"Martin County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",832
+18103,"Miami County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",2784
+18105,"Monroe County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",4209
+18107,"Montgomery County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",2300
+18109,"Morgan County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",4460
+18111,"Newton County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",1015
+18113,"Noble County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",2820
+18115,"Ohio County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",405
+18117,"Orange County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",1512
+18119,"Owen County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",1762
+18121,"Parke County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",1176
+18123,"Perry County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",1354
+18125,"Pike County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",929
+18127,"Porter County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",6741
+18129,"Posey County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",842
+18131,"Pulaski County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",831
+18133,"Putnam County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",2144
+18135,"Randolph County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",1608
+18137,"Ripley County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",1777
+18139,"Rush County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",1138
+18141,"St. Joseph County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",14599
+18143,"Scott County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",1555
+18145,"Shelby County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",2823
+18147,"Spencer County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",1134
+18149,"Starke County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",1850
+18151,"Steuben County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",1804
+18153,"Sullivan County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",1582
+18155,"Switzerland County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",784
+18157,"Tippecanoe County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",6298
+18159,"Tipton County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",840
+18161,"Union County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",480
+18163,"Vanderburgh County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",8733
+18165,"Vermillion County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",947
+18167,"Vigo County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",6611
+18169,"Wabash County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",1803
+18171,"Warren County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",426
+18173,"Warrick County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",2126
+18175,"Washington County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",1837
+18177,"Wayne County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",5425
+18179,"Wells County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",1339
+18181,"White County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",1183
+18183,"Whitley County, Indiana",2015,"Total; Estimate; Population 25 years and over - 9th to 12th grade, no diploma",1566
+0,United States,2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),58722528
+18000,Indiana ,2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),1494302
+18001,"Adams County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),9221
+18003,"Allen County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),68616
+18005,"Bartholomew County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),18380
+18007,"Benton County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),2662
+18009,"Blackford County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),4325
+18011,"Boone County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),10652
+18013,"Brown County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),4185
+18015,"Carroll County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),5680
+18017,"Cass County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),10537
+18019,"Clark County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),26408
+18021,"Clay County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),8182
+18023,"Clinton County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),9797
+18025,"Crawford County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),3669
+18027,"Daviess County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),7467
+18029,"Dearborn County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),13475
+18031,"Decatur County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),7991
+18033,"DeKalb County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),11406
+18035,"Delaware County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),25252
+18037,"Dubois County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),11938
+18039,"Elkhart County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),46665
+18041,"Fayette County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),7086
+18043,"Floyd County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),16537
+18045,"Fountain County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),5147
+18047,"Franklin County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),6626
+18049,"Fulton County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),6106
+18051,"Gibson County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),9212
+18053,"Grant County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),18691
+18055,"Greene County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),9369
+18057,"Hamilton County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),30369
+18059,"Hancock County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),16033
+18061,"Harrison County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),11384
+18063,"Hendricks County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),29191
+18065,"Henry County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),15102
+18067,"Howard County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),20735
+18069,"Huntington County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),10770
+18071,"Jackson County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),14130
+18073,"Jasper County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),9424
+18075,"Jay County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),6759
+18077,"Jefferson County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),8676
+18079,"Jennings County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),8863
+18081,"Johnson County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),32510
+18083,"Knox County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),9400
+18085,"Kosciusko County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),19333
+18087,"LaGrange County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),7165
+18089,"Lake County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),115279
+18091,"LaPorte County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),30260
+18093,"Lawrence County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),13743
+18095,"Madison County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),35101
+18097,"Marion County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),171868
+18099,"Marshall County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),12496
+18101,"Martin County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),3072
+18103,"Miami County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),10634
+18105,"Monroe County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),17718
+18107,"Montgomery County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),11247
+18109,"Morgan County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),19600
+18111,"Newton County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),4873
+18113,"Noble County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),12852
+18115,"Ohio County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),2172
+18117,"Orange County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),6249
+18119,"Owen County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),6521
+18121,"Parke County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),4890
+18123,"Perry County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),6986
+18125,"Pike County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),4196
+18127,"Porter County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),39503
+18129,"Posey County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),6970
+18131,"Pulaski County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),4168
+18133,"Putnam County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),10562
+18135,"Randolph County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),7745
+18137,"Ripley County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),8679
+18139,"Rush County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),5531
+18141,"St. Joseph County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),53853
+18143,"Scott County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),6928
+18145,"Shelby County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),13417
+18147,"Spencer County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),6306
+18149,"Starke County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),6690
+18151,"Steuben County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),8823
+18153,"Sullivan County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),6330
+18155,"Switzerland County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),3287
+18157,"Tippecanoe County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),26425
+18159,"Tipton County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),4444
+18161,"Union County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),2114
+18163,"Vanderburgh County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),41949
+18165,"Vermillion County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),4869
+18167,"Vigo County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),23330
+18169,"Wabash County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),9365
+18171,"Warren County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),2601
+18173,"Warrick County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),14023
+18175,"Washington County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),8678
+18177,"Wayne County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),17901
+18179,"Wells County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),7839
+18181,"White County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),7443
+18183,"Whitley County, Indiana",2015,Total; Estimate; Population 25 years and over - High school graduate (includes equivalency),9646
+0,United States,2015,"Total; Estimate; Population 25 years and over - Some college, no degree",44529161
+18000,Indiana ,2015,"Total; Estimate; Population 25 years and over - Some college, no degree",901226
+18001,"Adams County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",3890
+18003,"Allen County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",53799
+18005,"Bartholomew County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",9639
+18007,"Benton County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",1102
+18009,"Blackford County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",1519
+18011,"Boone County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",6348
+18013,"Brown County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",2349
+18015,"Carroll County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",2849
+18017,"Cass County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",5162
+18019,"Clark County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",18275
+18021,"Clay County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",3249
+18023,"Clinton County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",3969
+18025,"Crawford County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",1236
+18027,"Daviess County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",2915
+18029,"Dearborn County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",7344
+18031,"Decatur County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",3337
+18033,"DeKalb County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",6017
+18035,"Delaware County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",15540
+18037,"Dubois County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",4365
+18039,"Elkhart County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",24794
+18041,"Fayette County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",3322
+18043,"Floyd County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",11629
+18045,"Fountain County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",2614
+18047,"Franklin County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",2579
+18049,"Fulton County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",2912
+18051,"Gibson County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",4991
+18053,"Grant County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",8982
+18055,"Greene County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",4568
+18057,"Hamilton County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",33913
+18059,"Hancock County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",10921
+18061,"Harrison County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",5878
+18063,"Hendricks County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",22756
+18065,"Henry County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",6875
+18067,"Howard County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",13773
+18069,"Huntington County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",4943
+18071,"Jackson County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",4897
+18073,"Jasper County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",4920
+18075,"Jay County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",2455
+18077,"Jefferson County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",4910
+18079,"Jennings County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",3458
+18081,"Johnson County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",19431
+18083,"Knox County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",4750
+18085,"Kosciusko County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",10313
+18087,"LaGrange County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",3119
+18089,"Lake County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",75856
+18091,"LaPorte County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",16908
+18093,"Lawrence County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",6354
+18095,"Madison County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",19510
+18097,"Marion County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",127713
+18099,"Marshall County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",5548
+18101,"Martin County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",1208
+18103,"Miami County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",5596
+18105,"Monroe County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",14429
+18107,"Montgomery County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",5247
+18109,"Morgan County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",9738
+18111,"Newton County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",1957
+18113,"Noble County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",6399
+18115,"Ohio County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",682
+18117,"Orange County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",2599
+18119,"Owen County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",3280
+18121,"Parke County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",2709
+18123,"Perry County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",2174
+18125,"Pike County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",1770
+18127,"Porter County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",23547
+18129,"Posey County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",4075
+18131,"Pulaski County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",2025
+18133,"Putnam County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",5322
+18135,"Randolph County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",3551
+18137,"Ripley County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",3454
+18139,"Rush County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",2119
+18141,"St. Joseph County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",36686
+18143,"Scott County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",3175
+18145,"Shelby County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",6243
+18147,"Spencer County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",2910
+18149,"Starke County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",3048
+18151,"Steuben County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",5138
+18153,"Sullivan County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",2733
+18155,"Switzerland County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",1400
+18157,"Tippecanoe County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",20427
+18159,"Tipton County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",2159
+18161,"Union County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",1012
+18163,"Vanderburgh County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",28190
+18165,"Vermillion County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",2460
+18167,"Vigo County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",15867
+18169,"Wabash County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",4359
+18171,"Warren County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",1019
+18173,"Warrick County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",9203
+18175,"Washington County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",3350
+18177,"Wayne County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",9321
+18179,"Wells County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",3943
+18181,"White County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",3354
+18183,"Whitley County, Indiana",2015,"Total; Estimate; Population 25 years and over - Some college, no degree",4852
+0,United States,2015,Total; Estimate; Population 25 years and over - Associate's degree,17029467
+18000,Indiana ,2015,Total; Estimate; Population 25 years and over - Associate's degree,355635
+18001,"Adams County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,1567
+18003,"Allen County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,22867
+18005,"Bartholomew County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,4599
+18007,"Benton County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,479
+18009,"Blackford County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,745
+18011,"Boone County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,3202
+18013,"Brown County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,914
+18015,"Carroll County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,1225
+18017,"Cass County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,2045
+18019,"Clark County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,7402
+18021,"Clay County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,1736
+18023,"Clinton County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,1525
+18025,"Crawford County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,464
+18027,"Daviess County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,1894
+18029,"Dearborn County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,3289
+18031,"Decatur County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,1429
+18033,"DeKalb County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,2556
+18035,"Delaware County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,5728
+18037,"Dubois County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,3424
+18039,"Elkhart County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,7826
+18041,"Fayette County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,1279
+18043,"Floyd County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,4445
+18045,"Fountain County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,868
+18047,"Franklin County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,1326
+18049,"Fulton County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,1064
+18051,"Gibson County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,2887
+18053,"Grant County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,3450
+18055,"Greene County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,2421
+18057,"Hamilton County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,12530
+18059,"Hancock County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,4682
+18061,"Harrison County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,2245
+18063,"Hendricks County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,8943
+18065,"Henry County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,2661
+18067,"Howard County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,4949
+18069,"Huntington County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,2093
+18071,"Jackson County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,2266
+18073,"Jasper County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,1646
+18075,"Jay County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,1086
+18077,"Jefferson County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,1595
+18079,"Jennings County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,1409
+18081,"Johnson County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,9050
+18083,"Knox County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,3942
+18085,"Kosciusko County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,3537
+18087,"LaGrange County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,1234
+18089,"Lake County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,26467
+18091,"LaPorte County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,6417
+18093,"Lawrence County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,3443
+18095,"Madison County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,7939
+18097,"Marion County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,42723
+18099,"Marshall County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,2420
+18101,"Martin County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,777
+18103,"Miami County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,1911
+18105,"Monroe County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,5479
+18107,"Montgomery County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,1945
+18109,"Morgan County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,4855
+18111,"Newton County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,684
+18113,"Noble County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,2644
+18115,"Ohio County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,419
+18117,"Orange County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,770
+18119,"Owen County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,1071
+18121,"Parke County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,1083
+18123,"Perry County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,980
+18125,"Pike County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,741
+18127,"Porter County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,10557
+18129,"Posey County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,1794
+18131,"Pulaski County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,554
+18133,"Putnam County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,2075
+18135,"Randolph County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,1573
+18137,"Ripley County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,1544
+18139,"Rush County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,624
+18141,"St. Joseph County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,13235
+18143,"Scott County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,1412
+18145,"Shelby County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,2382
+18147,"Spencer County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,1493
+18149,"Starke County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,1431
+18151,"Steuben County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,2141
+18153,"Sullivan County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,1829
+18155,"Switzerland County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,623
+18157,"Tippecanoe County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,7897
+18159,"Tipton County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,974
+18161,"Union County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,317
+18163,"Vanderburgh County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,9921
+18165,"Vermillion County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,1033
+18167,"Vigo County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,5834
+18169,"Wabash County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,1570
+18171,"Warren County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,542
+18173,"Warrick County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,4219
+18175,"Washington County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,1527
+18177,"Wayne County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,3660
+18179,"Wells County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,1931
+18181,"White County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,1630
+18183,"Whitley County, Indiana",2015,Total; Estimate; Population 25 years and over - Associate's degree,2021
+0,United States,2015,Total; Estimate; Population 25 years and over - Bachelor's degree,39166047
+18000,Indiana ,2015,Total; Estimate; Population 25 years and over - Bachelor's degree,664747
+18001,"Adams County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,2061
+18003,"Allen County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,40881
+18005,"Bartholomew County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,9697
+18007,"Benton County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,709
+18009,"Blackford County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,575
+18011,"Boone County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,10178
+18013,"Brown County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,1229
+18015,"Carroll County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,1564
+18017,"Cass County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,2373
+18019,"Clark County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,11035
+18021,"Clay County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,1755
+18023,"Clinton County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,2233
+18025,"Crawford County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,419
+18027,"Daviess County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,1626
+18029,"Dearborn County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,4472
+18031,"Decatur County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,1890
+18033,"DeKalb County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,3220
+18035,"Delaware County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,9478
+18037,"Dubois County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,3682
+18039,"Elkhart County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,15620
+18041,"Fayette County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,1106
+18043,"Floyd County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,8448
+18045,"Fountain County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,1049
+18047,"Franklin County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,2001
+18049,"Fulton County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,1267
+18051,"Gibson County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,2396
+18053,"Grant County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,4771
+18055,"Greene County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,1941
+18057,"Hamilton County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,67794
+18059,"Hancock County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,8860
+18061,"Harrison County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,2813
+18063,"Hendricks County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,23731
+18065,"Henry County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,3553
+18067,"Howard County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,6923
+18069,"Huntington County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,2769
+18071,"Jackson County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,2879
+18073,"Jasper County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,2138
+18075,"Jay County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,923
+18077,"Jefferson County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,2341
+18079,"Jennings County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,1264
+18081,"Johnson County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,18649
+18083,"Knox County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,2422
+18085,"Kosciusko County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,6906
+18087,"LaGrange County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,1272
+18089,"Lake County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,45035
+18091,"LaPorte County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,8400
+18093,"Lawrence County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,2894
+18095,"Madison County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,10702
+18097,"Marion County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,111349
+18099,"Marshall County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,3558
+18101,"Martin County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,471
+18103,"Miami County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,1921
+18105,"Monroe County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,17699
+18107,"Montgomery County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,2690
+18109,"Morgan County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,4830
+18111,"Newton County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,637
+18113,"Noble County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,3123
+18115,"Ohio County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,404
+18117,"Orange County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,950
+18119,"Owen County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,896
+18121,"Parke County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,1101
+18123,"Perry County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,817
+18125,"Pike County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,661
+18127,"Porter County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,18608
+18129,"Posey County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,2479
+18131,"Pulaski County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,736
+18133,"Putnam County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,2149
+18135,"Randolph County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,1290
+18137,"Ripley County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,2232
+18139,"Rush County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,1017
+18141,"St. Joseph County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,29255
+18143,"Scott County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,1341
+18145,"Shelby County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,2802
+18147,"Spencer County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,1315
+18149,"Starke County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,1204
+18151,"Steuben County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,3172
+18153,"Sullivan County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,1417
+18155,"Switzerland County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,458
+18157,"Tippecanoe County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,19647
+18159,"Tipton County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,1462
+18161,"Union County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,606
+18163,"Vanderburgh County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,19180
+18165,"Vermillion County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,1072
+18167,"Vigo County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,9589
+18169,"Wabash County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,2428
+18171,"Warren County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,737
+18173,"Warrick County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,7047
+18175,"Washington County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,1177
+18177,"Wayne County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,4711
+18179,"Wells County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,2214
+18181,"White County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,1732
+18183,"Whitley County, Indiana",2015,Total; Estimate; Population 25 years and over - Bachelor's degree,2619
+0,United States,2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,23786225
+18000,Indiana ,2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,375509
+18001,"Adams County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,1074
+18003,"Allen County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,22123
+18005,"Bartholomew County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,6082
+18007,"Benton County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,289
+18009,"Blackford County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,310
+18011,"Boone County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,6874
+18013,"Brown County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,1232
+18015,"Carroll County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,778
+18017,"Cass County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,1286
+18019,"Clark County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,4573
+18021,"Clay County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,996
+18023,"Clinton County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,1020
+18025,"Crawford County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,298
+18027,"Daviess County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,1134
+18029,"Dearborn County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,2147
+18031,"Decatur County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,975
+18033,"DeKalb County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,1574
+18035,"Delaware County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,7051
+18037,"Dubois County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,1647
+18039,"Elkhart County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,7338
+18041,"Fayette County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,516
+18043,"Floyd County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,4845
+18045,"Fountain County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,540
+18047,"Franklin County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,995
+18049,"Fulton County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,579
+18051,"Gibson County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,1049
+18053,"Grant County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,3006
+18055,"Greene County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,1186
+18057,"Hamilton County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,38821
+18059,"Hancock County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,4738
+18061,"Harrison County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,1530
+18063,"Hendricks County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,9948
+18065,"Henry County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,1857
+18067,"Howard County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,3853
+18069,"Huntington County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,1700
+18071,"Jackson County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,1530
+18073,"Jasper County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,1241
+18075,"Jay County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,485
+18077,"Jefferson County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,1522
+18079,"Jennings County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,679
+18081,"Johnson County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,8743
+18083,"Knox County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,1370
+18085,"Kosciusko County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,3719
+18087,"LaGrange County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,858
+18089,"Lake County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,21464
+18091,"LaPorte County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,4841
+18093,"Lawrence County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,1516
+18095,"Madison County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,5018
+18097,"Marion County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,59414
+18099,"Marshall County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,2080
+18101,"Martin County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,393
+18103,"Miami County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,1047
+18105,"Monroe County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,18020
+18107,"Montgomery County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,1383
+18109,"Morgan County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,2571
+18111,"Newton County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,316
+18113,"Noble County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,1349
+18115,"Ohio County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,164
+18117,"Orange County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,580
+18119,"Owen County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,672
+18121,"Parke County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,524
+18123,"Perry County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,747
+18125,"Pike County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,383
+18127,"Porter County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,11021
+18129,"Posey County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,1153
+18131,"Pulaski County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,292
+18133,"Putnam County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,1614
+18135,"Randolph County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,877
+18137,"Ripley County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,940
+18139,"Rush County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,717
+18141,"St. Joseph County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,19056
+18143,"Scott County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,634
+18145,"Shelby County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,1709
+18147,"Spencer County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,849
+18149,"Starke County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,630
+18151,"Steuben County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,1450
+18153,"Sullivan County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,563
+18155,"Switzerland County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,181
+18157,"Tippecanoe County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,15277
+18159,"Tipton County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,667
+18161,"Union County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,318
+18163,"Vanderburgh County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,10235
+18165,"Vermillion County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,429
+18167,"Vigo County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,5999
+18169,"Wabash County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,1723
+18171,"Warren County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,369
+18173,"Warrick County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,4162
+18175,"Washington County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,1162
+18177,"Wayne County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,3356
+18179,"Wells County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,1079
+18181,"White County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,877
+18183,"Whitley County, Indiana",2015,Total; Estimate; Population 25 years and over - Graduate or professional degree,1577

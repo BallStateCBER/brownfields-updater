@@ -75,6 +75,22 @@ class ImportDefinitions
             ]
         ];
 
+        $prefix = 'Total; Estimate; Population 25 years and over';
+        $imports['Educational attainment'] = [
+            'filename' => 'Demographics_EducationAttainment.csv',
+            'sourceId' => 98,
+            'categoryIds' => [
+                $prefix => 453,
+                "$prefix - Less than 9th grade" => 6017,
+                "$prefix - 9th to 12th grade, no diploma" => 456,
+                "$prefix - High school graduate (includes equivalency)" => 457,
+                "$prefix - Some college, no degree" => 6018,
+                "$prefix - Associate's degree" => 460,
+                "$prefix - Bachelor's degree" => 461,
+                "$prefix - Graduate or professional degree" => 6019
+            ]
+        ];
+
         return $imports;
     }
 }
