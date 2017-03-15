@@ -66,6 +66,15 @@ class ImportDefinitions
             ]
         ];
 
+        $imports['Disabled population'] = [
+            'filename' => 'Demographics_DisabilityPopulation.csv',
+            'sourceId' => 97,
+            'categoryIds' => [
+                'Total Population' => null,
+                'Total Population with a disability' => 5794
+            ]
+        ];
+
         return $imports;
     }
 }

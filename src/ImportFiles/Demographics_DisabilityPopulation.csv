@@ -1,0 +1,193 @@
+Source ,American Community Survey,,,
+Note ,Disability Population ,,,
+URL ,https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_15_5YR_S1810&prodType=table-Indiana Countries ,,,
+,,,,
+Fips ,Geography ,Years,Statistics ,Value
+0,United States ,2015,Total Population ,311516332
+18000,Indiana,2015,Total Population ,6468964
+18001,"Adams County, Indiana",2015,Total Population ,34218
+18003,"Allen County, Indiana",2015,Total Population ,359824
+18005,"Bartholomew County, Indiana",2015,Total Population ,78566
+18007,"Benton County, Indiana",2015,Total Population ,8667
+18009,"Blackford County, Indiana",2015,Total Population ,12304
+18011,"Boone County, Indiana",2015,Total Population ,59913
+18013,"Brown County, Indiana",2015,Total Population ,14880
+18015,"Carroll County, Indiana",2015,Total Population ,19899
+18017,"Cass County, Indiana",2015,Total Population ,37820
+18019,"Clark County, Indiana",2015,Total Population ,111627
+18021,"Clay County, Indiana",2015,Total Population ,26366
+18023,"Clinton County, Indiana",2015,Total Population ,32184
+18025,"Crawford County, Indiana",2015,Total Population ,10532
+18027,"Daviess County, Indiana",2015,Total Population ,31951
+18029,"Dearborn County, Indiana",2015,Total Population ,49118
+18031,"Decatur County, Indiana",2015,Total Population ,25922
+18033,"DeKalb County, Indiana",2015,Total Population ,42076
+18035,"Delaware County, Indiana",2015,Total Population ,115861
+18037,"Dubois County, Indiana",2015,Total Population ,41495
+18039,"Elkhart County, Indiana",2015,Total Population ,198214
+18041,"Fayette County, Indiana",2015,Total Population ,23452
+18043,"Floyd County, Indiana",2015,Total Population ,74903
+18045,"Fountain County, Indiana",2015,Total Population ,16715
+18047,"Franklin County, Indiana",2015,Total Population ,22854
+18049,"Fulton County, Indiana",2015,Total Population ,20298
+18051,"Gibson County, Indiana",2015,Total Population ,33115
+18053,"Grant County, Indiana",2015,Total Population ,67943
+18055,"Greene County, Indiana",2015,Total Population ,32532
+18057,"Hamilton County, Indiana",2015,Total Population ,295067
+18059,"Hancock County, Indiana",2015,Total Population ,70706
+18061,"Harrison County, Indiana",2015,Total Population ,39023
+18063,"Hendricks County, Indiana",2015,Total Population ,150597
+18065,"Henry County, Indiana",2015,Total Population ,45929
+18067,"Howard County, Indiana",2015,Total Population ,81829
+18069,"Huntington County, Indiana",2015,Total Population ,36376
+18071,"Jackson County, Indiana",2015,Total Population ,42839
+18073,"Jasper County, Indiana",2015,Total Population ,33101
+18075,"Jay County, Indiana",2015,Total Population ,21039
+18077,"Jefferson County, Indiana",2015,Total Population ,31004
+18079,"Jennings County, Indiana",2015,Total Population ,27859
+18081,"Johnson County, Indiana",2015,Total Population ,143494
+18083,"Knox County, Indiana",2015,Total Population ,37249
+18085,"Kosciusko County, Indiana",2015,Total Population ,77233
+18087,"LaGrange County, Indiana",2015,Total Population ,37916
+18089,"Lake County, Indiana",2015,Total Population ,488067
+18091,"LaPorte County, Indiana",2015,Total Population ,102412
+18093,"Lawrence County, Indiana",2015,Total Population ,45141
+18095,"Madison County, Indiana",2015,Total Population ,125139
+18097,"Marion County, Indiana",2015,Total Population ,916471
+18099,"Marshall County, Indiana",2015,Total Population ,46483
+18101,"Martin County, Indiana",2015,Total Population ,10169
+18103,"Miami County, Indiana",2015,Total Population ,34162
+18105,"Monroe County, Indiana",2015,Total Population ,141477
+18107,"Montgomery County, Indiana",2015,Total Population ,37643
+18109,"Morgan County, Indiana",2015,Total Population ,68670
+18111,"Newton County, Indiana",2015,Total Population ,13854
+18113,"Noble County, Indiana",2015,Total Population ,46727
+18115,"Ohio County, Indiana",2015,Total Population ,5981
+18117,"Orange County, Indiana",2015,Total Population ,19472
+18119,"Owen County, Indiana",2015,Total Population ,21033
+18121,"Parke County, Indiana",2015,Total Population ,15579
+18123,"Perry County, Indiana",2015,Total Population ,17667
+18125,"Pike County, Indiana",2015,Total Population ,12463
+18127,"Porter County, Indiana",2015,Total Population ,165194
+18129,"Posey County, Indiana",2015,Total Population ,25316
+18131,"Pulaski County, Indiana",2015,Total Population ,12881
+18133,"Putnam County, Indiana",2015,Total Population ,34374
+18135,"Randolph County, Indiana",2015,Total Population ,25238
+18137,"Ripley County, Indiana",2015,Total Population ,28150
+18139,"Rush County, Indiana",2015,Total Population ,16804
+18141,"St. Joseph County, Indiana",2015,Total Population ,264729
+18143,"Scott County, Indiana",2015,Total Population ,23435
+18145,"Shelby County, Indiana",2015,Total Population ,43728
+18147,"Spencer County, Indiana",2015,Total Population ,20638
+18149,"Starke County, Indiana",2015,Total Population ,23112
+18151,"Steuben County, Indiana",2015,Total Population ,33987
+18153,"Sullivan County, Indiana",2015,Total Population ,18933
+18155,"Switzerland County, Indiana",2015,Total Population ,10388
+18157,"Tippecanoe County, Indiana",2015,Total Population ,179254
+18159,"Tipton County, Indiana",2015,Total Population ,15387
+18161,"Union County, Indiana",2015,Total Population ,7237
+18163,"Vanderburgh County, Indiana",2015,Total Population ,178797
+18165,"Vermillion County, Indiana",2015,Total Population ,15649
+18167,"Vigo County, Indiana",2015,Total Population ,103989
+18169,"Wabash County, Indiana",2015,Total Population ,31394
+18171,"Warren County, Indiana",2015,Total Population ,8275
+18173,"Warrick County, Indiana",2015,Total Population ,60254
+18175,"Washington County, Indiana",2015,Total Population ,27652
+18177,"Wayne County, Indiana",2015,Total Population ,66730
+18179,"Wells County, Indiana",2015,Total Population ,27231
+18181,"White County, Indiana",2015,Total Population ,24139
+18183,"Whitley County, Indiana",2015,Total Population ,32949
+0,United States ,2015,Total Population with a disability ,38601898
+18000,Indiana,2015,Total Population with a disability ,870896
+18001,"Adams County, Indiana",2015,Total Population with a disability ,4354
+18003,"Allen County, Indiana",2015,Total Population with a disability ,42465
+18005,"Bartholomew County, Indiana",2015,Total Population with a disability ,9579
+18007,"Benton County, Indiana",2015,Total Population with a disability ,1580
+18009,"Blackford County, Indiana",2015,Total Population with a disability ,2568
+18011,"Boone County, Indiana",2015,Total Population with a disability ,5839
+18013,"Brown County, Indiana",2015,Total Population with a disability ,1739
+18015,"Carroll County, Indiana",2015,Total Population with a disability ,3041
+18017,"Cass County, Indiana",2015,Total Population with a disability ,5412
+18019,"Clark County, Indiana",2015,Total Population with a disability ,17019
+18021,"Clay County, Indiana",2015,Total Population with a disability ,4523
+18023,"Clinton County, Indiana",2015,Total Population with a disability ,4243
+18025,"Crawford County, Indiana",2015,Total Population with a disability ,2249
+18027,"Daviess County, Indiana",2015,Total Population with a disability ,4325
+18029,"Dearborn County, Indiana",2015,Total Population with a disability ,5831
+18031,"Decatur County, Indiana",2015,Total Population with a disability ,3640
+18033,"DeKalb County, Indiana",2015,Total Population with a disability ,7127
+18035,"Delaware County, Indiana",2015,Total Population with a disability ,19323
+18037,"Dubois County, Indiana",2015,Total Population with a disability ,4013
+18039,"Elkhart County, Indiana",2015,Total Population with a disability ,26303
+18041,"Fayette County, Indiana",2015,Total Population with a disability ,4470
+18043,"Floyd County, Indiana",2015,Total Population with a disability ,10154
+18045,"Fountain County, Indiana",2015,Total Population with a disability ,2793
+18047,"Franklin County, Indiana",2015,Total Population with a disability ,3103
+18049,"Fulton County, Indiana",2015,Total Population with a disability ,3429
+18051,"Gibson County, Indiana",2015,Total Population with a disability ,4999
+18053,"Grant County, Indiana",2015,Total Population with a disability ,11876
+18055,"Greene County, Indiana",2015,Total Population with a disability ,5962
+18057,"Hamilton County, Indiana",2015,Total Population with a disability ,20923
+18059,"Hancock County, Indiana",2015,Total Population with a disability ,9214
+18061,"Harrison County, Indiana",2015,Total Population with a disability ,6882
+18063,"Hendricks County, Indiana",2015,Total Population with a disability ,15481
+18065,"Henry County, Indiana",2015,Total Population with a disability ,7486
+18067,"Howard County, Indiana",2015,Total Population with a disability ,14300
+18069,"Huntington County, Indiana",2015,Total Population with a disability ,5253
+18071,"Jackson County, Indiana",2015,Total Population with a disability ,5582
+18073,"Jasper County, Indiana",2015,Total Population with a disability ,4443
+18075,"Jay County, Indiana",2015,Total Population with a disability ,3394
+18077,"Jefferson County, Indiana",2015,Total Population with a disability ,4697
+18079,"Jennings County, Indiana",2015,Total Population with a disability ,4476
+18081,"Johnson County, Indiana",2015,Total Population with a disability ,14606
+18083,"Knox County, Indiana",2015,Total Population with a disability ,5684
+18085,"Kosciusko County, Indiana",2015,Total Population with a disability ,10115
+18087,"LaGrange County, Indiana",2015,Total Population with a disability ,3785
+18089,"Lake County, Indiana",2015,Total Population with a disability ,66308
+18091,"LaPorte County, Indiana",2015,Total Population with a disability ,13880
+18093,"Lawrence County, Indiana",2015,Total Population with a disability ,7445
+18095,"Madison County, Indiana",2015,Total Population with a disability ,22534
+18097,"Marion County, Indiana",2015,Total Population with a disability ,126071
+18099,"Marshall County, Indiana",2015,Total Population with a disability ,6103
+18101,"Martin County, Indiana",2015,Total Population with a disability ,1423
+18103,"Miami County, Indiana",2015,Total Population with a disability ,5783
+18105,"Monroe County, Indiana",2015,Total Population with a disability ,14617
+18107,"Montgomery County, Indiana",2015,Total Population with a disability ,5513
+18109,"Morgan County, Indiana",2015,Total Population with a disability ,10281
+18111,"Newton County, Indiana",2015,Total Population with a disability ,2006
+18113,"Noble County, Indiana",2015,Total Population with a disability ,5865
+18115,"Ohio County, Indiana",2015,Total Population with a disability ,820
+18117,"Orange County, Indiana",2015,Total Population with a disability ,3566
+18119,"Owen County, Indiana",2015,Total Population with a disability ,3694
+18121,"Parke County, Indiana",2015,Total Population with a disability ,2506
+18123,"Perry County, Indiana",2015,Total Population with a disability ,2595
+18125,"Pike County, Indiana",2015,Total Population with a disability ,2294
+18127,"Porter County, Indiana",2015,Total Population with a disability ,18376
+18129,"Posey County, Indiana",2015,Total Population with a disability ,3127
+18131,"Pulaski County, Indiana",2015,Total Population with a disability ,2313
+18133,"Putnam County, Indiana",2015,Total Population with a disability ,5281
+18135,"Randolph County, Indiana",2015,Total Population with a disability ,4061
+18137,"Ripley County, Indiana",2015,Total Population with a disability ,3913
+18139,"Rush County, Indiana",2015,Total Population with a disability ,2280
+18141,"St. Joseph County, Indiana",2015,Total Population with a disability ,34823
+18143,"Scott County, Indiana",2015,Total Population with a disability ,4090
+18145,"Shelby County, Indiana",2015,Total Population with a disability ,5684
+18147,"Spencer County, Indiana",2015,Total Population with a disability ,2769
+18149,"Starke County, Indiana",2015,Total Population with a disability ,4021
+18151,"Steuben County, Indiana",2015,Total Population with a disability ,4958
+18153,"Sullivan County, Indiana",2015,Total Population with a disability ,3372
+18155,"Switzerland County, Indiana",2015,Total Population with a disability ,1561
+18157,"Tippecanoe County, Indiana",2015,Total Population with a disability ,17216
+18159,"Tipton County, Indiana",2015,Total Population with a disability ,2673
+18161,"Union County, Indiana",2015,Total Population with a disability ,1025
+18163,"Vanderburgh County, Indiana",2015,Total Population with a disability ,25720
+18165,"Vermillion County, Indiana",2015,Total Population with a disability ,2642
+18167,"Vigo County, Indiana",2015,Total Population with a disability ,17614
+18169,"Wabash County, Indiana",2015,Total Population with a disability ,4759
+18171,"Warren County, Indiana",2015,Total Population with a disability ,1311
+18173,"Warrick County, Indiana",2015,Total Population with a disability ,6792
+18175,"Washington County, Indiana",2015,Total Population with a disability ,4907
+18177,"Wayne County, Indiana",2015,Total Population with a disability ,11700
+18179,"Wells County, Indiana",2015,Total Population with a disability ,3556
+18181,"White County, Indiana",2015,Total Population with a disability ,3737
+18183,"Whitley County, Indiana",2015,Total Population with a disability ,5031
