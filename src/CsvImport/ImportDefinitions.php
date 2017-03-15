@@ -91,6 +91,17 @@ class ImportDefinitions
             ]
         ];
 
+        $imports['Female age breakdown'] = [
+            'filename' => 'Demographics_FemalesAgeBreakdown.csv',
+            'sourceId' => 99,
+            'categoryIds' => [
+                'Total Females' => 271,
+                'Total 0 to 14' => 5735,
+                'Total 15 to 44' => 5736,
+                'Total Over 44' => 5737
+            ]
+        ];
+
         return $imports;
     }
 }

@@ -1,0 +1,381 @@
+Source ,American Community Survey ,,,
+Note ,Female Age Breakdown ,,,
+URL ,https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_15_5YR_B01001&prodType=table,,,
+,,,,
+Fips,Geography ,Years ,Statistics ,Values 
+0,United States,2015,Total Females ,160780741
+18000,Indiana,2015,Total Females ,3333382
+18001,"Adams County, Indiana",2015,Total Females ,17540
+18003,"Allen County, Indiana",2015,Total Females ,186152
+18005,"Bartholomew County, Indiana",2015,Total Females ,39954
+18007,"Benton County, Indiana",2015,Total Females ,4385
+18009,"Blackford County, Indiana",2015,Total Females ,6321
+18011,"Boone County, Indiana",2015,Total Females ,30514
+18013,"Brown County, Indiana",2015,Total Females ,7490
+18015,"Carroll County, Indiana",2015,Total Females ,10067
+18017,"Cass County, Indiana",2015,Total Females ,19233
+18019,"Clark County, Indiana",2015,Total Females ,57632
+18021,"Clay County, Indiana",2015,Total Females ,13607
+18023,"Clinton County, Indiana",2015,Total Females ,16670
+18025,"Crawford County, Indiana",2015,Total Females ,5244
+18027,"Daviess County, Indiana",2015,Total Females ,16179
+18029,"Dearborn County, Indiana",2015,Total Females ,24913
+18031,"Decatur County, Indiana",2015,Total Females ,13255
+18033,"DeKalb County, Indiana",2015,Total Females ,21317
+18035,"Delaware County, Indiana",2015,Total Females ,61041
+18037,"Dubois County, Indiana",2015,Total Females ,21178
+18039,"Elkhart County, Indiana",2015,Total Females ,101510
+18041,"Fayette County, Indiana",2015,Total Females ,12026
+18043,"Floyd County, Indiana",2015,Total Females ,39106
+18045,"Fountain County, Indiana",2015,Total Females ,8427
+18047,"Franklin County, Indiana",2015,Total Females ,11489
+18049,"Fulton County, Indiana",2015,Total Females ,10271
+18051,"Gibson County, Indiana",2015,Total Females ,16813
+18053,"Grant County, Indiana",2015,Total Females ,35906
+18055,"Greene County, Indiana",2015,Total Females ,16517
+18057,"Hamilton County, Indiana",2015,Total Females ,151737
+18059,"Hancock County, Indiana",2015,Total Females ,36423
+18061,"Harrison County, Indiana",2015,Total Females ,19618
+18063,"Hendricks County, Indiana",2015,Total Females ,76939
+18065,"Henry County, Indiana",2015,Total Females ,23775
+18067,"Howard County, Indiana",2015,Total Females ,42849
+18069,"Huntington County, Indiana",2015,Total Females ,18747
+18071,"Jackson County, Indiana",2015,Total Females ,21758
+18073,"Jasper County, Indiana",2015,Total Females ,16857
+18075,"Jay County, Indiana",2015,Total Females ,10812
+18077,"Jefferson County, Indiana",2015,Total Females ,16918
+18079,"Jennings County, Indiana",2015,Total Females ,13979
+18081,"Johnson County, Indiana",2015,Total Females ,73975
+18083,"Knox County, Indiana",2015,Total Females ,18798
+18085,"Kosciusko County, Indiana",2015,Total Females ,39113
+18087,"LaGrange County, Indiana",2015,Total Females ,18851
+18089,"Lake County, Indiana",2015,Total Females ,253884
+18091,"LaPorte County, Indiana",2015,Total Females ,53705
+18093,"Lawrence County, Indiana",2015,Total Females ,23177
+18095,"Madison County, Indiana",2015,Total Females ,65072
+18097,"Marion County, Indiana",2015,Total Females ,479963
+18099,"Marshall County, Indiana",2015,Total Females ,23627
+18101,"Martin County, Indiana",2015,Total Females ,5086
+18103,"Miami County, Indiana",2015,Total Females ,16729
+18105,"Monroe County, Indiana",2015,Total Females ,71574
+18107,"Montgomery County, Indiana",2015,Total Females ,18794
+18109,"Morgan County, Indiana",2015,Total Females ,35065
+18111,"Newton County, Indiana",2015,Total Females ,6957
+18113,"Noble County, Indiana",2015,Total Females ,23720
+18115,"Ohio County, Indiana",2015,Total Females ,3018
+18117,"Orange County, Indiana",2015,Total Females ,9942
+18119,"Owen County, Indiana",2015,Total Females ,10487
+18121,"Parke County, Indiana",2015,Total Females ,9009
+18123,"Perry County, Indiana",2015,Total Females ,9007
+18125,"Pike County, Indiana",2015,Total Females ,6314
+18127,"Porter County, Indiana",2015,Total Females ,84612
+18129,"Posey County, Indiana",2015,Total Females ,12859
+18131,"Pulaski County, Indiana",2015,Total Females ,6424
+18133,"Putnam County, Indiana",2015,Total Females ,17683
+18135,"Randolph County, Indiana",2015,Total Females ,13109
+18137,"Ripley County, Indiana",2015,Total Females ,14548
+18139,"Rush County, Indiana",2015,Total Females ,8577
+18141,"St. Joseph County, Indiana",2015,Total Females ,137789
+18143,"Scott County, Indiana",2015,Total Females ,12098
+18145,"Shelby County, Indiana",2015,Total Females ,22542
+18147,"Spencer County, Indiana",2015,Total Females ,10299
+18149,"Starke County, Indiana",2015,Total Females ,11722
+18151,"Steuben County, Indiana",2015,Total Females ,16888
+18153,"Sullivan County, Indiana",2015,Total Females ,9571
+18155,"Switzerland County, Indiana",2015,Total Females ,5057
+18157,"Tippecanoe County, Indiana",2015,Total Females ,88586
+18159,"Tipton County, Indiana",2015,Total Females ,7797
+18161,"Union County, Indiana",2015,Total Females ,3618
+18163,"Vanderburgh County, Indiana",2015,Total Females ,93644
+18165,"Vermillion County, Indiana",2015,Total Females ,8075
+18167,"Vigo County, Indiana",2015,Total Females ,53316
+18169,"Wabash County, Indiana",2015,Total Females ,16464
+18171,"Warren County, Indiana",2015,Total Females ,4208
+18173,"Warrick County, Indiana",2015,Total Females ,30824
+18175,"Washington County, Indiana",2015,Total Females ,14063
+18177,"Wayne County, Indiana",2015,Total Females ,34942
+18179,"Wells County, Indiana",2015,Total Females ,14087
+18181,"White County, Indiana",2015,Total Females ,12281
+18183,"Whitley County, Indiana",2015,Total Females ,16663
+0,United States,2015,Total 0 to 14,29886053
+18000,Indiana,2015,Total 0 to 14,641769
+18001,"Adams County, Indiana",2015,Total 0 to 14,4485
+18003,"Allen County, Indiana",2015,Total 0 to 14,39379
+18005,"Bartholomew County, Indiana",2015,Total 0 to 14,8095
+18007,"Benton County, Indiana",2015,Total 0 to 14,859
+18009,"Blackford County, Indiana",2015,Total 0 to 14,1049
+18011,"Boone County, Indiana",2015,Total 0 to 14,6445
+18013,"Brown County, Indiana",2015,Total 0 to 14,1165
+18015,"Carroll County, Indiana",2015,Total 0 to 14,1874
+18017,"Cass County, Indiana",2015,Total 0 to 14,3667
+18019,"Clark County, Indiana",2015,Total 0 to 14,10647
+18021,"Clay County, Indiana",2015,Total 0 to 14,2541
+18023,"Clinton County, Indiana",2015,Total 0 to 14,3509
+18025,"Crawford County, Indiana",2015,Total 0 to 14,957
+18027,"Daviess County, Indiana",2015,Total 0 to 14,3839
+18029,"Dearborn County, Indiana",2015,Total 0 to 14,4709
+18031,"Decatur County, Indiana",2015,Total 0 to 14,2661
+18033,"DeKalb County, Indiana",2015,Total 0 to 14,4249
+18035,"Delaware County, Indiana",2015,Total 0 to 14,9152
+18037,"Dubois County, Indiana",2015,Total 0 to 14,4126
+18039,"Elkhart County, Indiana",2015,Total 0 to 14,23164
+18041,"Fayette County, Indiana",2015,Total 0 to 14,2133
+18043,"Floyd County, Indiana",2015,Total 0 to 14,7200
+18045,"Fountain County, Indiana",2015,Total 0 to 14,1465
+18047,"Franklin County, Indiana",2015,Total 0 to 14,2184
+18049,"Fulton County, Indiana",2015,Total 0 to 14,1909
+18051,"Gibson County, Indiana",2015,Total 0 to 14,3096
+18053,"Grant County, Indiana",2015,Total 0 to 14,5885
+18055,"Greene County, Indiana",2015,Total 0 to 14,3075
+18057,"Hamilton County, Indiana",2015,Total 0 to 14,35118
+18059,"Hancock County, Indiana",2015,Total 0 to 14,6937
+18061,"Harrison County, Indiana",2015,Total 0 to 14,3605
+18063,"Hendricks County, Indiana",2015,Total 0 to 14,16238
+18065,"Henry County, Indiana",2015,Total 0 to 14,4048
+18067,"Howard County, Indiana",2015,Total 0 to 14,7630
+18069,"Huntington County, Indiana",2015,Total 0 to 14,3297
+18071,"Jackson County, Indiana",2015,Total 0 to 14,4213
+18073,"Jasper County, Indiana",2015,Total 0 to 14,3423
+18075,"Jay County, Indiana",2015,Total 0 to 14,2218
+18077,"Jefferson County, Indiana",2015,Total 0 to 14,2676
+18079,"Jennings County, Indiana",2015,Total 0 to 14,2654
+18081,"Johnson County, Indiana",2015,Total 0 to 14,14689
+18083,"Knox County, Indiana",2015,Total 0 to 14,3213
+18085,"Kosciusko County, Indiana",2015,Total 0 to 14,7841
+18087,"LaGrange County, Indiana",2015,Total 0 to 14,5152
+18089,"Lake County, Indiana",2015,Total 0 to 14,48937
+18091,"LaPorte County, Indiana",2015,Total 0 to 14,10050
+18093,"Lawrence County, Indiana",2015,Total 0 to 14,4051
+18095,"Madison County, Indiana",2015,Total 0 to 14,11599
+18097,"Marion County, Indiana",2015,Total 0 to 14,95778
+18099,"Marshall County, Indiana",2015,Total 0 to 14,4727
+18101,"Martin County, Indiana",2015,Total 0 to 14,924
+18103,"Miami County, Indiana",2015,Total 0 to 14,3149
+18105,"Monroe County, Indiana",2015,Total 0 to 14,9305
+18107,"Montgomery County, Indiana",2015,Total 0 to 14,3446
+18109,"Morgan County, Indiana",2015,Total 0 to 14,6608
+18111,"Newton County, Indiana",2015,Total 0 to 14,1213
+18113,"Noble County, Indiana",2015,Total 0 to 14,4919
+18115,"Ohio County, Indiana",2015,Total 0 to 14,483
+18117,"Orange County, Indiana",2015,Total 0 to 14,1856
+18119,"Owen County, Indiana",2015,Total 0 to 14,1766
+18121,"Parke County, Indiana",2015,Total 0 to 14,1454
+18123,"Perry County, Indiana",2015,Total 0 to 14,1663
+18125,"Pike County, Indiana",2015,Total 0 to 14,1126
+18127,"Porter County, Indiana",2015,Total 0 to 14,15447
+18129,"Posey County, Indiana",2015,Total 0 to 14,2350
+18131,"Pulaski County, Indiana",2015,Total 0 to 14,1168
+18133,"Putnam County, Indiana",2015,Total 0 to 14,2920
+18135,"Randolph County, Indiana",2015,Total 0 to 14,2533
+18137,"Ripley County, Indiana",2015,Total 0 to 14,2831
+18139,"Rush County, Indiana",2015,Total 0 to 14,1565
+18141,"St. Joseph County, Indiana",2015,Total 0 to 14,26214
+18143,"Scott County, Indiana",2015,Total 0 to 14,2233
+18145,"Shelby County, Indiana",2015,Total 0 to 14,4306
+18147,"Spencer County, Indiana",2015,Total 0 to 14,1896
+18149,"Starke County, Indiana",2015,Total 0 to 14,2205
+18151,"Steuben County, Indiana",2015,Total 0 to 14,2983
+18153,"Sullivan County, Indiana",2015,Total 0 to 14,1655
+18155,"Switzerland County, Indiana",2015,Total 0 to 14,999
+18157,"Tippecanoe County, Indiana",2015,Total 0 to 14,15514
+18159,"Tipton County, Indiana",2015,Total 0 to 14,1290
+18161,"Union County, Indiana",2015,Total 0 to 14,578
+18163,"Vanderburgh County, Indiana",2015,Total 0 to 14,16415
+18165,"Vermillion County, Indiana",2015,Total 0 to 14,1398
+18167,"Vigo County, Indiana",2015,Total 0 to 14,9087
+18169,"Wabash County, Indiana",2015,Total 0 to 14,2826
+18171,"Warren County, Indiana",2015,Total 0 to 14,749
+18173,"Warrick County, Indiana",2015,Total 0 to 14,6032
+18175,"Washington County, Indiana",2015,Total 0 to 14,2711
+18177,"Wayne County, Indiana",2015,Total 0 to 14,6119
+18179,"Wells County, Indiana",2015,Total 0 to 14,2800
+18181,"White County, Indiana",2015,Total 0 to 14,2325
+18183,"Whitley County, Indiana",2015,Total 0 to 14,3095
+0,United States,2015,Total 15 to 44  ,63127294
+18000,Indiana,2015,Total 15 to 44  ,1291074
+18001,"Adams County, Indiana",2015,Total 15 to 44,6062
+18003,"Allen County, Indiana",2015,Total 15 to 44,72924
+18005,"Bartholomew County, Indiana",2015,Total 15 to 44,14753
+18007,"Benton County, Indiana",2015,Total 15 to 44,1488
+18009,"Blackford County, Indiana",2015,Total 15 to 44,2069
+18011,"Boone County, Indiana",2015,Total 15 to 44,11205
+18013,"Brown County, Indiana",2015,Total 15 to 44,2157
+18015,"Carroll County, Indiana",2015,Total 15 to 44,3455
+18017,"Cass County, Indiana",2015,Total 15 to 44,6807
+18019,"Clark County, Indiana",2015,Total 15 to 44,22198
+18021,"Clay County, Indiana",2015,Total 15 to 44,4944
+18023,"Clinton County, Indiana",2015,Total 15 to 44,5932
+18025,"Crawford County, Indiana",2015,Total 15 to 44,1788
+18027,"Daviess County, Indiana",2015,Total 15 to 44,5679
+18029,"Dearborn County, Indiana",2015,Total 15 to 44,8729
+18031,"Decatur County, Indiana",2015,Total 15 to 44,4693
+18033,"DeKalb County, Indiana",2015,Total 15 to 44,7819
+18035,"Delaware County, Indiana",2015,Total 15 to 44,26982
+18037,"Dubois County, Indiana",2015,Total 15 to 44,7316
+18039,"Elkhart County, Indiana",2015,Total 15 to 44,38504
+18041,"Fayette County, Indiana",2015,Total 15 to 44,4037
+18043,"Floyd County, Indiana",2015,Total 15 to 44,14628
+18045,"Fountain County, Indiana",2015,Total 15 to 44,2878
+18047,"Franklin County, Indiana",2015,Total 15 to 44,3998
+18049,"Fulton County, Indiana",2015,Total 15 to 44,3515
+18051,"Gibson County, Indiana",2015,Total 15 to 44,5980
+18053,"Grant County, Indiana",2015,Total 15 to 44,13778
+18055,"Greene County, Indiana",2015,Total 15 to 44,5580
+18057,"Hamilton County, Indiana",2015,Total 15 to 44,60595
+18059,"Hancock County, Indiana",2015,Total 15 to 44,13361
+18061,"Harrison County, Indiana",2015,Total 15 to 44,6854
+18063,"Hendricks County, Indiana",2015,Total 15 to 44,30093
+18065,"Henry County, Indiana",2015,Total 15 to 44,8079
+18067,"Howard County, Indiana",2015,Total 15 to 44,14931
+18069,"Huntington County, Indiana",2015,Total 15 to 44,6931
+18071,"Jackson County, Indiana",2015,Total 15 to 44,8060
+18073,"Jasper County, Indiana",2015,Total 15 to 44,6064
+18075,"Jay County, Indiana",2015,Total 15 to 44,3777
+18077,"Jefferson County, Indiana",2015,Total 15 to 44,6773
+18079,"Jennings County, Indiana",2015,Total 15 to 44,5169
+18081,"Johnson County, Indiana",2015,Total 15 to 44,28709
+18083,"Knox County, Indiana",2015,Total 15 to 44,6806
+18085,"Kosciusko County, Indiana",2015,Total 15 to 44,14458
+18087,"LaGrange County, Indiana",2015,Total 15 to 44,6975
+18089,"Lake County, Indiana",2015,Total 15 to 44,95657
+18091,"LaPorte County, Indiana",2015,Total 15 to 44,18799
+18093,"Lawrence County, Indiana",2015,Total 15 to 44,8013
+18095,"Madison County, Indiana",2015,Total 15 to 44,23678
+18097,"Marion County, Indiana",2015,Total 15 to 44,203963
+18099,"Marshall County, Indiana",2015,Total 15 to 44,8298
+18101,"Martin County, Indiana",2015,Total 15 to 44,1692
+18103,"Miami County, Indiana",2015,Total 15 to 44,5828
+18105,"Monroe County, Indiana",2015,Total 15 to 44,38648
+18107,"Montgomery County, Indiana",2015,Total 15 to 44,6565
+18109,"Morgan County, Indiana",2015,Total 15 to 44,12609
+18111,"Newton County, Indiana",2015,Total 15 to 44,2377
+18113,"Noble County, Indiana",2015,Total 15 to 44,8670
+18115,"Ohio County, Indiana",2015,Total 15 to 44,978
+18117,"Orange County, Indiana",2015,Total 15 to 44,3422
+18119,"Owen County, Indiana",2015,Total 15 to 44,3503
+18121,"Parke County, Indiana",2015,Total 15 to 44,3497
+18123,"Perry County, Indiana",2015,Total 15 to 44,2956
+18125,"Pike County, Indiana",2015,Total 15 to 44,2075
+18127,"Porter County, Indiana",2015,Total 15 to 44,32297
+18129,"Posey County, Indiana",2015,Total 15 to 44,4418
+18131,"Pulaski County, Indiana",2015,Total 15 to 44,2144
+18133,"Putnam County, Indiana",2015,Total 15 to 44,6974
+18135,"Randolph County, Indiana",2015,Total 15 to 44,4368
+18137,"Ripley County, Indiana",2015,Total 15 to 44,5122
+18139,"Rush County, Indiana",2015,Total 15 to 44,2922
+18141,"St. Joseph County, Indiana",2015,Total 15 to 44,54641
+18143,"Scott County, Indiana",2015,Total 15 to 44,4413
+18145,"Shelby County, Indiana",2015,Total 15 to 44,7892
+18147,"Spencer County, Indiana",2015,Total 15 to 44,3448
+18149,"Starke County, Indiana",2015,Total 15 to 44,4101
+18151,"Steuben County, Indiana",2015,Total 15 to 44,5916
+18153,"Sullivan County, Indiana",2015,Total 15 to 44,3333
+18155,"Switzerland County, Indiana",2015,Total 15 to 44,1757
+18157,"Tippecanoe County, Indiana",2015,Total 15 to 44,44192
+18159,"Tipton County, Indiana",2015,Total 15 to 44,2524
+18161,"Union County, Indiana",2015,Total 15 to 44,1278
+18163,"Vanderburgh County, Indiana",2015,Total 15 to 44,36631
+18165,"Vermillion County, Indiana",2015,Total 15 to 44,2718
+18167,"Vigo County, Indiana",2015,Total 15 to 44,21868
+18169,"Wabash County, Indiana",2015,Total 15 to 44,5610
+18171,"Warren County, Indiana",2015,Total 15 to 44,1382
+18173,"Warrick County, Indiana",2015,Total 15 to 44,10677
+18175,"Washington County, Indiana",2015,Total 15 to 44,4943
+18177,"Wayne County, Indiana",2015,Total 15 to 44,12303
+18179,"Wells County, Indiana",2015,Total 15 to 44,4704
+18181,"White County, Indiana",2015,Total 15 to 44,4009
+18183,"Whitley County, Indiana",2015,Total 15 to 44,5728
+0,United States,2015,Total Over 44,67767394
+18000,Indiana,2015,Total Over 44,1400539
+18001,"Adams County, Indiana",2015,Total Over 44,6993
+18003,"Allen County, Indiana",2015,Total Over 44,73849
+18005,"Bartholomew County, Indiana",2015,Total Over 44,17106
+18007,"Benton County, Indiana",2015,Total Over 44,2038
+18009,"Blackford County, Indiana",2015,Total Over 44,3203
+18011,"Boone County, Indiana",2015,Total Over 44,12864
+18013,"Brown County, Indiana",2015,Total Over 44,4168
+18015,"Carroll County, Indiana",2015,Total Over 44,4738
+18017,"Cass County, Indiana",2015,Total Over 44,8759
+18019,"Clark County, Indiana",2015,Total Over 44,24787
+18021,"Clay County, Indiana",2015,Total Over 44,6122
+18023,"Clinton County, Indiana",2015,Total Over 44,7229
+18025,"Crawford County, Indiana",2015,Total Over 44,2499
+18027,"Daviess County, Indiana",2015,Total Over 44,6661
+18029,"Dearborn County, Indiana",2015,Total Over 44,11475
+18031,"Decatur County, Indiana",2015,Total Over 44,5901
+18033,"DeKalb County, Indiana",2015,Total Over 44,9249
+18035,"Delaware County, Indiana",2015,Total Over 44,24907
+18037,"Dubois County, Indiana",2015,Total Over 44,9736
+18039,"Elkhart County, Indiana",2015,Total Over 44,39842
+18041,"Fayette County, Indiana",2015,Total Over 44,5856
+18043,"Floyd County, Indiana",2015,Total Over 44,17278
+18045,"Fountain County, Indiana",2015,Total Over 44,4084
+18047,"Franklin County, Indiana",2015,Total Over 44,5307
+18049,"Fulton County, Indiana",2015,Total Over 44,4847
+18051,"Gibson County, Indiana",2015,Total Over 44,7737
+18053,"Grant County, Indiana",2015,Total Over 44,16243
+18055,"Greene County, Indiana",2015,Total Over 44,7862
+18057,"Hamilton County, Indiana",2015,Total Over 44,56024
+18059,"Hancock County, Indiana",2015,Total Over 44,16125
+18061,"Harrison County, Indiana",2015,Total Over 44,9159
+18063,"Hendricks County, Indiana",2015,Total Over 44,30608
+18065,"Henry County, Indiana",2015,Total Over 44,11648
+18067,"Howard County, Indiana",2015,Total Over 44,20288
+18069,"Huntington County, Indiana",2015,Total Over 44,8519
+18071,"Jackson County, Indiana",2015,Total Over 44,9485
+18073,"Jasper County, Indiana",2015,Total Over 44,7370
+18075,"Jay County, Indiana",2015,Total Over 44,4817
+18077,"Jefferson County, Indiana",2015,Total Over 44,7469
+18079,"Jennings County, Indiana",2015,Total Over 44,6156
+18081,"Johnson County, Indiana",2015,Total Over 44,30577
+18083,"Knox County, Indiana",2015,Total Over 44,8779
+18085,"Kosciusko County, Indiana",2015,Total Over 44,16814
+18087,"LaGrange County, Indiana",2015,Total Over 44,6724
+18089,"Lake County, Indiana",2015,Total Over 44,109290
+18091,"LaPorte County, Indiana",2015,Total Over 44,24856
+18093,"Lawrence County, Indiana",2015,Total Over 44,11113
+18095,"Madison County, Indiana",2015,Total Over 44,29795
+18097,"Marion County, Indiana",2015,Total Over 44,180222
+18099,"Marshall County, Indiana",2015,Total Over 44,10602
+18101,"Martin County, Indiana",2015,Total Over 44,2470
+18103,"Miami County, Indiana",2015,Total Over 44,7752
+18105,"Monroe County, Indiana",2015,Total Over 44,23621
+18107,"Montgomery County, Indiana",2015,Total Over 44,8783
+18109,"Morgan County, Indiana",2015,Total Over 44,15848
+18111,"Newton County, Indiana",2015,Total Over 44,3367
+18113,"Noble County, Indiana",2015,Total Over 44,10131
+18115,"Ohio County, Indiana",2015,Total Over 44,1557
+18117,"Orange County, Indiana",2015,Total Over 44,4664
+18119,"Owen County, Indiana",2015,Total Over 44,5218
+18121,"Parke County, Indiana",2015,Total Over 44,4058
+18123,"Perry County, Indiana",2015,Total Over 44,4388
+18125,"Pike County, Indiana",2015,Total Over 44,3113
+18127,"Porter County, Indiana",2015,Total Over 44,36868
+18129,"Posey County, Indiana",2015,Total Over 44,6091
+18131,"Pulaski County, Indiana",2015,Total Over 44,3112
+18133,"Putnam County, Indiana",2015,Total Over 44,7789
+18135,"Randolph County, Indiana",2015,Total Over 44,6208
+18137,"Ripley County, Indiana",2015,Total Over 44,6595
+18139,"Rush County, Indiana",2015,Total Over 44,4090
+18141,"St. Joseph County, Indiana",2015,Total Over 44,56934
+18143,"Scott County, Indiana",2015,Total Over 44,5452
+18145,"Shelby County, Indiana",2015,Total Over 44,10344
+18147,"Spencer County, Indiana",2015,Total Over 44,4955
+18149,"Starke County, Indiana",2015,Total Over 44,5416
+18151,"Steuben County, Indiana",2015,Total Over 44,7989
+18153,"Sullivan County, Indiana",2015,Total Over 44,4583
+18155,"Switzerland County, Indiana",2015,Total Over 44,2301
+18157,"Tippecanoe County, Indiana",2015,Total Over 44,28880
+18159,"Tipton County, Indiana",2015,Total Over 44,3983
+18161,"Union County, Indiana",2015,Total Over 44,1762
+18163,"Vanderburgh County, Indiana",2015,Total Over 44,40598
+18165,"Vermillion County, Indiana",2015,Total Over 44,3959
+18167,"Vigo County, Indiana",2015,Total Over 44,22361
+18169,"Wabash County, Indiana",2015,Total Over 44,8028
+18171,"Warren County, Indiana",2015,Total Over 44,2077
+18173,"Warrick County, Indiana",2015,Total Over 44,14115
+18175,"Washington County, Indiana",2015,Total Over 44,6409
+18177,"Wayne County, Indiana",2015,Total Over 44,16520
+18179,"Wells County, Indiana",2015,Total Over 44,6583
+18181,"White County, Indiana",2015,Total Over 44,5947
+18183,"Whitley County, Indiana",2015,Total Over 44,7840
