@@ -102,6 +102,18 @@ class ImportDefinitions
             ]
         ];
 
+        /* Values were converted from a 0 to 1 scale to a 0 to 100 scale
+         * to match the format of older values already in the database */
+        $imports['Free and reduced lunch'] = [
+            'filename' => 'Demographics_FreeandReducedLunch.csv',
+            'sourceId' => 100,
+            'categoryIds' => [
+                'Free Lunch' => 5780,
+                'Reduce Lunch' => 5781,
+                'Free+Reduce Lunch' => 5782
+            ]
+        ];
+
         return $imports;
     }
 }
