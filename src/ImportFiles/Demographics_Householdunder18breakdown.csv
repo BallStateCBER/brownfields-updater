@@ -1,0 +1,475 @@
+Source ,American Community Survey ,,,
+Note ,Household Under 18 breakdown by type,,,
+URL,https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_15_5YR_B09005&prodType=table,,,
+,,,,
+Fips ,Geography ,Years ,Statistics ,Value 
+0,United States ,2015,Total ,73432658
+18000,Indiana ,2015,Total ,1580943
+18001,"Adams County, Indiana",2015,Total ,10848
+18003,"Allen County, Indiana",2015,Total ,95690
+18005,"Bartholomew County, Indiana",2015,Total ,19372
+18007,"Benton County, Indiana",2015,Total ,2177
+18009,"Blackford County, Indiana",2015,Total ,2762
+18011,"Boone County, Indiana",2015,Total ,16340
+18013,"Brown County, Indiana",2015,Total ,2997
+18015,"Carroll County, Indiana",2015,Total ,4723
+18017,"Cass County, Indiana",2015,Total ,9189
+18019,"Clark County, Indiana",2015,Total ,26272
+18021,"Clay County, Indiana",2015,Total ,6293
+18023,"Clinton County, Indiana",2015,Total ,8557
+18025,"Crawford County, Indiana",2015,Total ,2388
+18027,"Daviess County, Indiana",2015,Total ,9420
+18029,"Dearborn County, Indiana",2015,Total ,11703
+18031,"Decatur County, Indiana",2015,Total ,6523
+18033,"DeKalb County, Indiana",2015,Total ,10710
+18035,"Delaware County, Indiana",2015,Total ,22322
+18037,"Dubois County, Indiana",2015,Total ,10533
+18039,"Elkhart County, Indiana",2015,Total ,56257
+18041,"Fayette County, Indiana",2015,Total ,5357
+18043,"Floyd County, Indiana",2015,Total ,17711
+18045,"Fountain County, Indiana",2015,Total ,3899
+18047,"Franklin County, Indiana",2015,Total ,5614
+18049,"Fulton County, Indiana",2015,Total ,4969
+18051,"Gibson County, Indiana",2015,Total ,7947
+18053,"Grant County, Indiana",2015,Total ,14486
+18055,"Greene County, Indiana",2015,Total ,7543
+18057,"Hamilton County, Indiana",2015,Total ,85675
+18059,"Hancock County, Indiana",2015,Total ,17590
+18061,"Harrison County, Indiana",2015,Total ,8970
+18063,"Hendricks County, Indiana",2015,Total ,40210
+18065,"Henry County, Indiana",2015,Total ,10364
+18067,"Howard County, Indiana",2015,Total ,18947
+18069,"Huntington County, Indiana",2015,Total ,8321
+18071,"Jackson County, Indiana",2015,Total ,10540
+18073,"Jasper County, Indiana",2015,Total ,8259
+18075,"Jay County, Indiana",2015,Total ,5531
+18077,"Jefferson County, Indiana",2015,Total ,6942
+18079,"Jennings County, Indiana",2015,Total ,6971
+18081,"Johnson County, Indiana",2015,Total ,37174
+18083,"Knox County, Indiana",2015,Total ,8042
+18085,"Kosciusko County, Indiana",2015,Total ,19283
+18087,"LaGrange County, Indiana",2015,Total ,12916
+18089,"Lake County, Indiana",2015,Total ,121424
+18091,"LaPorte County, Indiana",2015,Total ,24478
+18093,"Lawrence County, Indiana",2015,Total ,10308
+18095,"Madison County, Indiana",2015,Total ,28702
+18097,"Marion County, Indiana",2015,Total ,230026
+18099,"Marshall County, Indiana",2015,Total ,12065
+18101,"Martin County, Indiana",2015,Total ,2379
+18103,"Miami County, Indiana",2015,Total ,7957
+18105,"Monroe County, Indiana",2015,Total ,22752
+18107,"Montgomery County, Indiana",2015,Total ,8879
+18109,"Morgan County, Indiana",2015,Total ,16648
+18111,"Newton County, Indiana",2015,Total ,3111
+18113,"Noble County, Indiana",2015,Total ,12236
+18115,"Ohio County, Indiana",2015,Total ,1219
+18117,"Orange County, Indiana",2015,Total ,4737
+18119,"Owen County, Indiana",2015,Total ,4673
+18121,"Parke County, Indiana",2015,Total ,3666
+18123,"Perry County, Indiana",2015,Total ,4069
+18125,"Pike County, Indiana",2015,Total ,2791
+18127,"Porter County, Indiana",2015,Total ,38483
+18129,"Posey County, Indiana",2015,Total ,5829
+18131,"Pulaski County, Indiana",2015,Total ,3030
+18133,"Putnam County, Indiana",2015,Total ,7415
+18135,"Randolph County, Indiana",2015,Total ,6062
+18137,"Ripley County, Indiana",2015,Total ,6980
+18139,"Rush County, Indiana",2015,Total ,3923
+18141,"St. Joseph County, Indiana",2015,Total ,64200
+18143,"Scott County, Indiana",2015,Total ,5517
+18145,"Shelby County, Indiana",2015,Total ,10470
+18147,"Spencer County, Indiana",2015,Total ,4826
+18149,"Starke County, Indiana",2015,Total ,5374
+18151,"Steuben County, Indiana",2015,Total ,7374
+18153,"Sullivan County, Indiana",2015,Total ,4226
+18155,"Switzerland County, Indiana",2015,Total ,2641
+18157,"Tippecanoe County, Indiana",2015,Total ,37139
+18159,"Tipton County, Indiana",2015,Total ,3412
+18161,"Union County, Indiana",2015,Total ,1728
+18163,"Vanderburgh County, Indiana",2015,Total ,39718
+18165,"Vermillion County, Indiana",2015,Total ,3556
+18167,"Vigo County, Indiana",2015,Total ,22387
+18169,"Wabash County, Indiana",2015,Total ,6929
+18171,"Warren County, Indiana",2015,Total ,1828
+18173,"Warrick County, Indiana",2015,Total ,15153
+18175,"Washington County, Indiana",2015,Total ,6762
+18177,"Wayne County, Indiana",2015,Total ,15118
+18179,"Wells County, Indiana",2015,Total ,6771
+18181,"White County, Indiana",2015,Total ,5762
+18183,"Whitley County, Indiana",2015,Total ,7873
+0,United States ,2015,In family household:- In married-couple family ,48386902
+18000,Indiana ,2015,In family household:- In married-couple family ,1035248
+18001,"Adams County, Indiana",2015,In family household:- In married-couple family ,8746
+18003,"Allen County, Indiana",2015,In family household:- In married-couple family ,61071
+18005,"Bartholomew County, Indiana",2015,In family household:- In married-couple family ,13098
+18007,"Benton County, Indiana",2015,In family household:- In married-couple family ,1629
+18009,"Blackford County, Indiana",2015,In family household:- In married-couple family ,1599
+18011,"Boone County, Indiana",2015,In family household:- In married-couple family ,13211
+18013,"Brown County, Indiana",2015,In family household:- In married-couple family ,1912
+18015,"Carroll County, Indiana",2015,In family household:- In married-couple family ,3607
+18017,"Cass County, Indiana",2015,In family household:- In married-couple family ,6447
+18019,"Clark County, Indiana",2015,In family household:- In married-couple family ,17629
+18021,"Clay County, Indiana",2015,In family household:- In married-couple family ,4649
+18023,"Clinton County, Indiana",2015,In family household:- In married-couple family ,5903
+18025,"Crawford County, Indiana",2015,In family household:- In married-couple family ,1404
+18027,"Daviess County, Indiana",2015,In family household:- In married-couple family ,7700
+18029,"Dearborn County, Indiana",2015,In family household:- In married-couple family ,8379
+18031,"Decatur County, Indiana",2015,In family household:- In married-couple family ,3980
+18033,"DeKalb County, Indiana",2015,In family household:- In married-couple family ,7547
+18035,"Delaware County, Indiana",2015,In family household:- In married-couple family ,13621
+18037,"Dubois County, Indiana",2015,In family household:- In married-couple family ,7989
+18039,"Elkhart County, Indiana",2015,In family household:- In married-couple family ,37250
+18041,"Fayette County, Indiana",2015,In family household:- In married-couple family ,3081
+18043,"Floyd County, Indiana",2015,In family household:- In married-couple family ,11965
+18045,"Fountain County, Indiana",2015,In family household:- In married-couple family ,2786
+18047,"Franklin County, Indiana",2015,In family household:- In married-couple family ,4394
+18049,"Fulton County, Indiana",2015,In family household:- In married-couple family ,3564
+18051,"Gibson County, Indiana",2015,In family household:- In married-couple family ,5981
+18053,"Grant County, Indiana",2015,In family household:- In married-couple family ,8476
+18055,"Greene County, Indiana",2015,In family household:- In married-couple family ,5337
+18057,"Hamilton County, Indiana",2015,In family household:- In married-couple family ,70379
+18059,"Hancock County, Indiana",2015,In family household:- In married-couple family ,12886
+18061,"Harrison County, Indiana",2015,In family household:- In married-couple family ,6072
+18063,"Hendricks County, Indiana",2015,In family household:- In married-couple family ,31331
+18065,"Henry County, Indiana",2015,In family household:- In married-couple family ,6617
+18067,"Howard County, Indiana",2015,In family household:- In married-couple family ,11909
+18069,"Huntington County, Indiana",2015,In family household:- In married-couple family ,5982
+18071,"Jackson County, Indiana",2015,In family household:- In married-couple family ,7035
+18073,"Jasper County, Indiana",2015,In family household:- In married-couple family ,5768
+18075,"Jay County, Indiana",2015,In family household:- In married-couple family ,3919
+18077,"Jefferson County, Indiana",2015,In family household:- In married-couple family ,4005
+18079,"Jennings County, Indiana",2015,In family household:- In married-couple family ,4424
+18081,"Johnson County, Indiana",2015,In family household:- In married-couple family ,26665
+18083,"Knox County, Indiana",2015,In family household:- In married-couple family ,5477
+18085,"Kosciusko County, Indiana",2015,In family household:- In married-couple family ,14566
+18087,"LaGrange County, Indiana",2015,In family household:- In married-couple family ,11406
+18089,"Lake County, Indiana",2015,In family household:- In married-couple family ,69152
+18091,"LaPorte County, Indiana",2015,In family household:- In married-couple family ,15106
+18093,"Lawrence County, Indiana",2015,In family household:- In married-couple family ,7355
+18095,"Madison County, Indiana",2015,In family household:- In married-couple family ,17525
+18097,"Marion County, Indiana",2015,In family household:- In married-couple family ,119112
+18099,"Marshall County, Indiana",2015,In family household:- In married-couple family ,9157
+18101,"Martin County, Indiana",2015,In family household:- In married-couple family ,1553
+18103,"Miami County, Indiana",2015,In family household:- In married-couple family ,5281
+18105,"Monroe County, Indiana",2015,In family household:- In married-couple family ,15595
+18107,"Montgomery County, Indiana",2015,In family household:- In married-couple family ,5966
+18109,"Morgan County, Indiana",2015,In family household:- In married-couple family ,11935
+18111,"Newton County, Indiana",2015,In family household:- In married-couple family ,1911
+18113,"Noble County, Indiana",2015,In family household:- In married-couple family ,8092
+18115,"Ohio County, Indiana",2015,In family household:- In married-couple family ,839
+18117,"Orange County, Indiana",2015,In family household:- In married-couple family ,3211
+18119,"Owen County, Indiana",2015,In family household:- In married-couple family ,3324
+18121,"Parke County, Indiana",2015,In family household:- In married-couple family ,2720
+18123,"Perry County, Indiana",2015,In family household:- In married-couple family ,2940
+18125,"Pike County, Indiana",2015,In family household:- In married-couple family ,2067
+18127,"Porter County, Indiana",2015,In family household:- In married-couple family ,27784
+18129,"Posey County, Indiana",2015,In family household:- In married-couple family ,4176
+18131,"Pulaski County, Indiana",2015,In family household:- In married-couple family ,2247
+18133,"Putnam County, Indiana",2015,In family household:- In married-couple family ,4530
+18135,"Randolph County, Indiana",2015,In family household:- In married-couple family ,3979
+18137,"Ripley County, Indiana",2015,In family household:- In married-couple family ,5124
+18139,"Rush County, Indiana",2015,In family household:- In married-couple family ,2641
+18141,"St. Joseph County, Indiana",2015,In family household:- In married-couple family ,40082
+18143,"Scott County, Indiana",2015,In family household:- In married-couple family ,3759
+18145,"Shelby County, Indiana",2015,In family household:- In married-couple family ,6811
+18147,"Spencer County, Indiana",2015,In family household:- In married-couple family ,3834
+18149,"Starke County, Indiana",2015,In family household:- In married-couple family ,3532
+18151,"Steuben County, Indiana",2015,In family household:- In married-couple family ,4818
+18153,"Sullivan County, Indiana",2015,In family household:- In married-couple family ,2795
+18155,"Switzerland County, Indiana",2015,In family household:- In married-couple family ,1696
+18157,"Tippecanoe County, Indiana",2015,In family household:- In married-couple family ,24803
+18159,"Tipton County, Indiana",2015,In family household:- In married-couple family ,2202
+18161,"Union County, Indiana",2015,In family household:- In married-couple family ,1260
+18163,"Vanderburgh County, Indiana",2015,In family household:- In married-couple family ,23847
+18165,"Vermillion County, Indiana",2015,In family household:- In married-couple family ,2109
+18167,"Vigo County, Indiana",2015,In family household:- In married-couple family ,13202
+18169,"Wabash County, Indiana",2015,In family household:- In married-couple family ,4899
+18171,"Warren County, Indiana",2015,In family household:- In married-couple family ,1224
+18173,"Warrick County, Indiana",2015,In family household:- In married-couple family ,11558
+18175,"Washington County, Indiana",2015,In family household:- In married-couple family ,4480
+18177,"Wayne County, Indiana",2015,In family household:- In married-couple family ,8780
+18179,"Wells County, Indiana",2015,In family household:- In married-couple family ,4975
+18181,"White County, Indiana",2015,In family household:- In married-couple family ,4204
+18183,"Whitley County, Indiana",2015,In family household:- In married-couple family ,5660
+0,United States ,2015,"In family households: - In male householder, no wife present, family",5606066
+18000,Indiana ,2015,"In family households: - In male householder, no wife present, family",127117
+18001,"Adams County, Indiana",2015,"In family households: - In male householder, no wife present, family",801
+18003,"Allen County, Indiana",2015,"In family households: - In male householder, no wife present, family",6853
+18005,"Bartholomew County, Indiana",2015,"In family households: - In male householder, no wife present, family",1903
+18007,"Benton County, Indiana",2015,"In family households: - In male householder, no wife present, family",221
+18009,"Blackford County, Indiana",2015,"In family households: - In male householder, no wife present, family",380
+18011,"Boone County, Indiana",2015,"In family households: - In male householder, no wife present, family",620
+18013,"Brown County, Indiana",2015,"In family households: - In male householder, no wife present, family",243
+18015,"Carroll County, Indiana",2015,"In family households: - In male householder, no wife present, family",317
+18017,"Cass County, Indiana",2015,"In family households: - In male householder, no wife present, family",1027
+18019,"Clark County, Indiana",2015,"In family households: - In male householder, no wife present, family",1606
+18021,"Clay County, Indiana",2015,"In family households: - In male householder, no wife present, family",534
+18023,"Clinton County, Indiana",2015,"In family households: - In male householder, no wife present, family",682
+18025,"Crawford County, Indiana",2015,"In family households: - In male householder, no wife present, family",195
+18027,"Daviess County, Indiana",2015,"In family households: - In male householder, no wife present, family",264
+18029,"Dearborn County, Indiana",2015,"In family households: - In male householder, no wife present, family",1127
+18031,"Decatur County, Indiana",2015,"In family households: - In male householder, no wife present, family",904
+18033,"DeKalb County, Indiana",2015,"In family households: - In male householder, no wife present, family",791
+18035,"Delaware County, Indiana",2015,"In family households: - In male householder, no wife present, family",1376
+18037,"Dubois County, Indiana",2015,"In family households: - In male householder, no wife present, family",734
+18039,"Elkhart County, Indiana",2015,"In family households: - In male householder, no wife present, family",4712
+18041,"Fayette County, Indiana",2015,"In family households: - In male householder, no wife present, family",776
+18043,"Floyd County, Indiana",2015,"In family households: - In male householder, no wife present, family",1039
+18045,"Fountain County, Indiana",2015,"In family households: - In male householder, no wife present, family",263
+18047,"Franklin County, Indiana",2015,"In family households: - In male householder, no wife present, family",630
+18049,"Fulton County, Indiana",2015,"In family households: - In male householder, no wife present, family",662
+18051,"Gibson County, Indiana",2015,"In family households: - In male householder, no wife present, family",595
+18053,"Grant County, Indiana",2015,"In family households: - In male householder, no wife present, family",1277
+18055,"Greene County, Indiana",2015,"In family households: - In male householder, no wife present, family",762
+18057,"Hamilton County, Indiana",2015,"In family households: - In male householder, no wife present, family",4297
+18059,"Hancock County, Indiana",2015,"In family households: - In male householder, no wife present, family",1445
+18061,"Harrison County, Indiana",2015,"In family households: - In male householder, no wife present, family",663
+18063,"Hendricks County, Indiana",2015,"In family households: - In male householder, no wife present, family",2711
+18065,"Henry County, Indiana",2015,"In family households: - In male householder, no wife present, family",1014
+18067,"Howard County, Indiana",2015,"In family households: - In male householder, no wife present, family",1704
+18069,"Huntington County, Indiana",2015,"In family households: - In male householder, no wife present, family",535
+18071,"Jackson County, Indiana",2015,"In family households: - In male householder, no wife present, family",1420
+18073,"Jasper County, Indiana",2015,"In family households: - In male householder, no wife present, family",808
+18075,"Jay County, Indiana",2015,"In family households: - In male householder, no wife present, family",385
+18077,"Jefferson County, Indiana",2015,"In family households: - In male householder, no wife present, family",1067
+18079,"Jennings County, Indiana",2015,"In family households: - In male householder, no wife present, family",627
+18081,"Johnson County, Indiana",2015,"In family households: - In male householder, no wife present, family",2905
+18083,"Knox County, Indiana",2015,"In family households: - In male householder, no wife present, family",505
+18085,"Kosciusko County, Indiana",2015,"In family households: - In male householder, no wife present, family",1380
+18087,"LaGrange County, Indiana",2015,"In family households: - In male householder, no wife present, family",312
+18089,"Lake County, Indiana",2015,"In family households: - In male householder, no wife present, family",10062
+18091,"LaPorte County, Indiana",2015,"In family households: - In male householder, no wife present, family",2092
+18093,"Lawrence County, Indiana",2015,"In family households: - In male householder, no wife present, family",521
+18095,"Madison County, Indiana",2015,"In family households: - In male householder, no wife present, family",2492
+18097,"Marion County, Indiana",2015,"In family households: - In male householder, no wife present, family",22528
+18099,"Marshall County, Indiana",2015,"In family households: - In male householder, no wife present, family",638
+18101,"Martin County, Indiana",2015,"In family households: - In male householder, no wife present, family",223
+18103,"Miami County, Indiana",2015,"In family households: - In male householder, no wife present, family",684
+18105,"Monroe County, Indiana",2015,"In family households: - In male householder, no wife present, family",1666
+18107,"Montgomery County, Indiana",2015,"In family households: - In male householder, no wife present, family",950
+18109,"Morgan County, Indiana",2015,"In family households: - In male householder, no wife present, family",766
+18111,"Newton County, Indiana",2015,"In family households: - In male householder, no wife present, family",360
+18113,"Noble County, Indiana",2015,"In family households: - In male householder, no wife present, family",1501
+18115,"Ohio County, Indiana",2015,"In family households: - In male householder, no wife present, family",123
+18117,"Orange County, Indiana",2015,"In family households: - In male householder, no wife present, family",527
+18119,"Owen County, Indiana",2015,"In family households: - In male householder, no wife present, family",363
+18121,"Parke County, Indiana",2015,"In family households: - In male householder, no wife present, family",269
+18123,"Perry County, Indiana",2015,"In family households: - In male householder, no wife present, family",323
+18125,"Pike County, Indiana",2015,"In family households: - In male householder, no wife present, family",149
+18127,"Porter County, Indiana",2015,"In family households: - In male householder, no wife present, family",2626
+18129,"Posey County, Indiana",2015,"In family households: - In male householder, no wife present, family",576
+18131,"Pulaski County, Indiana",2015,"In family households: - In male householder, no wife present, family",270
+18133,"Putnam County, Indiana",2015,"In family households: - In male householder, no wife present, family",867
+18135,"Randolph County, Indiana",2015,"In family households: - In male householder, no wife present, family",501
+18137,"Ripley County, Indiana",2015,"In family households: - In male householder, no wife present, family",410
+18139,"Rush County, Indiana",2015,"In family households: - In male householder, no wife present, family",357
+18141,"St. Joseph County, Indiana",2015,"In family households: - In male householder, no wife present, family",4972
+18143,"Scott County, Indiana",2015,"In family households: - In male householder, no wife present, family",339
+18145,"Shelby County, Indiana",2015,"In family households: - In male householder, no wife present, family",910
+18147,"Spencer County, Indiana",2015,"In family households: - In male householder, no wife present, family",277
+18149,"Starke County, Indiana",2015,"In family households: - In male householder, no wife present, family",433
+18151,"Steuben County, Indiana",2015,"In family households: - In male householder, no wife present, family",846
+18153,"Sullivan County, Indiana",2015,"In family households: - In male householder, no wife present, family",540
+18155,"Switzerland County, Indiana",2015,"In family households: - In male householder, no wife present, family",200
+18157,"Tippecanoe County, Indiana",2015,"In family households: - In male householder, no wife present, family",2539
+18159,"Tipton County, Indiana",2015,"In family households: - In male householder, no wife present, family",236
+18161,"Union County, Indiana",2015,"In family households: - In male householder, no wife present, family",231
+18163,"Vanderburgh County, Indiana",2015,"In family households: - In male householder, no wife present, family",3297
+18165,"Vermillion County, Indiana",2015,"In family households: - In male householder, no wife present, family",421
+18167,"Vigo County, Indiana",2015,"In family households: - In male householder, no wife present, family",2397
+18169,"Wabash County, Indiana",2015,"In family households: - In male householder, no wife present, family",374
+18171,"Warren County, Indiana",2015,"In family households: - In male householder, no wife present, family",202
+18173,"Warrick County, Indiana",2015,"In family households: - In male householder, no wife present, family",839
+18175,"Washington County, Indiana",2015,"In family households: - In male householder, no wife present, family",683
+18177,"Wayne County, Indiana",2015,"In family households: - In male householder, no wife present, family",1131
+18179,"Wells County, Indiana",2015,"In family households: - In male householder, no wife present, family",275
+18181,"White County, Indiana",2015,"In family households: - In male householder, no wife present, family",510
+18183,"Whitley County, Indiana",2015,"In family households: - In male householder, no wife present, family",549
+0,United States ,2015,"In family households: - In female householder, no husband present, family",18934428
+18000,Indiana ,2015,"In family households: - In female householder, no husband present, family",402295
+18001,"Adams County, Indiana",2015,"In family households: - In female householder, no husband present, family",1107
+18003,"Allen County, Indiana",2015,"In family households: - In female householder, no husband present, family",26744
+18005,"Bartholomew County, Indiana",2015,"In family households: - In female householder, no husband present, family",4210
+18007,"Benton County, Indiana",2015,"In family households: - In female householder, no husband present, family",306
+18009,"Blackford County, Indiana",2015,"In family households: - In female householder, no husband present, family",694
+18011,"Boone County, Indiana",2015,"In family households: - In female householder, no husband present, family",2423
+18013,"Brown County, Indiana",2015,"In family households: - In female householder, no husband present, family",821
+18015,"Carroll County, Indiana",2015,"In family households: - In female householder, no husband present, family",715
+18017,"Cass County, Indiana",2015,"In family households: - In female householder, no husband present, family",1618
+18019,"Clark County, Indiana",2015,"In family households: - In female householder, no husband present, family",6684
+18021,"Clay County, Indiana",2015,"In family households: - In female householder, no husband present, family",1012
+18023,"Clinton County, Indiana",2015,"In family households: - In female householder, no husband present, family",1843
+18025,"Crawford County, Indiana",2015,"In family households: - In female householder, no husband present, family",786
+18027,"Daviess County, Indiana",2015,"In family households: - In female householder, no husband present, family",1386
+18029,"Dearborn County, Indiana",2015,"In family households: - In female householder, no husband present, family",2118
+18031,"Decatur County, Indiana",2015,"In family households: - In female householder, no husband present, family",1555
+18033,"DeKalb County, Indiana",2015,"In family households: - In female householder, no husband present, family",2283
+18035,"Delaware County, Indiana",2015,"In family households: - In female householder, no husband present, family",7076
+18037,"Dubois County, Indiana",2015,"In family households: - In female householder, no husband present, family",1802
+18039,"Elkhart County, Indiana",2015,"In family households: - In female householder, no husband present, family",13771
+18041,"Fayette County, Indiana",2015,"In family households: - In female householder, no husband present, family",1453
+18043,"Floyd County, Indiana",2015,"In family households: - In female householder, no husband present, family",4610
+18045,"Fountain County, Indiana",2015,"In family households: - In female householder, no husband present, family",706
+18047,"Franklin County, Indiana",2015,"In family households: - In female householder, no husband present, family",584
+18049,"Fulton County, Indiana",2015,"In family households: - In female householder, no husband present, family",707
+18051,"Gibson County, Indiana",2015,"In family households: - In female householder, no husband present, family",1330
+18053,"Grant County, Indiana",2015,"In family households: - In female householder, no husband present, family",4425
+18055,"Greene County, Indiana",2015,"In family households: - In female householder, no husband present, family",1390
+18057,"Hamilton County, Indiana",2015,"In family households: - In female householder, no husband present, family",10698
+18059,"Hancock County, Indiana",2015,"In family households: - In female householder, no husband present, family",3181
+18061,"Harrison County, Indiana",2015,"In family households: - In female householder, no husband present, family",1998
+18063,"Hendricks County, Indiana",2015,"In family households: - In female householder, no husband present, family",6090
+18065,"Henry County, Indiana",2015,"In family households: - In female householder, no husband present, family",2567
+18067,"Howard County, Indiana",2015,"In family households: - In female householder, no husband present, family",5009
+18069,"Huntington County, Indiana",2015,"In family households: - In female householder, no husband present, family",1606
+18071,"Jackson County, Indiana",2015,"In family households: - In female householder, no husband present, family",1817
+18073,"Jasper County, Indiana",2015,"In family households: - In female householder, no husband present, family",1581
+18075,"Jay County, Indiana",2015,"In family households: - In female householder, no husband present, family",1199
+18077,"Jefferson County, Indiana",2015,"In family households: - In female householder, no husband present, family",1855
+18079,"Jennings County, Indiana",2015,"In family households: - In female householder, no husband present, family",1820
+18081,"Johnson County, Indiana",2015,"In family households: - In female householder, no husband present, family",7408
+18083,"Knox County, Indiana",2015,"In family households: - In female householder, no husband present, family",1991
+18085,"Kosciusko County, Indiana",2015,"In family households: - In female householder, no husband present, family",3065
+18087,"LaGrange County, Indiana",2015,"In family households: - In female householder, no husband present, family",1127
+18089,"Lake County, Indiana",2015,"In family households: - In female householder, no husband present, family",41498
+18091,"LaPorte County, Indiana",2015,"In family households: - In female householder, no husband present, family",7116
+18093,"Lawrence County, Indiana",2015,"In family households: - In female householder, no husband present, family",2212
+18095,"Madison County, Indiana",2015,"In family households: - In female householder, no husband present, family",8168
+18097,"Marion County, Indiana",2015,"In family households: - In female householder, no husband present, family",86417
+18099,"Marshall County, Indiana",2015,"In family households: - In female householder, no husband present, family",2100
+18101,"Martin County, Indiana",2015,"In family households: - In female householder, no husband present, family",590
+18103,"Miami County, Indiana",2015,"In family households: - In female householder, no husband present, family",1832
+18105,"Monroe County, Indiana",2015,"In family households: - In female householder, no husband present, family",5183
+18107,"Montgomery County, Indiana",2015,"In family households: - In female householder, no husband present, family",1752
+18109,"Morgan County, Indiana",2015,"In family households: - In female householder, no husband present, family",3514
+18111,"Newton County, Indiana",2015,"In family households: - In female householder, no husband present, family",813
+18113,"Noble County, Indiana",2015,"In family households: - In female householder, no husband present, family",2456
+18115,"Ohio County, Indiana",2015,"In family households: - In female householder, no husband present, family",227
+18117,"Orange County, Indiana",2015,"In family households: - In female householder, no husband present, family",864
+18119,"Owen County, Indiana",2015,"In family households: - In female householder, no husband present, family",906
+18121,"Parke County, Indiana",2015,"In family households: - In female householder, no husband present, family",619
+18123,"Perry County, Indiana",2015,"In family households: - In female householder, no husband present, family",753
+18125,"Pike County, Indiana",2015,"In family households: - In female householder, no husband present, family",575
+18127,"Porter County, Indiana",2015,"In family households: - In female householder, no husband present, family",7652
+18129,"Posey County, Indiana",2015,"In family households: - In female householder, no husband present, family",1051
+18131,"Pulaski County, Indiana",2015,"In family households: - In female householder, no husband present, family",486
+18133,"Putnam County, Indiana",2015,"In family households: - In female householder, no husband present, family",1986
+18135,"Randolph County, Indiana",2015,"In family households: - In female householder, no husband present, family",1479
+18137,"Ripley County, Indiana",2015,"In family households: - In female householder, no husband present, family",1357
+18139,"Rush County, Indiana",2015,"In family households: - In female householder, no husband present, family",886
+18141,"St. Joseph County, Indiana",2015,"In family households: - In female householder, no husband present, family",18518
+18143,"Scott County, Indiana",2015,"In family households: - In female householder, no husband present, family",1340
+18145,"Shelby County, Indiana",2015,"In family households: - In female householder, no husband present, family",2488
+18147,"Spencer County, Indiana",2015,"In family households: - In female householder, no husband present, family",646
+18149,"Starke County, Indiana",2015,"In family households: - In female householder, no husband present, family",1280
+18151,"Steuben County, Indiana",2015,"In family households: - In female householder, no husband present, family",1508
+18153,"Sullivan County, Indiana",2015,"In family households: - In female householder, no husband present, family",875
+18155,"Switzerland County, Indiana",2015,"In family households: - In female householder, no husband present, family",689
+18157,"Tippecanoe County, Indiana",2015,"In family households: - In female householder, no husband present, family",9334
+18159,"Tipton County, Indiana",2015,"In family households: - In female householder, no husband present, family",947
+18161,"Union County, Indiana",2015,"In family households: - In female householder, no husband present, family",214
+18163,"Vanderburgh County, Indiana",2015,"In family households: - In female householder, no husband present, family",12273
+18165,"Vermillion County, Indiana",2015,"In family households: - In female householder, no husband present, family",1001
+18167,"Vigo County, Indiana",2015,"In family households: - In female householder, no husband present, family",6522
+18169,"Wabash County, Indiana",2015,"In family households: - In female householder, no husband present, family",1604
+18171,"Warren County, Indiana",2015,"In family households: - In female householder, no husband present, family",402
+18173,"Warrick County, Indiana",2015,"In family households: - In female householder, no husband present, family",2430
+18175,"Washington County, Indiana",2015,"In family households: - In female householder, no husband present, family",1488
+18177,"Wayne County, Indiana",2015,"In family households: - In female householder, no husband present, family",5008
+18179,"Wells County, Indiana",2015,"In family households: - In female householder, no husband present, family",1494
+18181,"White County, Indiana",2015,"In family households: - In female householder, no husband present, family",963
+18183,"Whitley County, Indiana",2015,"In family households: - In female householder, no husband present, family",1608
+0,United States ,2015,In nonfamily households,505262
+18000,Indiana ,2015,In nonfamily households,16283
+18001,"Adams County, Indiana",2015,In nonfamily households,194
+18003,"Allen County, Indiana",2015,In nonfamily households,1022
+18005,"Bartholomew County, Indiana",2015,In nonfamily households,161
+18007,"Benton County, Indiana",2015,In nonfamily households,21
+18009,"Blackford County, Indiana",2015,In nonfamily households,89
+18011,"Boone County, Indiana",2015,In nonfamily households,86
+18013,"Brown County, Indiana",2015,In nonfamily households,21
+18015,"Carroll County, Indiana",2015,In nonfamily households,84
+18017,"Cass County, Indiana",2015,In nonfamily households,97
+18019,"Clark County, Indiana",2015,In nonfamily households,353
+18021,"Clay County, Indiana",2015,In nonfamily households,98
+18023,"Clinton County, Indiana",2015,In nonfamily households,129
+18025,"Crawford County, Indiana",2015,In nonfamily households,3
+18027,"Daviess County, Indiana",2015,In nonfamily households,70
+18029,"Dearborn County, Indiana",2015,In nonfamily households,79
+18031,"Decatur County, Indiana",2015,In nonfamily households,84
+18033,"DeKalb County, Indiana",2015,In nonfamily households,89
+18035,"Delaware County, Indiana",2015,In nonfamily households,249
+18037,"Dubois County, Indiana",2015,In nonfamily households,8
+18039,"Elkhart County, Indiana",2015,In nonfamily households,524
+18041,"Fayette County, Indiana",2015,In nonfamily households,47
+18043,"Floyd County, Indiana",2015,In nonfamily households,97
+18045,"Fountain County, Indiana",2015,In nonfamily households,144
+18047,"Franklin County, Indiana",2015,In nonfamily households,6
+18049,"Fulton County, Indiana",2015,In nonfamily households,36
+18051,"Gibson County, Indiana",2015,In nonfamily households,41
+18053,"Grant County, Indiana",2015,In nonfamily households,308
+18055,"Greene County, Indiana",2015,In nonfamily households,54
+18057,"Hamilton County, Indiana",2015,In nonfamily households,301
+18059,"Hancock County, Indiana",2015,In nonfamily households,78
+18061,"Harrison County, Indiana",2015,In nonfamily households,237
+18063,"Hendricks County, Indiana",2015,In nonfamily households,78
+18065,"Henry County, Indiana",2015,In nonfamily households,166
+18067,"Howard County, Indiana",2015,In nonfamily households,325
+18069,"Huntington County, Indiana",2015,In nonfamily households,198
+18071,"Jackson County, Indiana",2015,In nonfamily households,268
+18073,"Jasper County, Indiana",2015,In nonfamily households,102
+18075,"Jay County, Indiana",2015,In nonfamily households,28
+18077,"Jefferson County, Indiana",2015,In nonfamily households,15
+18079,"Jennings County, Indiana",2015,In nonfamily households,100
+18081,"Johnson County, Indiana",2015,In nonfamily households,196
+18083,"Knox County, Indiana",2015,In nonfamily households,69
+18085,"Kosciusko County, Indiana",2015,In nonfamily households,272
+18087,"LaGrange County, Indiana",2015,In nonfamily households,71
+18089,"Lake County, Indiana",2015,In nonfamily households,712
+18091,"LaPorte County, Indiana",2015,In nonfamily households,164
+18093,"Lawrence County, Indiana",2015,In nonfamily households,220
+18095,"Madison County, Indiana",2015,In nonfamily households,517
+18097,"Marion County, Indiana",2015,In nonfamily households,1969
+18099,"Marshall County, Indiana",2015,In nonfamily households,170
+18101,"Martin County, Indiana",2015,In nonfamily households,13
+18103,"Miami County, Indiana",2015,In nonfamily households,160
+18105,"Monroe County, Indiana",2015,In nonfamily households,308
+18107,"Montgomery County, Indiana",2015,In nonfamily households,211
+18109,"Morgan County, Indiana",2015,In nonfamily households,433
+18111,"Newton County, Indiana",2015,In nonfamily households,27
+18113,"Noble County, Indiana",2015,In nonfamily households,187
+18115,"Ohio County, Indiana",2015,In nonfamily households,30
+18117,"Orange County, Indiana",2015,In nonfamily households,135
+18119,"Owen County, Indiana",2015,In nonfamily households,80
+18121,"Parke County, Indiana",2015,In nonfamily households,58
+18123,"Perry County, Indiana",2015,In nonfamily households,53
+18125,"Pike County, Indiana",2015,In nonfamily households,0
+18127,"Porter County, Indiana",2015,In nonfamily households,421
+18129,"Posey County, Indiana",2015,In nonfamily households,26
+18131,"Pulaski County, Indiana",2015,In nonfamily households,27
+18133,"Putnam County, Indiana",2015,In nonfamily households,32
+18135,"Randolph County, Indiana",2015,In nonfamily households,103
+18137,"Ripley County, Indiana",2015,In nonfamily households,89
+18139,"Rush County, Indiana",2015,In nonfamily households,39
+18141,"St. Joseph County, Indiana",2015,In nonfamily households,628
+18143,"Scott County, Indiana",2015,In nonfamily households,79
+18145,"Shelby County, Indiana",2015,In nonfamily households,261
+18147,"Spencer County, Indiana",2015,In nonfamily households,69
+18149,"Starke County, Indiana",2015,In nonfamily households,129
+18151,"Steuben County, Indiana",2015,In nonfamily households,202
+18153,"Sullivan County, Indiana",2015,In nonfamily households,16
+18155,"Switzerland County, Indiana",2015,In nonfamily households,56
+18157,"Tippecanoe County, Indiana",2015,In nonfamily households,463
+18159,"Tipton County, Indiana",2015,In nonfamily households,27
+18161,"Union County, Indiana",2015,In nonfamily households,23
+18163,"Vanderburgh County, Indiana",2015,In nonfamily households,301
+18165,"Vermillion County, Indiana",2015,In nonfamily households,25
+18167,"Vigo County, Indiana",2015,In nonfamily households,266
+18169,"Wabash County, Indiana",2015,In nonfamily households,52
+18171,"Warren County, Indiana",2015,In nonfamily households,0
+18173,"Warrick County, Indiana",2015,In nonfamily households,326
+18175,"Washington County, Indiana",2015,In nonfamily households,111
+18177,"Wayne County, Indiana",2015,In nonfamily households,199
+18179,"Wells County, Indiana",2015,In nonfamily households,27
+18181,"White County, Indiana",2015,In nonfamily households,85
+18183,"Whitley County, Indiana",2015,In nonfamily households,56
