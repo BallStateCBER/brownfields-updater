@@ -136,7 +136,6 @@ class ImportDefinitions
             'filename' => 'Demographics_HighSchoolGraduationRates_WEIRDDATA.csv',
             'sourceId' => 101,
             'categoryId' => 5396,
-            'locationTypeId' => 6,
             'headers' => [
                 'fips',
                 'year',
