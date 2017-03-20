@@ -8,12 +8,13 @@ use Cake\ORM\TableRegistry;
 
 class ImportShell extends Shell
 {
+    public $autoImport;
     public $ignoreCount = 0;
+    public $overwrite = null;
     public $statisticsTable;
     public $stepCount;
     public $toInsert = [];
     public $toOverwrite = [];
-    public $autoImport;
 
     /**
      * Modifies the standard output of running 'cake import --help'
