@@ -110,6 +110,14 @@ class Location
             return $import->locationTypeId;
         }
 
+        if (isset($row['taxDistrictId']) && $row['taxDistrictId']) {
+            return 5; // Tax district
+        }
+
+        if (isset($row['schoolCorpId']) && $row['schoolCorpId']) {
+            return 6; // School corporation
+        }
+
         // Assume that any non-country and non-state FIPS code corresponds to a county
         if (in_array('fips', $import->headers)) {
             switch ($row['fips']) {
@@ -120,14 +128,6 @@ class Location
                 default:
                     return 2; // County
             }
-        }
-
-        if (isset($import->headers['taxDistrictId'])) {
-            return 5; // Tax district
-        }
-
-        if (isset($import->headers['schoolCorpId'])) {
-            return 6; // School corporation
         }
 
         throw new InternalErrorException('Location type ID cannot be determined for row: ' . print_r($row, true));
@@ -149,7 +149,7 @@ class Location
         ];
 
         foreach ($locationCodeFields as $field) {
-            if (isset($row[$field])) {
+            if (isset($row[$field]) && $row[$field]) {
                 return $row[$field];
             }
         }
