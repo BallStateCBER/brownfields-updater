@@ -116,13 +116,13 @@ class ImportDefinitions
 
         $imports['Households With People Under 18, Breakdown By Type'] = [
             'filename' => 'Demographics_Householdunder18breakdown.csv',
-            'sourceId' => 101,
+            'sourceId' => 103,
             'categoryIds' => [
-                'Total' => 6020,
-                'In family household:- In married-couple family' => 6021,
-                'In family households: - In male householder, no wife present, family' => 6022,
-                'In family households: - In female householder, no husband present, family' => 6023,
-                'In nonfamily households' => 6024
+                'Total' => 346,
+                'In family household:- In married-couple family' => 5762,
+                'In family households: - In male householder, no wife present, family' => 5764,
+                'In family households: - In female householder, no husband present, family' => 5766,
+                'In nonfamily households' => 5768
             ]
         ];
 
