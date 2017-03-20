@@ -143,9 +143,9 @@ class Location
     public function getLocationCode($row)
     {
         $locationCodeFields = [
-            'fips',
             'taxDistrictId',
-            'schoolCorpId'
+            'schoolCorpId',
+            'fips'
         ];
 
         foreach ($locationCodeFields as $field) {
