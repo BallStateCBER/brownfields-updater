@@ -132,6 +132,22 @@ class ImportDefinitions
             'categoryId' => 6025
         ];
 
+        $imports['High school graduation rate'] = [
+            'filename' => 'Demographics_HighSchoolGraduationRates_WEIRDDATA.csv',
+            'sourceId' => 101,
+            'categoryId' => 5396,
+            'locationTypeId' => 6,
+            'headers' => [
+                'fips',
+                'year',
+                'schoolCorpId',
+                'schoolCorpName',
+                'Cohort N',
+                'Grad N',
+                'value'
+            ]
+        ];
+
         return $imports;
     }
 }

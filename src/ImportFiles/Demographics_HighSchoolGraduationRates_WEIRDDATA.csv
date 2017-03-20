@@ -1,0 +1,338 @@
+Source ,Indiana Department of Education,,,,,
+Note,High School Graduation Rate ,,,,,
+URL ,http://www.doe.in.gov/accountability/find-school-and-corporation-data-reports,,,,,
+,,,,,,
+FIPS,Year,Corp ID,Corp Name,Cohort N,Grad N,Grad Rate
+18001,2016,15,Adams Central Community Schools,87,86,98.8505747
+18001,2016,25,North Adams Community Schools,187,166,88.7700535
+18001,2016,35,South Adams Schools,81,73,90.1234568
+18003,2016,125,M S D Southwest Allen County Schls,561,542,96.6131907
+18003,2016,225,Northwest Allen County Schools,512,495,96.6796875
+18003,2016,235,Fort Wayne Community Schools,1865,1664,89.2225201
+18003,2016,255,East Allen County Schools,819,752,91.8192918
+18005,2016,365,Bartholomew Con School Corp,799,719,89.9874844
+18005,2016,370,Flat Rock-Hawcreek School Corp,56,56,100
+18007,2016,395,Benton Community School Corp,111,104,93.6936937
+18009,2016,515,Blackford County Schools,136,125,91.9117647
+18011,2016,615,Western Boone Co Com Sch Dist,143,137,95.8041958
+18011,2016,630,Zionsville Community Schools,455,445,97.8021978
+18011,2016,665,Lebanon Community School Corp,243,227,93.4156379
+18013,2016,670,Brown County School Corporation,144,143,99.3055556
+18015,2016,750,Carroll Consolidated School Corp,59,56,94.9152542
+18015,2016,755,Delphi Community School Corp,107,96,89.7196262
+18017,2016,775,Pioneer Regional School Corp,71,63,88.7323944
+18017,2016,815,Southeastern School Corp,130,126,96.9230769
+18017,2016,875,Logansport Community Sch Corp,278,262,94.2446043
+18019,2016,940,West Clark Community Schools,337,311,92.2848665
+18019,2016,1000,Clarksville Community School Corp,92,89,96.7391304
+18019,2016,1010,Greater Clark County Schools,726,682,93.9393939
+18021,2016,1125,Clay Community Schools,268,249,92.9104478
+18023,2016,1150,Clinton Central School Corporation,75,73,97.3333333
+18023,2016,1160,Clinton Prairie School Corporation,69,66,95.6521739
+18023,2016,1170,Community Schools of Frankfort,232,213,91.8103448
+18023,2016,1180,Rossville Con School District,74,74,100
+18025,2016,1300,Crawford County Community Sch Corp,100,86,86
+18027,2016,1315,Barr-Reeve Community Schools Inc,46,44,95.6521739
+18027,2016,1375,North Daviess Com Schools,72,67,93.0555556
+18027,2016,1405,Washington Community Schools,166,159,95.7831325
+18029,2016,1560,Sunman-Dearborn Com Sch Corp,308,293,95.1298701
+18029,2016,1600,South Dearborn Community Sch Corp,224,200,89.2857143
+18029,2016,1620,Lawrenceburg Community School Corp,146,142,97.260274
+18031,2016,1655,Decatur County Community Schools,158,148,93.6708861
+18031,2016,1730,Greensburg Community Schools,140,139,99.2857143
+29063,2016,1805,DeKalb Co Eastern Com Sch Dist,131,124,94.6564885
+29063,2016,1820,Garrett-Keyser-Butler Com Sch Corp,139,135,97.1223022
+29063,2016,1835,DeKalb Co Ctl United Sch Dist,274,246,89.7810219
+18035,2016,1875,Delaware Community School Corp,192,181,94.2708333
+18035,2016,1885,Wes-Del Community Schools,74,73,98.6486486
+18035,2016,1895,Liberty-Perry Community Sch Corp,79,78,98.7341772
+18035,2016,1900,Cowan Community School Corp,47,44,93.6170213
+18035,2016,1910,Yorktown Community Schools,159,156,98.1132075
+18035,2016,1940,Daleville Community Schools,60,59,98.3333333
+18035,2016,1970,Muncie Community Schools,322,297,92.2360248
+18037,2016,2040,Northeast Dubois Co Sch Corp,71,64,90.1408451
+18037,2016,2100,Southeast Dubois Co Sch Corp,106,103,97.1698113
+18037,2016,2110,Southwest Dubois Co Sch Corp,127,117,92.1259843
+18037,2016,2120,Greater Jasper Consolidated Schs,286,275,96.1538462
+18039,2016,2155,Fairfield Community Schools,136,126,92.6470588
+18039,2016,2260,Baugo Community Schools,141,134,95.035461
+18039,2016,2270,Concord Community Schools,371,333,89.7574124
+18039,2016,2275,Middlebury Community Schools,342,315,92.1052632
+18039,2016,2285,Wa-Nee Community Schools,212,194,91.509434
+18039,2016,2305,Elkhart Community Schools,785,696,88.6624204
+18039,2016,2315,Goshen Community Schools,455,401,88.1318681
+18041,2016,2395,Fayette County School Corporation,251,228,90.8366534
+18043,2016,2400,New Albany-Floyd Co Con Sch,900,843,93.6666667
+18045,2016,2435,Attica Consolidated School Corp,61,57,93.442623
+18045,2016,2440,Covington Community School Corp,70,66,94.2857143
+18045,2016,2455,Southeast Fountain School Corp,99,93,93.9393939
+18047,2016,2475,Franklin County Community Sch Corp,182,167,91.7582418
+18049,2016,2645,Rochester Community School Corp,134,130,97.0149254
+18049,2016,2650,Caston School Corporation,62,55,88.7096774
+18051,2016,2725,East Gibson School Corporation,52,51,98.0769231
+18051,2016,2735,North Gibson School Corp,164,144,87.804878
+18051,2016,2765,South Gibson School Corporation,170,155,91.1764706
+18053,2016,2815,Eastbrook Community Sch Corp,130,127,97.6923077
+18053,2016,2825,Madison-Grant United School Corp,96,92,95.8333333
+18053,2016,2855,Mississinewa Community School Corp,171,165,96.4912281
+18053,2016,2865,Marion Community Schools,234,227,97.008547
+18055,2016,2920,Bloomfield School District,65,63,96.9230769
+18055,2016,2940,Eastern Greene Schools,90,80,88.8888889
+18055,2016,2950,Linton-Stockton School Corporation,83,81,97.5903614
+18055,2016,2960,M S D Shakamak Schools,48,45,93.75
+18055,2016,2980,White River Valley School District,65,59,90.7692308
+18057,2016,3005,Hamilton Southeastern Schools,1428,1374,96.2184874
+18057,2016,3025,Hamilton Heights School Corp,158,151,95.5696203
+18057,2016,3030,Westfield-Washington Schools,436,425,97.4770642
+18057,2016,3055,Sheridan Community Schools,84,76,90.4761905
+18057,2016,3060,Carmel Clay Schools,1218,1175,96.4696223
+18057,2016,3070,Noblesville Schools,602,574,95.3488372
+18059,2016,3115,Southern Hancock Co Com Sch Corp,292,283,96.9178082
+18059,2016,3125,Greenfield-Central Com Schools,332,302,90.9638554
+18059,2016,3135,Mt Vernon Community School Corp,314,298,94.9044586
+18059,2016,3145,Eastern Hancock Co Com Sch Corp,89,83,93.258427
+18061,2016,3160,Lanesville Community School Corp,58,57,98.2758621
+18061,2016,3180,North Harrison Com School Corp,148,141,95.2702703
+18061,2016,3190,South Harrison Com Schools,221,204,92.3076923
+18063,2016,3295,North West Hendricks Schools,144,143,99.3055556
+18063,2016,3305,Brownsburg Community School Corp,559,553,98.9266547
+18063,2016,3315,Avon Community School Corp,704,689,97.8693182
+18063,2016,3325,Danville Community School Corp,202,192,95.049505
+18063,2016,3330,Plainfield Community School Corp,355,348,98.028169
+18063,2016,3335,Mill Creek Community Sch Corp,114,111,97.3684211
+18065,2016,3405,Blue River Valley Schools,34,30,88.2352941
+18065,2016,3415,South Henry School Corp,54,54,100
+18065,2016,3435,Shenandoah School Corporation,86,82,95.3488372
+18065,2016,3445,New Castle Community School Corp,256,244,95.3125
+18065,2016,3455,C A Beard Memorial School Corp,104,100,96.1538462
+18067,2016,3460,Taylor Community School Corp,102,84,82.3529412
+18067,2016,3470,Northwestern School Corp,107,104,97.1962617
+18067,2016,3480,Eastern Howard School Corporation,88,87,98.8636364
+18067,2016,3490,Western School Corp,191,184,96.3350785
+18067,2016,3500,Kokomo School Corporation,449,370,82.4053452
+18069,2016,3625,Huntington Co Com Sch Corp,342,312,91.2280702
+18071,2016,3640,Medora Community School Corp,28,26,92.8571429
+18071,2016,3675,Seymour Community Schools,294,276,93.877551
+18071,2016,3695,Brownstown Cnt Com Sch Corp,141,137,97.1631206
+18071,2016,3710,Crothersville Community Schools,30,27,90
+18073,2016,3785,Kankakee Valley School Corp,242,229,94.6280992
+18073,2016,3815,Rensselaer Central School Corp,116,111,95.6896552
+18075,2016,3945,Jay School Corporation,299,281,93.9799331
+18077,2016,3995,Madison Consolidated Schools,228,205,89.9122807
+18077,2016,4000,Southwestern-Jefferson Co Con,81,76,93.8271605
+18079,2016,4015,Jennings County School Corporation,312,294,94.2307692
+18081,2016,4145,Clark-Pleasant Community Sch Corp,433,406,93.7644342
+18081,2016,4205,Center Grove Community School Corp,559,529,94.6332737
+18081,2016,4215,Edinburgh Community School Corp,68,65,95.5882353
+18081,2016,4225,Franklin Community School Corp,365,345,94.5205479
+18081,2016,4245,Greenwood Community Sch Corp,257,234,91.0505837
+18081,2016,4255,Nineveh-Hensley-Jackson United,124,118,95.1612903
+18083,2016,4315,North Knox School Corp,78,78,100
+18083,2016,4325,South Knox School Corp,77,75,97.4025974
+18083,2016,4335,Vincennes Community School Corp,168,163,97.0238095
+18085,2016,4345,Wawasee Community School Corp,224,197,87.9464286
+18085,2016,4415,Warsaw Community Schools,503,466,92.6441352
+18085,2016,4445,Tippecanoe Valley School Corp,148,141,95.2702703
+18085,2016,4455,Whitko Community School Corp,119,110,92.4369748
+18087,2016,4515,Prairie Heights Community Sch Corp,116,110,94.8275862
+18087,2016,4525,Westview School Corporation,100,96,96
+18087,2016,4535,Lakeland School Corporation,154,131,85.0649351
+18089,2016,4580,Hanover Community School Corp,156,149,95.5128205
+18089,2016,4590,River Forest Community Sch Corp,105,79,75.2380952
+18089,2016,4600,Merrillville Community School Corp,522,457,87.5478927
+18089,2016,4615,Lake Central School Corporation,758,724,95.5145119
+18089,2016,4645,Tri-Creek School Corporation,264,259,98.1060606
+18089,2016,4650,Lake Ridge New Tech Schools,141,136,96.4539007
+18089,2016,4660,Crown Point Community School Corp,723,695,96.1272476
+18089,2016,4670,School City of East Chicago,221,162,73.3031674
+18089,2016,4680,Lake Station Community Schools,84,77,91.6666667
+18089,2016,4690,Gary Community School Corp,333,286,85.8858859
+18089,2016,4700,Griffith Public Schools,188,180,95.7446809
+18089,2016,4710,School City of Hammond,840,691,82.2619048
+18089,2016,4720,School Town of Highland,266,247,92.8571429
+18089,2016,4730,School City of Hobart,354,333,94.0677966
+18089,2016,4740,School Town of Munster,344,334,97.0930233
+18089,2016,4760,School City of Whiting,98,90,91.8367347
+18091,2016,4805,New Prairie United School Corp,201,190,94.5273632
+18091,2016,4860,M S D of New Durham Township,88,82,93.1818182
+18091,2016,4915,Tri-Township Cons School Corp,29,29,100
+18091,2016,4925,Michigan City Area Schools,352,311,88.3522727
+18091,2016,4940,South Central Com School Corp,68,67,98.5294118
+18091,2016,4945,LaPorte Community School Corp,444,393,88.5135135
+18093,2016,5075,North Lawrence Com Schools,375,322,85.8666667
+18093,2016,5085,Mitchell Community Schools,132,109,82.5757576
+18095,2016,5245,Frankton-Lapel Community Schools,227,218,96.0352423
+18095,2016,5255,South Madison Com Sch Corp,317,294,92.7444795
+18095,2016,5265,Alexandria Community School Corp,117,112,95.7264957
+18095,2016,5275,Anderson Community School Corp,387,367,94.8320413
+18095,2016,5280,Elwood Community School Corp,89,81,91.011236
+18097,2016,5300,M S D Decatur Township,458,373,81.441048
+18097,2016,5310,Franklin Township Com Sch Corp,616,597,96.9155844
+18097,2016,5330,M S D Lawrence Township,1157,1069,92.3941227
+18097,2016,5340,Perry Township Schools,980,911,92.9591837
+18097,2016,5350,M S D Pike Township,701,653,93.1526391
+18097,2016,5360,M S D Warren Township,834,732,87.7697842
+18097,2016,5370,M S D Washington Township,792,701,88.510101
+18097,2016,5375,M S D Wayne Township,1147,973,84.8299913
+18097,2016,5380,Beech Grove City Schools,163,142,87.1165644
+18097,2016,5385,Indianapolis Public Schools,1123,863,76.8477293
+18097,2016,5400,School Town of Speedway,89,84,94.3820225
+18099,2016,5455,Culver Community Schools Corp,70,64,91.4285714
+18099,2016,5470,Argos Community Schools,48,38,79.1666667
+18099,2016,5480,Bremen Public Schools,115,103,89.5652174
+18099,2016,5485,Plymouth Community School Corp,273,236,86.4468864
+18099,2016,5495,Triton School Corporation,84,76,90.4761905
+18101,2016,5520,Shoals Community School Corp,36,32,88.8888889
+18101,2016,5525,Loogootee Community Sch Corp,78,74,94.8717949
+18103,2016,5615,Maconaquah School Corp,121,113,93.3884298
+18103,2016,5620,North Miami Community Schools,59,54,91.5254237
+18103,2016,5625,Oak Hill United School Corp,116,109,93.9655172
+18103,2016,5635,Peru Community Schools,144,141,97.9166667
+18105,2016,5705,Richland-Bean Blossom C S C,189,174,92.0634921
+18105,2016,5740,Monroe County Community Sch Corp,767,723,94.2633638
+18107,2016,5835,North Montgomery Com Sch Corp,138,133,96.3768116
+18107,2016,5845,South Montgomery Com Sch Corp,102,100,98.0392157
+18107,2016,5855,Crawfordsville Community Schools,148,143,96.6216216
+18109,2016,5900,Monroe-Gregg School District,119,108,90.7563025
+18109,2016,5910,Eminence Community School Corp,28,28,100
+18109,2016,5925,M S D Martinsville Schools,315,297,94.2857143
+18109,2016,5930,Mooresville Con School Corp,309,288,93.2038835
+18111,2016,5945,North Newton School Corp,98,93,94.8979592
+18111,2016,5995,South Newton School Corp,72,66,91.6666667
+18113,2016,6055,Central Noble Com School Corp,108,102,94.4444444
+18113,2016,6060,East Noble School Corporation,286,252,88.1118881
+18113,2016,6065,West Noble School Corporation,153,143,93.4640523
+18115,2016,6080,Rising Sun-Ohio Co Com,42,38,90.4761905
+18117,2016,6145,Orleans Community Schools,60,58,96.6666667
+18117,2016,6155,Paoli Community School Corp,82,67,81.7073171
+18117,2016,6160,Springs Valley Com School Corp,58,55,94.8275862
+18119,2016,6195,Spencer-Owen Community Schools,187,167,89.3048128
+18121,2016,6260,Southwest Parke Com Sch Corp,83,70,84.3373494
+18123,2016,6325,Perry Central Com Schools Corp,82,81,98.7804878
+18123,2016,6340,Cannelton City Schools,21,14,66.6666667
+18123,2016,6350,Tell City-Troy Twp School Corp,82,79,96.3414634
+18121,2016,6375,North Central Parke Comm Schl Corp,94,93,98.9361702
+18125,2016,6445,Pike County School Corp,131,117,89.3129771
+18127,2016,6460,M S D Boone Township,87,83,95.4022989
+18127,2016,6470,Duneland School Corporation,467,448,95.9314775
+18127,2016,6510,East Porter County School Corp,186,181,97.311828
+18127,2016,6520,Porter Township School Corp,131,127,96.9465649
+18127,2016,6530,Union Township School Corp,146,144,98.630137
+18127,2016,6550,Portage Township Schools,597,541,90.6197655
+18127,2016,6560,Valparaiso Community Schools,489,462,94.4785276
+18129,2016,6590,M S D Mount Vernon,169,164,97.0414201
+18129,2016,6600,M S D North Posey Co Schools,107,98,91.588785
+18131,2016,6620,Eastern Pulaski Community Sch Corp,101,94,93.0693069
+18131,2016,6630,West Central School Corp,58,50,86.2068966
+18133,2016,6705,South Putnam Community Schools,82,79,96.3414634
+18133,2016,6715,North Putnam Community Schools,109,101,92.6605505
+18133,2016,6750,Cloverdale Community Schools,105,101,96.1904762
+18133,2016,6755,Greencastle Community School Corp,128,119,92.96875
+18135,2016,6795,Union School Corporation,33,22,66.6666667
+18135,2016,6805,Randolph Southern School Corp,31,31,100
+18135,2016,6820,Monroe Central School Corp,81,78,96.2962963
+18135,2016,6825,Randolph Central School Corp,89,85,95.505618
+18135,2016,6835,Randolph Eastern School Corp,59,56,94.9152542
+18137,2016,6865,South Ripley Com Sch Corp,99,94,94.9494949
+18137,2016,6895,Batesville Community School Corp,197,193,97.9695431
+18137,2016,6900,Jac-Cen-Del Community Sch Corp,59,53,89.8305085
+18137,2016,6910,Milan Community Schools,88,84,95.4545455
+18139,2016,6995,Rush County Schools,174,166,95.4022989
+18141,2016,7150,John Glenn School Corporation,170,158,92.9411765
+18141,2016,7175,Penn-Harris-Madison School Corp,844,824,97.6303318
+18141,2016,7200,School City of Mishawaka,340,311,91.4705882
+18141,2016,7205,South Bend Community School Corp,1207,1011,83.7613919
+18141,2016,7215,Union-North United School Corp,69,59,85.5072464
+18143,2016,7230,Scott County School District 1,86,77,89.5348837
+18143,2016,7255,Scott County School District 2,194,162,83.5051546
+18145,2016,7285,Shelby Eastern Schools,77,70,90.9090909
+18145,2016,7350,Northwestern Con School Corp,114,110,96.4912281
+18145,2016,7360,Southwestern Con Sch Shelby Co,47,47,100
+18145,2016,7365,Shelbyville Central Schools,248,232,93.5483871
+18147,2016,7385,North Spencer County Sch Corp,125,125,100
+18147,2016,7445,South Spencer County Sch Corp,103,91,88.3495146
+18149,2016,7495,Oregon-Davis School Corp,54,42,77.7777778
+18149,2016,7515,North Judson-San Pierre Sch Corp,82,75,91.4634146
+18149,2016,7525,Knox Community School Corp,135,120,88.8888889
+18151,2016,7605,Fremont Community Schools,79,67,84.8101266
+29063,2016,7610,Hamilton Community Schools,42,34,80.952381
+18151,2016,7615,M S D Steuben County,212,185,87.2641509
+18153,2016,7645,Northeast School Corp,75,67,89.3333333
+18153,2016,7715,Southwest School Corp,138,132,95.6521739
+18155,2016,7775,Switzerland County School Corp,117,110,94.017094
+18157,2016,7855,Lafayette School Corporation,459,405,88.2352941
+18157,2016,7865,Tippecanoe School Corp,767,715,93.220339
+18157,2016,7875,West Lafayette Com School Corp,166,166,100
+18159,2016,7935,Tri-Central Community Schools,71,69,97.1830986
+18159,2016,7945,Tipton Community School Corp,129,126,97.6744186
+18161,2016,7950,Union Co/Clg Corner Joint Sch Dist,124,112,90.3225806
+18163,2016,7995,Evansville Vanderburgh School Corp,1535,1212,78.9576547
+18165,2016,8010,North Vermillion Com Sch Corp,75,66,88
+18165,2016,8020,South Vermillion Com Sch Corp,106,103,97.1698113
+18167,2016,8030,Vigo County School Corp,944,855,90.5720339
+18169,2016,8045,Manchester Community Schools,111,106,95.4954955
+18169,2016,8050,M S D Wabash County Schools,181,154,85.0828729
+18169,2016,8060,Wabash City Schools,103,97,94.1747573
+18171,2016,8115,M S D Warren County,87,85,97.7011494
+18173,2016,8130,Warrick County School Corp,732,635,86.7486339
+18175,2016,8205,Salem Community Schools,133,126,94.7368421
+18175,2016,8215,East Washington School Corp,120,110,91.6666667
+18175,2016,8220,West Washington School Corp,78,77,98.7179487
+18177,2016,8305,Nettle Creek School Corporation,73,70,95.890411
+18177,2016,8355,Western Wayne Schools,81,70,86.4197531
+18177,2016,8360,Centerville-Abington Com Schs,120,113,94.1666667
+18177,2016,8375,Northeastern Wayne Schools,96,92,95.8333333
+18177,2016,8385,Richmond Community Schools,305,292,95.7377049
+18179,2016,8425,Southern Wells Com Schools,65,60,92.3076923
+18179,2016,8435,Northern Wells Com Schools,204,195,95.5882353
+18179,2016,8445,M S D Bluffton-Harrison,110,108,98.1818182
+18181,2016,8515,North White School Corp,50,43,86
+18181,2016,8525,Frontier School Corporation,60,56,93.3333333
+18181,2016,8535,Tri-County School Corporation,51,43,84.3137255
+18181,2016,8565,Twin Lakes School Corp,156,142,91.025641
+18183,2016,8625,Smith-Green Community Schools,101,97,96.039604
+18183,2016,8665,Whitley Co Cons Schools,243,231,95.0617284
+18097,2016,8810,CSUSA Howe,73,46,63.0136986
+18097,2016,8815,CSUSA Manual,98,81,82.6530612
+18089,2016,8820,Edison Learning Roosevelt,84,48,57.1428571
+18177,2016,9305,Excel Center - Richmond,133,28,21.0526316
+18163,2016,9315,Signature School Inc,72,72,100
+18043,2016,9320,Community Montessori Inc,33,30,90.9090909
+18057,2016,9325,Options Charter School - Carmel,39,14,35.8974359
+18097,2016,9330,Irvington Community School,64,50,78.125
+18157,2016,9335,Excel Center - Lafayette Square,75,22,29.3333333
+18157,2016,9345,Excel Center - Lafayette,149,40,26.8456376
+18067,2016,9355,Excel Center - Kokomo,116,37,31.8965517
+18097,2016,9380,Christel House Academy South,20,17,85
+18097,2016,9385,Christel House DORS South,75,14,18.6666667
+18097,2016,9440,Christel House DORS West,16,7,43.75
+18097,2016,9445,Charles A Tindley Accelerated Sch,36,32,88.8888889
+18089,2016,9460,Thea Bowman Leadership Academy,101,96,95.049505
+18089,2016,9535,Gary Lighthouse Charter School,104,102,98.0769231
+18097,2016,9545,21st Century Charter Sch of Gary,35,32,91.4285714
+18097,2016,9575,Indpls Lighthouse Charter School,57,56,98.245614
+18035,2016,9620,Burris Laboratory School,40,39,97.5
+18035,2016,9625,IN Acad for Sci Math & Humanities,143,139,97.2027972
+18057,2016,9640,Options Charter School Noblesville,63,14,22.2222222
+18097,2016,9650,Herron Charter,182,180,98.9010989
+18097,2016,9670,Indianapolis Metropolitan High Sch,50,31,62
+18089,2016,9705,Hammond Academy of Science & Tech,65,62,95.3846154
+18127,2016,9730,Neighbors' New Vistas High School,100,33,33
+18095,2016,9750,Excel Center - Anderson,138,35,25.3623188
+18095,2016,9790,Anderson Preparatory Academy,59,53,89.8305085
+18097,2016,9805,Hoosier Academy - Indianapolis,15,8,53.3333333
+18097,2016,9840,Excel Center - University Heights,73,7,9.5890411
+18057,2016,9855,Excel Center - Noblesville,40,10,25
+18097,2016,9865,Hoosier Acad Virtual Charter,538,122,22.6765799
+18019,2016,9875,Rock Creek Community Academy,23,21,91.3043478
+18141,2016,9880,Career Academy High School,47,43,91.4893617
+18097,2016,9885,Gary Middle College,99,27,27.2727273
+18097,2016,9890,Indiana Virtual School,419,24,5.7279236
+18097,2016,9895,IN Math & Science Academy - North,17,13,76.4705882
+18141,2016,9900,Excel Center - South Bend,24,0,0
+18097,2016,9905,Indiana Connections Academy,775,340,43.8709677
+18097,2016,9910,Excel Center for Adult Learners,499,113,22.6452906
+18097,2016,9915,Marion Academy,29,2,6.8965517
+18097,2016,9920,Damar Charter Academy,17,5,29.4117647
+18097,2016,9930,Nexus Academy of Indianapolis,44,26,59.0909091
+18153,2016,9950,Dugger Union Community School Corp,23,16,69.5652174
