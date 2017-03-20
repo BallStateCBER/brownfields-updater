@@ -126,6 +126,12 @@ class ImportDefinitions
             ]
         ];
 
+        $imports['Households with people over 60'] = [
+            'filename' => 'Demographics_Householdwithover60.csv',
+            'sourceId' => 102,
+            'categoryId' => 6025
+        ];
+
         return $imports;
     }
 }
