@@ -165,6 +165,15 @@ class ImportDefinitions
             'categoryId' => 350
         ];
 
+        $imports['Population by sex'] = [
+            'filename' => 'Demographics_PopulationbySex.csv',
+            'sourceId' => 107,
+            'categoryIds' => [
+                'Male Total Population' => 270,
+                'Female Total Population' => 271
+            ]
+        ];
+
         return $imports;
     }
 }
