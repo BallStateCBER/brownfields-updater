@@ -149,7 +149,7 @@ class Location
         ];
 
         foreach ($locationCodeFields as $field) {
-            if (isset($row[$field]) && $row[$field]) {
+            if (isset($row[$field]) && $row[$field] !== '') {
                 return $row[$field];
             }
         }
