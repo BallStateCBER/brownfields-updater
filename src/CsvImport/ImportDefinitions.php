@@ -159,6 +159,12 @@ class ImportDefinitions
             'categoryId' => 1
         ];
 
+        $imports['Population and housing units density'] = [
+            'filename' => 'Demographics_PopulationandHousingUnitsDensity.csv',
+            'sourceId' => 106,
+            'categoryId' => 350
+        ];
+
         return $imports;
     }
 }
