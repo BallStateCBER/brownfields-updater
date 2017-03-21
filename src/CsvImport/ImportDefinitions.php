@@ -153,6 +153,12 @@ class ImportDefinitions
             'categoryId' => 438
         ];
 
+        $imports['Population'] = [
+            'filename' => 'Demographics_Population.csv',
+            'sourceId' => 105,
+            'categoryId' => 1
+        ];
+
         return $imports;
     }
 }
