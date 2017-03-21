@@ -147,6 +147,12 @@ class ImportDefinitions
             ]
         ];
 
+        $imports['Households With People Under 18'] = [
+            'filename' => 'Demographics_Householdwithunder18.csv',
+            'sourceId' => 104,
+            'categoryId' => 438
+        ];
+
         return $imports;
     }
 }
