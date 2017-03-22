@@ -14,6 +14,7 @@ class ImportDefinitions
 
         $imports['Population by age'] = [
             'filename' => 'Demographics_PopulationbyAge.csv',
+            'headerRowCount' => 6,
             'sourceId' => 93, // American Community Survey (https://factfinder.census.gov/...)
             'categoryIds' => [
                 'Total' => 1,
@@ -180,6 +181,39 @@ class ImportDefinitions
             'categoryIds' => [
                 'Poverty Percent, All Ages' => 5686,
                 'Poverty Percent, Age 0-17' => 5688
+            ]
+        ];
+
+        $imports['Public assistance, TANF'] = [
+            'filename' => 'Demographics_PublicAssistance.csv',
+            'headerRowCount' => 6,
+            'sourceId' => 109,
+            'categoryIds' => [
+                'TANF' => 5785,
+                'SNAP' => null,
+                'WIC' => null
+            ]
+        ];
+
+        $imports['Public assistance, SNAP'] = [
+            'filename' => 'Demographics_PublicAssistance.csv',
+            'headerRowCount' => 6,
+            'sourceId' => 110,
+            'categoryIds' => [
+                'TANF' => null,
+                'SNAP' => 5787,
+                'WIC' => null
+            ]
+        ];
+
+        $imports['Public assistance, WIC'] = [
+            'filename' => 'Demographics_PublicAssistance.csv',
+            'headerRowCount' => 6,
+            'sourceId' => 111,
+            'categoryIds' => [
+                'TANF' => null,
+                'SNAP' => null,
+                'WIC' => 5783
             ]
         ];
 
