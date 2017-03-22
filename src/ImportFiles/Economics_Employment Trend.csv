@@ -1,0 +1,2397 @@
+Source ,Bureau of Labor Statistics ,,,
+Note ,Employment Trend (not seasonal adjusted),,,
+URL ,https://data.bls.gov/pdq/SurveyOutputServlet,,,
+,,,,
+Fips ,Geography ,Years ,Statistic ,Value 
+18001,Adams ,1990,Employment ,14289
+18003,Allen,1990,Employment ,154105
+18005,Bartholmew ,1990,Employment ,32169
+18007,Benton,1990,Employment ,4487
+18009,Blackford ,1990,Employment ,6323
+18011,Boone ,1990,Employment ,19935
+18013,Brown ,1990,Employment ,6944
+18015,Carroll ,1990,Employment ,9152
+18017,Cass ,1990,Employment ,17545
+18019,Clark ,1990,Employment ,43188
+18021,Clay,1990,Employment ,10628
+18023,Clinton ,1990,Employment ,13915
+18025,Crawford ,1990,Employment ,3976
+18027,Daviess,1990,Employment ,11905
+18029,Dearborn,1990,Employment ,17937
+18031,Decatur ,1990,Employment ,11503
+18033,DeKalb ,1990,Employment ,17993
+18035,Delaware ,1990,Employment ,55518
+18037,Dubois ,1990,Employment ,19571
+18039,Elkhart ,1990,Employment ,80539
+18041,Fayette,1990,Employment ,11476
+18043,Floyd ,1990,Employment ,31057
+18045,Fountain ,1990,Employment ,7772
+18047,Franklin ,1990,Employment ,8993
+18049,Fulton ,1990,Employment ,8848
+18051,Gibson ,1990,Employment ,14879
+18053,Grant ,1990,Employment ,33714
+18055,Greene,1990,Employment ,12924
+18057,Hamilton ,1990,Employment ,59638
+18059,Hancock ,1990,Employment ,23569
+18061,Harrison ,1990,Employment ,14211
+18063,Hendricks ,1990,Employment ,39497
+18065,Henry,1990,Employment ,21679
+18067,Howard,1990,Employment ,37284
+18069,Huntington ,1990,Employment ,17828
+18071,Jackson ,1990,Employment ,17640
+18073,Jasper,1990,Employment ,11266
+18075,Jay ,1990,Employment ,9905
+18077,Jefferson,1990,Employment ,13885
+18079,Jennings,1990,Employment ,10990
+18081,Johnson ,1990,Employment ,46554
+18083,Knox ,1990,Employment ,17234
+18085,Kosciusko ,1990,Employment ,32874
+18087,LaGrange ,1990,Employment ,13189
+18089,Lake ,1990,Employment ,208343
+18091,LaPorte ,1990,Employment ,49382
+18093,Lawrence ,1990,Employment ,19576
+18095,Madison ,1990,Employment ,60069
+18097,Marion ,1990,Employment ,408409
+18099,Marshall,1990,Employment ,21241
+18101,Martin,1990,Employment ,4633
+18103,Miami,1990,Employment ,14959
+18105,Monroe ,1990,Employment ,52975
+18107,Montgomery ,1990,Employment ,16773
+18109,Morgan ,1990,Employment ,27995
+18111,Newton ,1990,Employment ,6304
+18113,Noble ,1990,Employment ,18535
+18115,Ohio,1990,Employment ,2418
+18117,Orange,1990,Employment ,7767
+18119,Owen ,1990,Employment ,7698
+18121,Parke,1990,Employment ,6769
+18123,Perry,1990,Employment ,7758
+18125,Pike ,1990,Employment ,5540
+18127,Porter,1990,Employment ,63253
+18129,Posey,1990,Employment ,12322
+18131,Pulaski,1990,Employment ,5525
+18133,Putnam ,1990,Employment ,13171
+18135,Randolph ,1990,Employment ,11803
+18137,Ripley,1990,Employment ,11235
+18139,Rush ,1990,Employment ,8229
+18141,St. Joseph,1990,Employment ,118247
+18143,Scott,1990,Employment ,8820
+18145,Shelby ,1990,Employment ,20181
+18147,Spencer ,1990,Employment ,9188
+18149,Starke,1990,Employment ,9557
+18151,Steuben ,1990,Employment ,13981
+18153,Sullivan ,1990,Employment ,7958
+18155,Switzerland ,1990,Employment ,3312
+18157,Tippecanoe ,1990,Employment ,63919
+18159,Tipton,1990,Employment ,7831
+18161,Union ,1990,Employment ,3210
+18163,Vanderburgh ,1990,Employment ,80187
+18165,Vermillion ,1990,Employment ,7024
+18167,Vigo ,1990,Employment ,46702
+18169,Wabash ,1990,Employment ,17054
+18171,Warren ,1990,Employment ,3603
+18173,Warrick ,1990,Employment ,22492
+18175,Washington ,1990,Employment ,10456
+18177,Wayne ,1990,Employment ,32744
+18179,Wells,1990,Employment ,13070
+18181,White ,1990,Employment ,11433
+18183,Whitley,1990,Employment ,13890
+18001,Adams ,1991,Employment ,14018
+18003,Allen,1991,Employment ,151062
+18005,Bartholmew ,1991,Employment ,31469
+18007,Benton,1991,Employment ,4457
+18009,Blackford ,1991,Employment ,5668
+18011,Boone ,1991,Employment ,19730
+18013,Brown ,1991,Employment ,6815
+18015,Carroll ,1991,Employment ,9505
+18017,Cass ,1991,Employment ,17377
+18019,Clark ,1991,Employment ,42608
+18021,Clay,1991,Employment ,10695
+18023,Clinton ,1991,Employment ,13824
+18025,Crawford ,1991,Employment ,3943
+18027,Daviess,1991,Employment ,11772
+18029,Dearborn,1991,Employment ,17836
+18031,Decatur ,1991,Employment ,11433
+18033,DeKalb ,1991,Employment ,17780
+18035,Delaware ,1991,Employment ,54714
+18037,Dubois ,1991,Employment ,19557
+18039,Elkhart ,1991,Employment ,76544
+18041,Fayette,1991,Employment ,10925
+18043,Floyd ,1991,Employment ,31016
+18045,Fountain ,1991,Employment ,7624
+18047,Franklin ,1991,Employment ,8870
+18049,Fulton ,1991,Employment ,8723
+18051,Gibson ,1991,Employment ,14697
+18053,Grant ,1991,Employment ,32442
+18055,Greene,1991,Employment ,12886
+18057,Hamilton ,1991,Employment ,61167
+18059,Hancock ,1991,Employment ,23393
+18061,Harrison ,1991,Employment ,14124
+18063,Hendricks ,1991,Employment ,39333
+18065,Henry,1991,Employment ,21058
+18067,Howard,1991,Employment ,36585
+18069,Huntington ,1991,Employment ,17523
+18071,Jackson ,1991,Employment ,17520
+18073,Jasper,1991,Employment ,11038
+18075,Jay ,1991,Employment ,9601
+18077,Jefferson,1991,Employment ,13253
+18079,Jennings,1991,Employment ,10719
+18081,Johnson ,1991,Employment ,47137
+18083,Knox ,1991,Employment ,17113
+18085,Kosciusko ,1991,Employment ,32350
+18087,LaGrange ,1991,Employment ,12898
+18089,Lake ,1991,Employment ,206205
+18091,LaPorte ,1991,Employment ,48586
+18093,Lawrence ,1991,Employment ,19190
+18095,Madison ,1991,Employment ,58969
+18097,Marion ,1991,Employment ,402517
+18099,Marshall,1991,Employment ,20928
+18101,Martin,1991,Employment ,4554
+18103,Miami,1991,Employment ,14464
+18105,Monroe ,1991,Employment ,52150
+18107,Montgomery ,1991,Employment ,16739
+18109,Morgan ,1991,Employment ,27808
+18111,Newton ,1991,Employment ,6062
+18113,Noble ,1991,Employment ,17659
+18115,Ohio,1991,Employment ,2356
+18117,Orange,1991,Employment ,7381
+18119,Owen ,1991,Employment ,7688
+18121,Parke,1991,Employment ,6622
+18123,Perry,1991,Employment ,7630
+18125,Pike ,1991,Employment ,5399
+18127,Porter,1991,Employment ,63651
+18129,Posey,1991,Employment ,12040
+18131,Pulaski,1991,Employment ,5457
+18133,Putnam ,1991,Employment ,13412
+18135,Randolph ,1991,Employment ,10682
+18137,Ripley,1991,Employment ,11190
+18139,Rush ,1991,Employment ,8168
+18141,St. Joseph,1991,Employment ,115925
+18143,Scott,1991,Employment ,8743
+18145,Shelby ,1991,Employment ,19920
+18147,Spencer ,1991,Employment ,8735
+18149,Starke,1991,Employment ,9282
+18151,Steuben ,1991,Employment ,13724
+18153,Sullivan ,1991,Employment ,7972
+18155,Switzerland ,1991,Employment ,3621
+18157,Tippecanoe ,1991,Employment ,63214
+18159,Tipton,1991,Employment ,7599
+18161,Union ,1991,Employment ,3085
+18163,Vanderburgh ,1991,Employment ,78822
+18165,Vermillion ,1991,Employment ,6997
+18167,Vigo ,1991,Employment ,47017
+18169,Wabash ,1991,Employment ,16503
+18171,Warren ,1991,Employment ,3516
+18173,Warrick ,1991,Employment ,22436
+18175,Washington ,1991,Employment ,9788
+18177,Wayne ,1991,Employment ,31225
+18179,Wells,1991,Employment ,12766
+18181,White ,1991,Employment ,11264
+18183,Whitley,1991,Employment ,13696
+18001,Adams ,1992,Employment ,14228
+18003,Allen,1992,Employment ,153471
+18005,Bartholmew ,1992,Employment ,32817
+18007,Benton,1992,Employment ,4539
+18009,Blackford ,1992,Employment ,5487
+18011,Boone ,1992,Employment ,20068
+18013,Brown ,1992,Employment ,7163
+18015,Carroll ,1992,Employment ,10137
+18017,Cass ,1992,Employment ,17511
+18019,Clark ,1992,Employment ,43837
+18021,Clay,1992,Employment ,10925
+18023,Clinton ,1992,Employment ,13976
+18025,Crawford ,1992,Employment ,3979
+18027,Daviess,1992,Employment ,12008
+18029,Dearborn,1992,Employment ,18379
+18031,Decatur ,1992,Employment ,12251
+18033,DeKalb ,1992,Employment ,18310
+18035,Delaware ,1992,Employment ,57233
+18037,Dubois ,1992,Employment ,19927
+18039,Elkhart ,1992,Employment ,79490
+18041,Fayette,1992,Employment ,10856
+18043,Floyd ,1992,Employment ,32060
+18045,Fountain ,1992,Employment ,7672
+18047,Franklin ,1992,Employment ,8942
+18049,Fulton ,1992,Employment ,8837
+18051,Gibson ,1992,Employment ,15140
+18053,Grant ,1992,Employment ,32563
+18055,Greene,1992,Employment ,13376
+18057,Hamilton ,1992,Employment ,63881
+18059,Hancock ,1992,Employment ,23867
+18061,Harrison ,1992,Employment ,14512
+18063,Hendricks ,1992,Employment ,40321
+18065,Henry,1992,Employment ,21376
+18067,Howard,1992,Employment ,37794
+18069,Huntington ,1992,Employment ,17713
+18071,Jackson ,1992,Employment ,18268
+18073,Jasper,1992,Employment ,11220
+18075,Jay ,1992,Employment ,9991
+18077,Jefferson,1992,Employment ,13624
+18079,Jennings,1992,Employment ,11265
+18081,Johnson ,1992,Employment ,47971
+18083,Knox ,1992,Employment ,17642
+18085,Kosciusko ,1992,Employment ,33099
+18087,LaGrange ,1992,Employment ,13335
+18089,Lake ,1992,Employment ,205006
+18091,LaPorte ,1992,Employment ,48830
+18093,Lawrence ,1992,Employment ,19574
+18095,Madison ,1992,Employment ,58900
+18097,Marion ,1992,Employment ,404860
+18099,Marshall,1992,Employment ,21673
+18101,Martin,1992,Employment ,4650
+18103,Miami,1992,Employment ,14724
+18105,Monroe ,1992,Employment ,52696
+18107,Montgomery ,1992,Employment ,17853
+18109,Morgan ,1992,Employment ,28430
+18111,Newton ,1992,Employment ,6222
+18113,Noble ,1992,Employment ,19487
+18115,Ohio,1992,Employment ,2342
+18117,Orange,1992,Employment ,7676
+18119,Owen ,1992,Employment ,8329
+18121,Parke,1992,Employment ,6770
+18123,Perry,1992,Employment ,8001
+18125,Pike ,1992,Employment ,5492
+18127,Porter,1992,Employment ,64127
+18129,Posey,1992,Employment ,12075
+18131,Pulaski,1992,Employment ,5443
+18133,Putnam ,1992,Employment ,14280
+18135,Randolph ,1992,Employment ,10368
+18137,Ripley,1992,Employment ,11352
+18139,Rush ,1992,Employment ,8333
+18141,St. Joseph,1992,Employment ,116383
+18143,Scott,1992,Employment ,8992
+18145,Shelby ,1992,Employment ,20090
+18147,Spencer ,1992,Employment ,8730
+18149,Starke,1992,Employment ,9409
+18151,Steuben ,1992,Employment ,14602
+18153,Sullivan ,1992,Employment ,8092
+18155,Switzerland ,1992,Employment ,3558
+18157,Tippecanoe ,1992,Employment ,63521
+18159,Tipton,1992,Employment ,7809
+18161,Union ,1992,Employment ,3175
+18163,Vanderburgh ,1992,Employment ,79089
+18165,Vermillion ,1992,Employment ,7047
+18167,Vigo ,1992,Employment ,47711
+18169,Wabash ,1992,Employment ,16388
+18171,Warren ,1992,Employment ,3527
+18173,Warrick ,1992,Employment ,22740
+18175,Washington ,1992,Employment ,9731
+18177,Wayne ,1992,Employment ,31726
+18179,Wells,1992,Employment ,12937
+18181,White ,1992,Employment ,11972
+18183,Whitley,1992,Employment ,14030
+18001,Adams ,1993,Employment ,14757
+18003,Allen,1993,Employment ,159081
+18005,Bartholmew ,1993,Employment ,35331
+18007,Benton,1993,Employment ,4833
+18009,Blackford ,1993,Employment ,5504
+18011,Boone ,1993,Employment ,21016
+18013,Brown ,1993,Employment ,7747
+18015,Carroll ,1993,Employment ,10532
+18017,Cass ,1993,Employment ,17522
+18019,Clark ,1993,Employment ,45425
+18021,Clay,1993,Employment ,11552
+18023,Clinton ,1993,Employment ,14520
+18025,Crawford ,1993,Employment ,4204
+18027,Daviess,1993,Employment ,12453
+18029,Dearborn,1993,Employment ,19184
+18031,Decatur ,1993,Employment ,13512
+18033,DeKalb ,1993,Employment ,19084
+18035,Delaware ,1993,Employment ,58663
+18037,Dubois ,1993,Employment ,20700
+18039,Elkhart ,1993,Employment ,85001
+18041,Fayette,1993,Employment ,11613
+18043,Floyd ,1993,Employment ,33443
+18045,Fountain ,1993,Employment ,7945
+18047,Franklin ,1993,Employment ,9314
+18049,Fulton ,1993,Employment ,9333
+18051,Gibson ,1993,Employment ,15266
+18053,Grant ,1993,Employment ,33067
+18055,Greene,1993,Employment ,13946
+18057,Hamilton ,1993,Employment ,69277
+18059,Hancock ,1993,Employment ,24952
+18061,Harrison ,1993,Employment ,15218
+18063,Hendricks ,1993,Employment ,42746
+18065,Henry,1993,Employment ,22364
+18067,Howard,1993,Employment ,39882
+18069,Huntington ,1993,Employment ,18483
+18071,Jackson ,1993,Employment ,19084
+18073,Jasper,1993,Employment ,12136
+18075,Jay ,1993,Employment ,10292
+18077,Jefferson,1993,Employment ,13784
+18079,Jennings,1993,Employment ,12265
+18081,Johnson ,1993,Employment ,50958
+18083,Knox ,1993,Employment ,18843
+18085,Kosciusko ,1993,Employment ,33887
+18087,LaGrange ,1993,Employment ,14379
+18089,Lake ,1993,Employment ,209571
+18091,LaPorte ,1993,Employment ,50561
+18093,Lawrence ,1993,Employment ,20976
+18095,Madison ,1993,Employment ,60800
+18097,Marion ,1993,Employment ,418102
+18099,Marshall,1993,Employment ,23301
+18101,Martin,1993,Employment ,4790
+18103,Miami,1993,Employment ,15118
+18105,Monroe ,1993,Employment ,55488
+18107,Montgomery ,1993,Employment ,18896
+18109,Morgan ,1993,Employment ,29705
+18111,Newton ,1993,Employment ,6379
+18113,Noble ,1993,Employment ,20930
+18115,Ohio,1993,Employment ,2457
+18117,Orange,1993,Employment ,8331
+18119,Owen ,1993,Employment ,9226
+18121,Parke,1993,Employment ,7135
+18123,Perry,1993,Employment ,8418
+18125,Pike ,1993,Employment ,5694
+18127,Porter,1993,Employment ,66375
+18129,Posey,1993,Employment ,12796
+18131,Pulaski,1993,Employment ,5605
+18133,Putnam ,1993,Employment ,15152
+18135,Randolph ,1993,Employment ,10779
+18137,Ripley,1993,Employment ,11984
+18139,Rush ,1993,Employment ,8910
+18141,St. Joseph,1993,Employment ,121481
+18143,Scott,1993,Employment ,9417
+18145,Shelby ,1993,Employment ,20995
+18147,Spencer ,1993,Employment ,9673
+18149,Starke,1993,Employment ,9914
+18151,Steuben ,1993,Employment ,15333
+18153,Sullivan ,1993,Employment ,8888
+18155,Switzerland ,1993,Employment ,3732
+18157,Tippecanoe ,1993,Employment ,66254
+18159,Tipton,1993,Employment ,8296
+18161,Union ,1993,Employment ,3450
+18163,Vanderburgh ,1993,Employment ,83656
+18165,Vermillion ,1993,Employment ,7366
+18167,Vigo ,1993,Employment ,49507
+18169,Wabash ,1993,Employment ,16926
+18171,Warren ,1993,Employment ,3656
+18173,Warrick ,1993,Employment ,24499
+18175,Washington ,1993,Employment ,10370
+18177,Wayne ,1993,Employment ,33872
+18179,Wells,1993,Employment ,13368
+18181,White ,1993,Employment ,13664
+18183,Whitley,1993,Employment ,14641
+18001,Adams ,1994,Employment ,15477
+18003,Allen,1994,Employment ,165235
+18005,Bartholmew ,1994,Employment ,37627
+18007,Benton,1994,Employment ,4999
+18009,Blackford ,1994,Employment ,5964
+18011,Boone ,1994,Employment ,22115
+18013,Brown ,1994,Employment ,8140
+18015,Carroll ,1994,Employment ,11213
+18017,Cass ,1994,Employment ,17221
+18019,Clark ,1994,Employment ,47446
+18021,Clay,1994,Employment ,11952
+18023,Clinton ,1994,Employment ,15034
+18025,Crawford ,1994,Employment ,4300
+18027,Daviess,1994,Employment ,12744
+18029,Dearborn,1994,Employment ,20186
+18031,Decatur ,1994,Employment ,14636
+18033,DeKalb ,1994,Employment ,20024
+18035,Delaware ,1994,Employment ,61877
+18037,Dubois ,1994,Employment ,21314
+18039,Elkhart ,1994,Employment ,90858
+18041,Fayette,1994,Employment ,11671
+18043,Floyd ,1994,Employment ,35063
+18045,Fountain ,1994,Employment ,8245
+18047,Franklin ,1994,Employment ,9814
+18049,Fulton ,1994,Employment ,9669
+18051,Gibson ,1994,Employment ,15201
+18053,Grant ,1994,Employment ,34259
+18055,Greene,1994,Employment ,14182
+18057,Hamilton ,1994,Employment ,75260
+18059,Hancock ,1994,Employment ,26397
+18061,Harrison ,1994,Employment ,16057
+18063,Hendricks ,1994,Employment ,45306
+18065,Henry,1994,Employment ,23624
+18067,Howard,1994,Employment ,40675
+18069,Huntington ,1994,Employment ,19256
+18071,Jackson ,1994,Employment ,20051
+18073,Jasper,1994,Employment ,13210
+18075,Jay ,1994,Employment ,10848
+18077,Jefferson,1994,Employment ,14273
+18079,Jennings,1994,Employment ,13201
+18081,Johnson ,1994,Employment ,53856
+18083,Knox ,1994,Employment ,19522
+18085,Kosciusko ,1994,Employment ,35436
+18087,LaGrange ,1994,Employment ,15913
+18089,Lake ,1994,Employment ,213640
+18091,LaPorte ,1994,Employment ,52021
+18093,Lawrence ,1994,Employment ,22203
+18095,Madison ,1994,Employment ,63166
+18097,Marion ,1994,Employment ,432801
+18099,Marshall,1994,Employment ,25303
+18101,Martin,1994,Employment ,4938
+18103,Miami,1994,Employment ,15597
+18105,Monroe ,1994,Employment ,58540
+18107,Montgomery ,1994,Employment ,20064
+18109,Morgan ,1994,Employment ,31474
+18111,Newton ,1994,Employment ,6421
+18113,Noble ,1994,Employment ,23077
+18115,Ohio,1994,Employment ,2511
+18117,Orange,1994,Employment ,8771
+18119,Owen ,1994,Employment ,9301
+18121,Parke,1994,Employment ,7467
+18123,Perry,1994,Employment ,8788
+18125,Pike ,1994,Employment ,5848
+18127,Porter,1994,Employment ,68379
+18129,Posey,1994,Employment ,13329
+18131,Pulaski,1994,Employment ,5859
+18133,Putnam ,1994,Employment ,16451
+18135,Randolph ,1994,Employment ,11202
+18137,Ripley,1994,Employment ,12710
+18139,Rush ,1994,Employment ,9351
+18141,St. Joseph,1994,Employment ,129074
+18143,Scott,1994,Employment ,9874
+18145,Shelby ,1994,Employment ,21850
+18147,Spencer ,1994,Employment ,10232
+18149,Starke,1994,Employment ,10619
+18151,Steuben ,1994,Employment ,16258
+18153,Sullivan ,1994,Employment ,9382
+18155,Switzerland ,1994,Employment ,3975
+18157,Tippecanoe ,1994,Employment ,68046
+18159,Tipton,1994,Employment ,8394
+18161,Union ,1994,Employment ,3722
+18163,Vanderburgh ,1994,Employment ,87056
+18165,Vermillion ,1994,Employment ,7597
+18167,Vigo ,1994,Employment ,50745
+18169,Wabash ,1994,Employment ,17785
+18171,Warren ,1994,Employment ,3802
+18173,Warrick ,1994,Employment ,25908
+18175,Washington ,1994,Employment ,10787
+18177,Wayne ,1994,Employment ,36886
+18179,Wells,1994,Employment ,13909
+18181,White ,1994,Employment ,15310
+18183,Whitley,1994,Employment ,15303
+18001,Adams ,1995,Employment ,16005
+18003,Allen,1995,Employment ,169801
+18005,Bartholmew ,1995,Employment ,38986
+18007,Benton,1995,Employment ,5152
+18009,Blackford ,1995,Employment ,6085
+18011,Boone ,1995,Employment ,22923
+18013,Brown ,1995,Employment ,8469
+18015,Carroll ,1995,Employment ,11752
+18017,Cass ,1995,Employment ,17924
+18019,Clark ,1995,Employment ,48551
+18021,Clay,1995,Employment ,12497
+18023,Clinton ,1995,Employment ,15401
+18025,Crawford ,1995,Employment ,4427
+18027,Daviess,1995,Employment ,13179
+18029,Dearborn,1995,Employment ,21133
+18031,Decatur ,1995,Employment ,14836
+18033,DeKalb ,1995,Employment ,20669
+18035,Delaware ,1995,Employment ,63871
+18037,Dubois ,1995,Employment ,22111
+18039,Elkhart ,1995,Employment ,93478
+18041,Fayette,1995,Employment ,11312
+18043,Floyd ,1995,Employment ,36104
+18045,Fountain ,1995,Employment ,8365
+18047,Franklin ,1995,Employment ,10344
+18049,Fulton ,1995,Employment ,10352
+18051,Gibson ,1995,Employment ,15205
+18053,Grant ,1995,Employment ,34385
+18055,Greene,1995,Employment ,14422
+18057,Hamilton ,1995,Employment ,80315
+18059,Hancock ,1995,Employment ,27679
+18061,Harrison ,1995,Employment ,16669
+18063,Hendricks ,1995,Employment ,47417
+18065,Henry,1995,Employment ,23990
+18067,Howard,1995,Employment ,42594
+18069,Huntington ,1995,Employment ,19887
+18071,Jackson ,1995,Employment ,21299
+18073,Jasper,1995,Employment ,13685
+18075,Jay ,1995,Employment ,11455
+18077,Jefferson,1995,Employment ,14490
+18079,Jennings,1995,Employment ,13789
+18081,Johnson ,1995,Employment ,56301
+18083,Knox ,1995,Employment ,20202
+18085,Kosciusko ,1995,Employment ,38502
+18087,LaGrange ,1995,Employment ,18315
+18089,Lake ,1995,Employment ,214582
+18091,LaPorte ,1995,Employment ,53076
+18093,Lawrence ,1995,Employment ,23529
+18095,Madison ,1995,Employment ,64172
+18097,Marion ,1995,Employment ,439938
+18099,Marshall,1995,Employment ,25724
+18101,Martin,1995,Employment ,5018
+18103,Miami,1995,Employment ,14658
+18105,Monroe ,1995,Employment ,59084
+18107,Montgomery ,1995,Employment ,19801
+18109,Morgan ,1995,Employment ,32543
+18111,Newton ,1995,Employment ,6569
+18113,Noble ,1995,Employment ,23798
+18115,Ohio,1995,Employment ,2555
+18117,Orange,1995,Employment ,8624
+18119,Owen ,1995,Employment ,9554
+18121,Parke,1995,Employment ,7348
+18123,Perry,1995,Employment ,8606
+18125,Pike ,1995,Employment ,5939
+18127,Porter,1995,Employment ,70032
+18129,Posey,1995,Employment ,13504
+18131,Pulaski,1995,Employment ,6037
+18133,Putnam ,1995,Employment ,16686
+18135,Randolph ,1995,Employment ,11887
+18137,Ripley,1995,Employment ,13022
+18139,Rush ,1995,Employment ,9838
+18141,St. Joseph,1995,Employment ,132433
+18143,Scott,1995,Employment ,10125
+18145,Shelby ,1995,Employment ,22556
+18147,Spencer ,1995,Employment ,10643
+18149,Starke,1995,Employment ,10805
+18151,Steuben ,1995,Employment ,17340
+18153,Sullivan ,1995,Employment ,9482
+18155,Switzerland ,1995,Employment ,4202
+18157,Tippecanoe ,1995,Employment ,71160
+18159,Tipton,1995,Employment ,8861
+18161,Union ,1995,Employment ,3796
+18163,Vanderburgh ,1995,Employment ,87829
+18165,Vermillion ,1995,Employment ,7799
+18167,Vigo ,1995,Employment ,51873
+18169,Wabash ,1995,Employment ,17740
+18171,Warren ,1995,Employment ,3856
+18173,Warrick ,1995,Employment ,26609
+18175,Washington ,1995,Employment ,11433
+18177,Wayne ,1995,Employment ,36919
+18179,Wells,1995,Employment ,14359
+18181,White ,1995,Employment ,14951
+18183,Whitley,1995,Employment ,15879
+18001,Adams ,1996,Employment ,16005
+18003,Allen,1996,Employment ,169432
+18005,Bartholmew ,1996,Employment ,38638
+18007,Benton,1996,Employment ,5046
+18009,Blackford ,1996,Employment ,6162
+18011,Boone ,1996,Employment ,23161
+18013,Brown ,1996,Employment ,8431
+18015,Carroll ,1996,Employment ,11656
+18017,Cass ,1996,Employment ,18556
+18019,Clark ,1996,Employment ,49180
+18021,Clay,1996,Employment ,12267
+18023,Clinton ,1996,Employment ,15570
+18025,Crawford ,1996,Employment ,4338
+18027,Daviess,1996,Employment ,13108
+18029,Dearborn,1996,Employment ,21717
+18031,Decatur ,1996,Employment ,14905
+18033,DeKalb ,1996,Employment ,20677
+18035,Delaware ,1996,Employment ,61096
+18037,Dubois ,1996,Employment ,22057
+18039,Elkhart ,1996,Employment ,91639
+18041,Fayette,1996,Employment ,11193
+18043,Floyd ,1996,Employment ,36613
+18045,Fountain ,1996,Employment ,8444
+18047,Franklin ,1996,Employment ,10332
+18049,Fulton ,1996,Employment ,10093
+18051,Gibson ,1996,Employment ,15010
+18053,Grant ,1996,Employment ,33806
+18055,Greene,1996,Employment ,13976
+18057,Hamilton ,1996,Employment ,83872
+18059,Hancock ,1996,Employment ,28149
+18061,Harrison ,1996,Employment ,17061
+18063,Hendricks ,1996,Employment ,48653
+18065,Henry,1996,Employment ,23951
+18067,Howard,1996,Employment ,42391
+18069,Huntington ,1996,Employment ,19830
+18071,Jackson ,1996,Employment ,20375
+18073,Jasper,1996,Employment ,13686
+18075,Jay ,1996,Employment ,11735
+18077,Jefferson,1996,Employment ,14012
+18079,Jennings,1996,Employment ,13879
+18081,Johnson ,1996,Employment ,57543
+18083,Knox ,1996,Employment ,20514
+18085,Kosciusko ,1996,Employment ,37943
+18087,LaGrange ,1996,Employment ,16529
+18089,Lake ,1996,Employment ,216469
+18091,LaPorte ,1996,Employment ,52135
+18093,Lawrence ,1996,Employment ,22821
+18095,Madison ,1996,Employment ,63808
+18097,Marion ,1996,Employment ,437397
+18099,Marshall,1996,Employment ,25242
+18101,Martin,1996,Employment ,5010
+18103,Miami,1996,Employment ,14458
+18105,Monroe ,1996,Employment ,59796
+18107,Montgomery ,1996,Employment ,19233
+18109,Morgan ,1996,Employment ,33053
+18111,Newton ,1996,Employment ,6194
+18113,Noble ,1996,Employment ,24340
+18115,Ohio,1996,Employment ,2580
+18117,Orange,1996,Employment ,8310
+18119,Owen ,1996,Employment ,9945
+18121,Parke,1996,Employment ,7407
+18123,Perry,1996,Employment ,8516
+18125,Pike ,1996,Employment ,5903
+18127,Porter,1996,Employment ,71805
+18129,Posey,1996,Employment ,13578
+18131,Pulaski,1996,Employment ,5841
+18133,Putnam ,1996,Employment ,16250
+18135,Randolph ,1996,Employment ,11538
+18137,Ripley,1996,Employment ,12935
+18139,Rush ,1996,Employment ,9859
+18141,St. Joseph,1996,Employment ,131291
+18143,Scott,1996,Employment ,10272
+18145,Shelby ,1996,Employment ,22465
+18147,Spencer ,1996,Employment ,10604
+18149,Starke,1996,Employment ,10862
+18151,Steuben ,1996,Employment ,16773
+18153,Sullivan ,1996,Employment ,9520
+18155,Switzerland ,1996,Employment ,3723
+18157,Tippecanoe ,1996,Employment ,71371
+18159,Tipton,1996,Employment ,8741
+18161,Union ,1996,Employment ,3822
+18163,Vanderburgh ,1996,Employment ,87896
+18165,Vermillion ,1996,Employment ,7606
+18167,Vigo ,1996,Employment ,50335
+18169,Wabash ,1996,Employment ,17178
+18171,Warren ,1996,Employment ,3816
+18173,Warrick ,1996,Employment ,27066
+18175,Washington ,1996,Employment ,11172
+18177,Wayne ,1996,Employment ,37126
+18179,Wells,1996,Employment ,14300
+18181,White ,1996,Employment ,13673
+18183,Whitley,1996,Employment ,15943
+18001,Adams ,1997,Employment ,16224
+18003,Allen,1997,Employment ,172074
+18005,Bartholmew ,1997,Employment ,38901
+18007,Benton,1997,Employment ,4968
+18009,Blackford ,1997,Employment ,6277
+18011,Boone ,1997,Employment ,23623
+18013,Brown ,1997,Employment ,8564
+18015,Carroll ,1997,Employment ,11913
+18017,Cass ,1997,Employment ,19198
+18019,Clark ,1997,Employment ,50252
+18021,Clay,1997,Employment ,11944
+18023,Clinton ,1997,Employment ,15798
+18025,Crawford ,1997,Employment ,4423
+18027,Daviess,1997,Employment ,13287
+18029,Dearborn,1997,Employment ,22485
+18031,Decatur ,1997,Employment ,15953
+18033,DeKalb ,1997,Employment ,21304
+18035,Delaware ,1997,Employment ,60677
+18037,Dubois ,1997,Employment ,22217
+18039,Elkhart ,1997,Employment ,91688
+18041,Fayette,1997,Employment ,11073
+18043,Floyd ,1997,Employment ,37529
+18045,Fountain ,1997,Employment ,8348
+18047,Franklin ,1997,Employment ,10343
+18049,Fulton ,1997,Employment ,10076
+18051,Gibson ,1997,Employment ,14876
+18053,Grant ,1997,Employment ,33129
+18055,Greene,1997,Employment ,13717
+18057,Hamilton ,1997,Employment ,88508
+18059,Hancock ,1997,Employment ,28963
+18061,Harrison ,1997,Employment ,17713
+18063,Hendricks ,1997,Employment ,50658
+18065,Henry,1997,Employment ,24563
+18067,Howard,1997,Employment ,41112
+18069,Huntington ,1997,Employment ,20125
+18071,Jackson ,1997,Employment ,20236
+18073,Jasper,1997,Employment ,13837
+18075,Jay ,1997,Employment ,11327
+18077,Jefferson,1997,Employment ,14012
+18079,Jennings,1997,Employment ,14146
+18081,Johnson ,1997,Employment ,59132
+18083,Knox ,1997,Employment ,19385
+18085,Kosciusko ,1997,Employment ,37107
+18087,LaGrange ,1997,Employment ,16656
+18089,Lake ,1997,Employment ,220017
+18091,LaPorte ,1997,Employment ,52529
+18093,Lawrence ,1997,Employment ,23200
+18095,Madison ,1997,Employment ,64043
+18097,Marion ,1997,Employment ,439576
+18099,Marshall,1997,Employment ,25066
+18101,Martin,1997,Employment ,5030
+18103,Miami,1997,Employment ,14689
+18105,Monroe ,1997,Employment ,60794
+18107,Montgomery ,1997,Employment ,19147
+18109,Morgan ,1997,Employment ,34057
+18111,Newton ,1997,Employment ,6341
+18113,Noble ,1997,Employment ,24203
+18115,Ohio,1997,Employment ,2603
+18117,Orange,1997,Employment ,8413
+18119,Owen ,1997,Employment ,10260
+18121,Parke,1997,Employment ,7027
+18123,Perry,1997,Employment ,8607
+18125,Pike ,1997,Employment ,6048
+18127,Porter,1997,Employment ,74055
+18129,Posey,1997,Employment ,13650
+18131,Pulaski,1997,Employment ,5882
+18133,Putnam ,1997,Employment ,16171
+18135,Randolph ,1997,Employment ,10780
+18137,Ripley,1997,Employment ,12945
+18139,Rush ,1997,Employment ,9965
+18141,St. Joseph,1997,Employment ,133603
+18143,Scott,1997,Employment ,10481
+18145,Shelby ,1997,Employment ,22793
+18147,Spencer ,1997,Employment ,10784
+18149,Starke,1997,Employment ,10928
+18151,Steuben ,1997,Employment ,17486
+18153,Sullivan ,1997,Employment ,9469
+18155,Switzerland ,1997,Employment ,3624
+18157,Tippecanoe ,1997,Employment ,71924
+18159,Tipton,1997,Employment ,8506
+18161,Union ,1997,Employment ,3839
+18163,Vanderburgh ,1997,Employment ,88211
+18165,Vermillion ,1997,Employment ,7462
+18167,Vigo ,1997,Employment ,48638
+18169,Wabash ,1997,Employment ,17066
+18171,Warren ,1997,Employment ,3786
+18173,Warrick ,1997,Employment ,27657
+18175,Washington ,1997,Employment ,11475
+18177,Wayne ,1997,Employment ,37229
+18179,Wells,1997,Employment ,14537
+18181,White ,1997,Employment ,12151
+18183,Whitley,1997,Employment ,16220
+18001,Adams ,1998,Employment ,16310
+18003,Allen,1998,Employment ,173139
+18005,Bartholmew ,1998,Employment ,39175
+18007,Benton,1998,Employment ,4903
+18009,Blackford ,1998,Employment ,6288
+18011,Boone ,1998,Employment ,24149
+18013,Brown ,1998,Employment ,8758
+18015,Carroll ,1998,Employment ,12148
+18017,Cass ,1998,Employment ,19572
+18019,Clark ,1998,Employment ,51274
+18021,Clay,1998,Employment ,11905
+18023,Clinton ,1998,Employment ,15645
+18025,Crawford ,1998,Employment ,4499
+18027,Daviess,1998,Employment ,13368
+18029,Dearborn,1998,Employment ,22917
+18031,Decatur ,1998,Employment ,15717
+18033,DeKalb ,1998,Employment ,21481
+18035,Delaware ,1998,Employment ,59942
+18037,Dubois ,1998,Employment ,22625
+18039,Elkhart ,1998,Employment ,93762
+18041,Fayette,1998,Employment ,10803
+18043,Floyd ,1998,Employment ,38122
+18045,Fountain ,1998,Employment ,8376
+18047,Franklin ,1998,Employment ,10617
+18049,Fulton ,1998,Employment ,9826
+18051,Gibson ,1998,Employment ,15533
+18053,Grant ,1998,Employment ,32396
+18055,Greene,1998,Employment ,13854
+18057,Hamilton ,1998,Employment ,93103
+18059,Hancock ,1998,Employment ,29728
+18061,Harrison ,1998,Employment ,18204
+18063,Hendricks ,1998,Employment ,52473
+18065,Henry,1998,Employment ,23800
+18067,Howard,1998,Employment ,41085
+18069,Huntington ,1998,Employment ,20174
+18071,Jackson ,1998,Employment ,20509
+18073,Jasper,1998,Employment ,13721
+18075,Jay ,1998,Employment ,10793
+18077,Jefferson,1998,Employment ,13361
+18079,Jennings,1998,Employment ,14414
+18081,Johnson ,1998,Employment ,60796
+18083,Knox ,1998,Employment ,19029
+18085,Kosciusko ,1998,Employment ,37079
+18087,LaGrange ,1998,Employment ,16949
+18089,Lake ,1998,Employment ,220358
+18091,LaPorte ,1998,Employment ,52378
+18093,Lawrence ,1998,Employment ,22295
+18095,Madison ,1998,Employment ,63724
+18097,Marion ,1998,Employment ,439422
+18099,Marshall,1998,Employment ,24076
+18101,Martin,1998,Employment ,5003
+18103,Miami,1998,Employment ,14902
+18105,Monroe ,1998,Employment ,60353
+18107,Montgomery ,1998,Employment ,18357
+18109,Morgan ,1998,Employment ,34530
+18111,Newton ,1998,Employment ,6535
+18113,Noble ,1998,Employment ,24049
+18115,Ohio,1998,Employment ,2613
+18117,Orange,1998,Employment ,8537
+18119,Owen ,1998,Employment ,10269
+18121,Parke,1998,Employment ,7448
+18123,Perry,1998,Employment ,8503
+18125,Pike ,1998,Employment ,6121
+18127,Porter,1998,Employment ,74918
+18129,Posey,1998,Employment ,13556
+18131,Pulaski,1998,Employment ,5932
+18133,Putnam ,1998,Employment ,16252
+18135,Randolph ,1998,Employment ,10586
+18137,Ripley,1998,Employment ,13146
+18139,Rush ,1998,Employment ,9827
+18141,St. Joseph,1998,Employment ,133663
+18143,Scott,1998,Employment ,10714
+18145,Shelby ,1998,Employment ,22900
+18147,Spencer ,1998,Employment ,11746
+18149,Starke,1998,Employment ,10525
+18151,Steuben ,1998,Employment ,17732
+18153,Sullivan ,1998,Employment ,9304
+18155,Switzerland ,1998,Employment ,3527
+18157,Tippecanoe ,1998,Employment ,72722
+18159,Tipton,1998,Employment ,8640
+18161,Union ,1998,Employment ,3838
+18163,Vanderburgh ,1998,Employment ,88023
+18165,Vermillion ,1998,Employment ,7365
+18167,Vigo ,1998,Employment ,47920
+18169,Wabash ,1998,Employment ,17026
+18171,Warren ,1998,Employment ,3849
+18173,Warrick ,1998,Employment ,27861
+18175,Washington ,1998,Employment ,11441
+18177,Wayne ,1998,Employment ,37518
+18179,Wells,1998,Employment ,14564
+18181,White ,1998,Employment ,13188
+18183,Whitley,1998,Employment ,16369
+18001,Adams ,1999,Employment ,16124
+18003,Allen,1999,Employment ,171515
+18005,Bartholmew ,1999,Employment ,38832
+18007,Benton,1999,Employment ,5295
+18009,Blackford ,1999,Employment ,6205
+18011,Boone ,1999,Employment ,24556
+18013,Brown ,1999,Employment ,8670
+18015,Carroll ,1999,Employment ,12234
+18017,Cass ,1999,Employment ,19517
+18019,Clark ,1999,Employment ,51978
+18021,Clay,1999,Employment ,12031
+18023,Clinton ,1999,Employment ,15607
+18025,Crawford ,1999,Employment ,5076
+18027,Daviess,1999,Employment ,13434
+18029,Dearborn,1999,Employment ,23195
+18031,Decatur ,1999,Employment ,16777
+18033,DeKalb ,1999,Employment ,21343
+18035,Delaware ,1999,Employment ,59298
+18037,Dubois ,1999,Employment ,22881
+18039,Elkhart ,1999,Employment ,95947
+18041,Fayette,1999,Employment ,10508
+18043,Floyd ,1999,Employment ,38413
+18045,Fountain ,1999,Employment ,8411
+18047,Franklin ,1999,Employment ,10716
+18049,Fulton ,1999,Employment ,9677
+18051,Gibson ,1999,Employment ,16169
+18053,Grant ,1999,Employment ,31962
+18055,Greene,1999,Employment ,13649
+18057,Hamilton ,1999,Employment ,97896
+18059,Hancock ,1999,Employment ,30173
+18061,Harrison ,1999,Employment ,18634
+18063,Hendricks ,1999,Employment ,53984
+18065,Henry,1999,Employment ,23532
+18067,Howard,1999,Employment ,41236
+18069,Huntington ,1999,Employment ,19902
+18071,Jackson ,1999,Employment ,21282
+18073,Jasper,1999,Employment ,13938
+18075,Jay ,1999,Employment ,10450
+18077,Jefferson,1999,Employment ,13213
+18079,Jennings,1999,Employment ,14410
+18081,Johnson ,1999,Employment ,62306
+18083,Knox ,1999,Employment ,18646
+18085,Kosciusko ,1999,Employment ,37566
+18087,LaGrange ,1999,Employment ,17159
+18089,Lake ,1999,Employment ,216753
+18091,LaPorte ,1999,Employment ,51736
+18093,Lawrence ,1999,Employment ,21777
+18095,Madison ,1999,Employment ,63257
+18097,Marion ,1999,Employment ,436093
+18099,Marshall,1999,Employment ,24390
+18101,Martin,1999,Employment ,4960
+18103,Miami,1999,Employment ,15113
+18105,Monroe ,1999,Employment ,60380
+18107,Montgomery ,1999,Employment ,17521
+18109,Morgan ,1999,Employment ,35097
+18111,Newton ,1999,Employment ,6280
+18113,Noble ,1999,Employment ,23744
+18115,Ohio,1999,Employment ,2603
+18117,Orange,1999,Employment ,8281
+18119,Owen ,1999,Employment ,10608
+18121,Parke,1999,Employment ,7520
+18123,Perry,1999,Employment ,8613
+18125,Pike ,1999,Employment ,6179
+18127,Porter,1999,Employment ,74504
+18129,Posey,1999,Employment ,13593
+18131,Pulaski,1999,Employment ,5808
+18133,Putnam ,1999,Employment ,16660
+18135,Randolph ,1999,Employment ,10779
+18137,Ripley,1999,Employment ,13284
+18139,Rush ,1999,Employment ,9852
+18141,St. Joseph,1999,Employment ,132256
+18143,Scott,1999,Employment ,10909
+18145,Shelby ,1999,Employment ,22933
+18147,Spencer ,1999,Employment ,11508
+18149,Starke,1999,Employment ,10384
+18151,Steuben ,1999,Employment ,17387
+18153,Sullivan ,1999,Employment ,9098
+18155,Switzerland ,1999,Employment ,3574
+18157,Tippecanoe ,1999,Employment ,73674
+18159,Tipton,1999,Employment ,8631
+18161,Union ,1999,Employment ,3825
+18163,Vanderburgh ,1999,Employment ,88912
+18165,Vermillion ,1999,Employment ,7397
+18167,Vigo ,1999,Employment ,47828
+18169,Wabash ,1999,Employment ,17086
+18171,Warren ,1999,Employment ,3860
+18173,Warrick ,1999,Employment ,28657
+18175,Washington ,1999,Employment ,11307
+18177,Wayne ,1999,Employment ,36915
+18179,Wells,1999,Employment ,14314
+18181,White ,1999,Employment ,13299
+18183,Whitley,1999,Employment ,16352
+18001,Adams ,2000,Employment ,16092
+18003,Allen,2000,Employment ,170831
+18005,Bartholmew ,2000,Employment ,36292
+18007,Benton,2000,Employment ,4686
+18009,Blackford ,2000,Employment ,6719
+18011,Boone ,2000,Employment ,23735
+18013,Brown ,2000,Employment ,7638
+18015,Carroll ,2000,Employment ,10195
+18017,Cass ,2000,Employment ,20003
+18019,Clark ,2000,Employment ,50559
+18021,Clay,2000,Employment ,12309
+18023,Clinton ,2000,Employment ,15970
+18025,Crawford ,2000,Employment ,4861
+18027,Daviess,2000,Employment ,13661
+18029,Dearborn,2000,Employment ,23639
+18031,Decatur ,2000,Employment ,13117
+18033,DeKalb ,2000,Employment ,21033
+18035,Delaware ,2000,Employment ,56569
+18037,Dubois ,2000,Employment ,21645
+18039,Elkhart ,2000,Employment ,94152
+18041,Fayette,2000,Employment ,11854
+18043,Floyd ,2000,Employment ,36709
+18045,Fountain ,2000,Employment ,8377
+18047,Franklin ,2000,Employment ,10911
+18049,Fulton ,2000,Employment ,10318
+18051,Gibson ,2000,Employment ,16167
+18053,Grant ,2000,Employment ,33419
+18055,Greene,2000,Employment ,15241
+18057,Hamilton ,2000,Employment ,99314
+18059,Hancock ,2000,Employment ,29686
+18061,Harrison ,2000,Employment ,18075
+18063,Hendricks ,2000,Employment ,56303
+18065,Henry,2000,Employment ,22420
+18067,Howard,2000,Employment ,40135
+18069,Huntington ,2000,Employment ,20130
+18071,Jackson ,2000,Employment ,21102
+18073,Jasper,2000,Employment ,14186
+18075,Jay ,2000,Employment ,10600
+18077,Jefferson,2000,Employment ,15625
+18079,Jennings,2000,Employment ,13639
+18081,Johnson ,2000,Employment ,61843
+18083,Knox ,2000,Employment ,18741
+18085,Kosciusko ,2000,Employment ,38248
+18087,LaGrange ,2000,Employment ,16479
+18089,Lake ,2000,Employment ,216712
+18091,LaPorte ,2000,Employment ,51890
+18093,Lawrence ,2000,Employment ,21971
+18095,Madison ,2000,Employment ,61399
+18097,Marion ,2000,Employment ,442211
+18099,Marshall,2000,Employment ,22564
+18101,Martin,2000,Employment ,4897
+18103,Miami,2000,Employment ,16957
+18105,Monroe ,2000,Employment ,61992
+18107,Montgomery ,2000,Employment ,19134
+18109,Morgan ,2000,Employment ,34647
+18111,Newton ,2000,Employment ,7036
+18113,Noble ,2000,Employment ,23697
+18115,Ohio,2000,Employment ,2881
+18117,Orange,2000,Employment ,9154
+18119,Owen ,2000,Employment ,10405
+18121,Parke,2000,Employment ,7728
+18123,Perry,2000,Employment ,9036
+18125,Pike ,2000,Employment ,6120
+18127,Porter,2000,Employment ,75181
+18129,Posey,2000,Employment ,13419
+18131,Pulaski,2000,Employment ,6455
+18133,Putnam ,2000,Employment ,16599
+18135,Randolph ,2000,Employment ,13004
+18137,Ripley,2000,Employment ,13349
+18139,Rush ,2000,Employment ,9203
+18141,St. Joseph,2000,Employment ,129774
+18143,Scott,2000,Employment ,10894
+18145,Shelby ,2000,Employment ,22906
+18147,Spencer ,2000,Employment ,10580
+18149,Starke,2000,Employment ,10300
+18151,Steuben ,2000,Employment ,17897
+18153,Sullivan ,2000,Employment ,8728
+18155,Switzerland ,2000,Employment ,4759
+18157,Tippecanoe ,2000,Employment ,75826
+18159,Tipton,2000,Employment ,8436
+18161,Union ,2000,Employment ,3670
+18163,Vanderburgh ,2000,Employment ,86739
+18165,Vermillion ,2000,Employment ,7746
+18167,Vigo ,2000,Employment ,48666
+18169,Wabash ,2000,Employment ,17513
+18171,Warren ,2000,Employment ,4359
+18173,Warrick ,2000,Employment ,27452
+18175,Washington ,2000,Employment ,13489
+18177,Wayne ,2000,Employment ,34175
+18179,Wells,2000,Employment ,14499
+18181,White ,2000,Employment ,13169
+18183,Whitley,2000,Employment ,16635
+18001,Adams ,2001,Employment ,14887
+18003,Allen,2001,Employment ,167870
+18005,Bartholmew ,2001,Employment ,34880
+18007,Benton,2001,Employment ,4659
+18009,Blackford ,2001,Employment ,6674
+18011,Boone ,2001,Employment ,24024
+18013,Brown ,2001,Employment ,7681
+18015,Carroll ,2001,Employment ,10262
+18017,Cass ,2001,Employment ,19463
+18019,Clark ,2001,Employment ,49807
+18021,Clay,2001,Employment ,12247
+18023,Clinton ,2001,Employment ,15883
+18025,Crawford ,2001,Employment ,4949
+18027,Daviess,2001,Employment ,13366
+18029,Dearborn,2001,Employment ,23683
+18031,Decatur ,2001,Employment ,12578
+18033,DeKalb ,2001,Employment ,20430
+18035,Delaware ,2001,Employment ,56621
+18037,Dubois ,2001,Employment ,21453
+18039,Elkhart ,2001,Employment ,90863
+18041,Fayette,2001,Employment ,11308
+18043,Floyd ,2001,Employment ,36267
+18045,Fountain ,2001,Employment ,8206
+18047,Franklin ,2001,Employment ,10849
+18049,Fulton ,2001,Employment ,9821
+18051,Gibson ,2001,Employment ,16369
+18053,Grant ,2001,Employment ,32764
+18055,Greene,2001,Employment ,15365
+18057,Hamilton ,2001,Employment ,104621
+18059,Hancock ,2001,Employment ,30135
+18061,Harrison ,2001,Employment ,17893
+18063,Hendricks ,2001,Employment ,58470
+18065,Henry,2001,Employment ,22055
+18067,Howard,2001,Employment ,38815
+18069,Huntington ,2001,Employment ,19676
+18071,Jackson ,2001,Employment ,21018
+18073,Jasper,2001,Employment ,14208
+18075,Jay ,2001,Employment ,10376
+18077,Jefferson,2001,Employment ,15570
+18079,Jennings,2001,Employment ,13362
+18081,Johnson ,2001,Employment ,63036
+18083,Knox ,2001,Employment ,18696
+18085,Kosciusko ,2001,Employment ,37004
+18087,LaGrange ,2001,Employment ,15703
+18089,Lake ,2001,Employment ,215748
+18091,LaPorte ,2001,Employment ,51298
+18093,Lawrence ,2001,Employment ,21532
+18095,Madison ,2001,Employment ,60919
+18097,Marion ,2001,Employment ,442014
+18099,Marshall,2001,Employment ,21602
+18101,Martin,2001,Employment ,4886
+18103,Miami,2001,Employment ,16597
+18105,Monroe ,2001,Employment ,62249
+18107,Montgomery ,2001,Employment ,18801
+18109,Morgan ,2001,Employment ,34689
+18111,Newton ,2001,Employment ,6915
+18113,Noble ,2001,Employment ,22593
+18115,Ohio,2001,Employment ,2871
+18117,Orange,2001,Employment ,8834
+18119,Owen ,2001,Employment ,10594
+18121,Parke,2001,Employment ,7673
+18123,Perry,2001,Employment ,8683
+18125,Pike ,2001,Employment ,6058
+18127,Porter,2001,Employment ,75533
+18129,Posey,2001,Employment ,13471
+18131,Pulaski,2001,Employment ,6456
+18133,Putnam ,2001,Employment ,16626
+18135,Randolph ,2001,Employment ,13020
+18137,Ripley,2001,Employment ,13499
+18139,Rush ,2001,Employment ,9287
+18141,St. Joseph,2001,Employment ,126831
+18143,Scott,2001,Employment ,10557
+18145,Shelby ,2001,Employment ,22982
+18147,Spencer ,2001,Employment ,10048
+18149,Starke,2001,Employment ,10042
+18151,Steuben ,2001,Employment ,16569
+18153,Sullivan ,2001,Employment ,8697
+18155,Switzerland ,2001,Employment ,5777
+18157,Tippecanoe ,2001,Employment ,76025
+18159,Tipton,2001,Employment ,8139
+18161,Union ,2001,Employment ,3595
+18163,Vanderburgh ,2001,Employment ,87502
+18165,Vermillion ,2001,Employment ,7639
+18167,Vigo ,2001,Employment ,47932
+18169,Wabash ,2001,Employment ,17099
+18171,Warren ,2001,Employment ,4404
+18173,Warrick ,2001,Employment ,27899
+18175,Washington ,2001,Employment ,13322
+18177,Wayne ,2001,Employment ,32820
+18179,Wells,2001,Employment ,14189
+18181,White ,2001,Employment ,12708
+18183,Whitley,2001,Employment ,16422
+18001,Adams ,2002,Employment ,15151
+18003,Allen,2002,Employment ,168157
+18005,Bartholmew ,2002,Employment ,34195
+18007,Benton,2002,Employment ,4653
+18009,Blackford ,2002,Employment ,6577
+18011,Boone ,2002,Employment ,24513
+18013,Brown ,2002,Employment ,7683
+18015,Carroll ,2002,Employment ,10338
+18017,Cass ,2002,Employment ,19405
+18019,Clark ,2002,Employment ,49569
+18021,Clay,2002,Employment ,12343
+18023,Clinton ,2002,Employment ,15879
+18025,Crawford ,2002,Employment ,4959
+18027,Daviess,2002,Employment ,13486
+18029,Dearborn,2002,Employment ,23940
+18031,Decatur ,2002,Employment ,12915
+18033,DeKalb ,2002,Employment ,20623
+18035,Delaware ,2002,Employment ,55635
+18037,Dubois ,2002,Employment ,21277
+18039,Elkhart ,2002,Employment ,90372
+18041,Fayette,2002,Employment ,11024
+18043,Floyd ,2002,Employment ,35834
+18045,Fountain ,2002,Employment ,8004
+18047,Franklin ,2002,Employment ,10980
+18049,Fulton ,2002,Employment ,9800
+18051,Gibson ,2002,Employment ,16510
+18053,Grant ,2002,Employment ,32702
+18055,Greene,2002,Employment ,15434
+18057,Hamilton ,2002,Employment ,109722
+18059,Hancock ,2002,Employment ,30726
+18061,Harrison ,2002,Employment ,17891
+18063,Hendricks ,2002,Employment ,60699
+18065,Henry,2002,Employment ,21909
+18067,Howard,2002,Employment ,38490
+18069,Huntington ,2002,Employment ,19604
+18071,Jackson ,2002,Employment ,20966
+18073,Jasper,2002,Employment ,14186
+18075,Jay ,2002,Employment ,10190
+18077,Jefferson,2002,Employment ,15892
+18079,Jennings,2002,Employment ,12669
+18081,Johnson ,2002,Employment ,64093
+18083,Knox ,2002,Employment ,18847
+18085,Kosciusko ,2002,Employment ,37407
+18087,LaGrange ,2002,Employment ,15802
+18089,Lake ,2002,Employment ,213640
+18091,LaPorte ,2002,Employment ,50476
+18093,Lawrence ,2002,Employment ,21337
+18095,Madison ,2002,Employment ,60358
+18097,Marion ,2002,Employment ,438222
+18099,Marshall,2002,Employment ,21169
+18101,Martin,2002,Employment ,4943
+18103,Miami,2002,Employment ,16391
+18105,Monroe ,2002,Employment ,62563
+18107,Montgomery ,2002,Employment ,18700
+18109,Morgan ,2002,Employment ,34806
+18111,Newton ,2002,Employment ,6827
+18113,Noble ,2002,Employment ,22370
+18115,Ohio,2002,Employment ,2919
+18117,Orange,2002,Employment ,8631
+18119,Owen ,2002,Employment ,10842
+18121,Parke,2002,Employment ,7603
+18123,Perry,2002,Employment ,8946
+18125,Pike ,2002,Employment ,6029
+18127,Porter,2002,Employment ,75632
+18129,Posey,2002,Employment ,13635
+18131,Pulaski,2002,Employment ,6429
+18133,Putnam ,2002,Employment ,16542
+18135,Randolph ,2002,Employment ,12959
+18137,Ripley,2002,Employment ,13454
+18139,Rush ,2002,Employment ,9105
+18141,St. Joseph,2002,Employment ,126501
+18143,Scott,2002,Employment ,10413
+18145,Shelby ,2002,Employment ,22736
+18147,Spencer ,2002,Employment ,10131
+18149,Starke,2002,Employment ,9865
+18151,Steuben ,2002,Employment ,16106
+18153,Sullivan ,2002,Employment ,8797
+18155,Switzerland ,2002,Employment ,5469
+18157,Tippecanoe ,2002,Employment ,76661
+18159,Tipton,2002,Employment ,8120
+18161,Union ,2002,Employment ,3521
+18163,Vanderburgh ,2002,Employment ,88365
+18165,Vermillion ,2002,Employment ,7675
+18167,Vigo ,2002,Employment ,48320
+18169,Wabash ,2002,Employment ,16878
+18171,Warren ,2002,Employment ,4404
+18173,Warrick ,2002,Employment ,28486
+18175,Washington ,2002,Employment ,13259
+18177,Wayne ,2002,Employment ,32860
+18179,Wells,2002,Employment ,14205
+18181,White ,2002,Employment ,11973
+18183,Whitley,2002,Employment ,16495
+18001,Adams ,2003,Employment ,15404
+18003,Allen,2003,Employment ,169628
+18005,Bartholmew ,2003,Employment ,33990
+18007,Benton,2003,Employment ,4438
+18009,Blackford ,2003,Employment ,6406
+18011,Boone ,2003,Employment ,25100
+18013,Brown ,2003,Employment ,7710
+18015,Carroll ,2003,Employment ,9987
+18017,Cass ,2003,Employment ,18788
+18019,Clark ,2003,Employment ,50345
+18021,Clay,2003,Employment ,12268
+18023,Clinton ,2003,Employment ,15977
+18025,Crawford ,2003,Employment ,4984
+18027,Daviess,2003,Employment ,13772
+18029,Dearborn,2003,Employment ,24550
+18031,Decatur ,2003,Employment ,11954
+18033,DeKalb ,2003,Employment ,20795
+18035,Delaware ,2003,Employment ,55339
+18037,Dubois ,2003,Employment ,21657
+18039,Elkhart ,2003,Employment ,91732
+18041,Fayette,2003,Employment ,10708
+18043,Floyd ,2003,Employment ,35776
+18045,Fountain ,2003,Employment ,7933
+18047,Franklin ,2003,Employment ,11205
+18049,Fulton ,2003,Employment ,9740
+18051,Gibson ,2003,Employment ,16577
+18053,Grant ,2003,Employment ,32207
+18055,Greene,2003,Employment ,15542
+18057,Hamilton ,2003,Employment ,117220
+18059,Hancock ,2003,Employment ,31511
+18061,Harrison ,2003,Employment ,18128
+18063,Hendricks ,2003,Employment ,62833
+18065,Henry,2003,Employment ,22121
+18067,Howard,2003,Employment ,37413
+18069,Huntington ,2003,Employment ,19565
+18071,Jackson ,2003,Employment ,20935
+18073,Jasper,2003,Employment ,14245
+18075,Jay ,2003,Employment ,9938
+18077,Jefferson,2003,Employment ,16036
+18079,Jennings,2003,Employment ,13038
+18081,Johnson ,2003,Employment ,65252
+18083,Knox ,2003,Employment ,18767
+18085,Kosciusko ,2003,Employment ,37937
+18087,LaGrange ,2003,Employment ,15812
+18089,Lake ,2003,Employment ,212063
+18091,LaPorte ,2003,Employment ,50198
+18093,Lawrence ,2003,Employment ,21100
+18095,Madison ,2003,Employment ,60677
+18097,Marion ,2003,Employment ,439470
+18099,Marshall,2003,Employment ,21020
+18101,Martin,2003,Employment ,5116
+18103,Miami,2003,Employment ,16142
+18105,Monroe ,2003,Employment ,62901
+18107,Montgomery ,2003,Employment ,18764
+18109,Morgan ,2003,Employment ,35221
+18111,Newton ,2003,Employment ,6783
+18113,Noble ,2003,Employment ,22293
+18115,Ohio,2003,Employment ,2941
+18117,Orange,2003,Employment ,8474
+18119,Owen ,2003,Employment ,11052
+18121,Parke,2003,Employment ,7586
+18123,Perry,2003,Employment ,9102
+18125,Pike ,2003,Employment ,6090
+18127,Porter,2003,Employment ,75808
+18129,Posey,2003,Employment ,13474
+18131,Pulaski,2003,Employment ,6322
+18133,Putnam ,2003,Employment ,16693
+18135,Randolph ,2003,Employment ,12621
+18137,Ripley,2003,Employment ,14045
+18139,Rush ,2003,Employment ,8824
+18141,St. Joseph,2003,Employment ,125425
+18143,Scott,2003,Employment ,10375
+18145,Shelby ,2003,Employment ,22683
+18147,Spencer ,2003,Employment ,10234
+18149,Starke,2003,Employment ,9777
+18151,Steuben ,2003,Employment ,15916
+18153,Sullivan ,2003,Employment ,8664
+18155,Switzerland ,2003,Employment ,5494
+18157,Tippecanoe ,2003,Employment ,73934
+18159,Tipton,2003,Employment ,7863
+18161,Union ,2003,Employment ,3582
+18163,Vanderburgh ,2003,Employment ,88057
+18165,Vermillion ,2003,Employment ,7531
+18167,Vigo ,2003,Employment ,47383
+18169,Wabash ,2003,Employment ,16712
+18171,Warren ,2003,Employment ,4329
+18173,Warrick ,2003,Employment ,28866
+18175,Washington ,2003,Employment ,13260
+18177,Wayne ,2003,Employment ,32141
+18179,Wells,2003,Employment ,14259
+18181,White ,2003,Employment ,11445
+18183,Whitley,2003,Employment ,16687
+18001,Adams ,2004,Employment ,15781
+18003,Allen,2004,Employment ,167643
+18005,Bartholmew ,2004,Employment ,34548
+18007,Benton,2004,Employment ,4358
+18009,Blackford ,2004,Employment ,6248
+18011,Boone ,2004,Employment ,25476
+18013,Brown ,2004,Employment ,7591
+18015,Carroll ,2004,Employment ,9830
+18017,Cass ,2004,Employment ,18425
+18019,Clark ,2004,Employment ,49791
+18021,Clay,2004,Employment ,12367
+18023,Clinton ,2004,Employment ,15806
+18025,Crawford ,2004,Employment ,5030
+18027,Daviess,2004,Employment ,13888
+18029,Dearborn,2004,Employment ,24618
+18031,Decatur ,2004,Employment ,11859
+18033,DeKalb ,2004,Employment ,20595
+18035,Delaware ,2004,Employment ,53417
+18037,Dubois ,2004,Employment ,21072
+18039,Elkhart ,2004,Employment ,95201
+18041,Fayette,2004,Employment ,10326
+18043,Floyd ,2004,Employment ,35136
+18045,Fountain ,2004,Employment ,8014
+18047,Franklin ,2004,Employment ,11149
+18049,Fulton ,2004,Employment ,9640
+18051,Gibson ,2004,Employment ,16277
+18053,Grant ,2004,Employment ,30828
+18055,Greene,2004,Employment ,15536
+18057,Hamilton ,2004,Employment ,120641
+18059,Hancock ,2004,Employment ,31862
+18061,Harrison ,2004,Employment ,18063
+18063,Hendricks ,2004,Employment ,64617
+18065,Henry,2004,Employment ,21726
+18067,Howard,2004,Employment ,36617
+18069,Huntington ,2004,Employment ,19384
+18071,Jackson ,2004,Employment ,20969
+18073,Jasper,2004,Employment ,14185
+18075,Jay ,2004,Employment ,10453
+18077,Jefferson,2004,Employment ,16260
+18079,Jennings,2004,Employment ,13151
+18081,Johnson ,2004,Employment ,65660
+18083,Knox ,2004,Employment ,18227
+18085,Kosciusko ,2004,Employment ,38166
+18087,LaGrange ,2004,Employment ,16037
+18089,Lake ,2004,Employment ,209360
+18091,LaPorte ,2004,Employment ,49339
+18093,Lawrence ,2004,Employment ,20727
+18095,Madison ,2004,Employment ,59295
+18097,Marion ,2004,Employment ,434021
+18099,Marshall,2004,Employment ,21209
+18101,Martin,2004,Employment ,4868
+18103,Miami,2004,Employment ,16043
+18105,Monroe ,2004,Employment ,62876
+18107,Montgomery ,2004,Employment ,18768
+18109,Morgan ,2004,Employment ,35111
+18111,Newton ,2004,Employment ,6638
+18113,Noble ,2004,Employment ,22096
+18115,Ohio,2004,Employment ,2938
+18117,Orange,2004,Employment ,8411
+18119,Owen ,2004,Employment ,11019
+18121,Parke,2004,Employment ,7506
+18123,Perry,2004,Employment ,9137
+18125,Pike ,2004,Employment ,5876
+18127,Porter,2004,Employment ,75523
+18129,Posey,2004,Employment ,13138
+18131,Pulaski,2004,Employment ,6437
+18133,Putnam ,2004,Employment ,16519
+18135,Randolph ,2004,Employment ,12222
+18137,Ripley,2004,Employment ,14087
+18139,Rush ,2004,Employment ,8802
+18141,St. Joseph,2004,Employment ,125770
+18143,Scott,2004,Employment ,10577
+18145,Shelby ,2004,Employment ,22497
+18147,Spencer ,2004,Employment ,10004
+18149,Starke,2004,Employment ,9757
+18151,Steuben ,2004,Employment ,15997
+18153,Sullivan ,2004,Employment ,8653
+18155,Switzerland ,2004,Employment ,5443
+18157,Tippecanoe ,2004,Employment ,74056
+18159,Tipton,2004,Employment ,7725
+18161,Union ,2004,Employment ,3554
+18163,Vanderburgh ,2004,Employment ,86037
+18165,Vermillion ,2004,Employment ,7532
+18167,Vigo ,2004,Employment ,46771
+18169,Wabash ,2004,Employment ,16365
+18171,Warren ,2004,Employment ,4401
+18173,Warrick ,2004,Employment ,28491
+18175,Washington ,2004,Employment ,13063
+18177,Wayne ,2004,Employment ,30963
+18179,Wells,2004,Employment ,14054
+18181,White ,2004,Employment ,11443
+18183,Whitley,2004,Employment ,16489
+18001,Adams ,2005,Employment ,15756
+18003,Allen,2005,Employment ,169461
+18005,Bartholmew ,2005,Employment ,35576
+18007,Benton,2005,Employment ,4356
+18009,Blackford ,2005,Employment ,6330
+18011,Boone ,2005,Employment ,26054
+18013,Brown ,2005,Employment ,7548
+18015,Carroll ,2005,Employment ,9967
+18017,Cass ,2005,Employment ,18161
+18019,Clark ,2005,Employment ,50569
+18021,Clay,2005,Employment ,12379
+18023,Clinton ,2005,Employment ,16042
+18025,Crawford ,2005,Employment ,5014
+18027,Daviess,2005,Employment ,14269
+18029,Dearborn,2005,Employment ,24916
+18031,Decatur ,2005,Employment ,12051
+18033,DeKalb ,2005,Employment ,20531
+18035,Delaware ,2005,Employment ,52262
+18037,Dubois ,2005,Employment ,21523
+18039,Elkhart ,2005,Employment ,97189
+18041,Fayette,2005,Employment ,10526
+18043,Floyd ,2005,Employment ,35528
+18045,Fountain ,2005,Employment ,8324
+18047,Franklin ,2005,Employment ,11278
+18049,Fulton ,2005,Employment ,9900
+18051,Gibson ,2005,Employment ,16447
+18053,Grant ,2005,Employment ,30514
+18055,Greene,2005,Employment ,15620
+18057,Hamilton ,2005,Employment ,126120
+18059,Hancock ,2005,Employment ,32941
+18061,Harrison ,2005,Employment ,18383
+18063,Hendricks ,2005,Employment ,66604
+18065,Henry,2005,Employment ,21473
+18067,Howard,2005,Employment ,36607
+18069,Huntington ,2005,Employment ,19457
+18071,Jackson ,2005,Employment ,21113
+18073,Jasper,2005,Employment ,14356
+18075,Jay ,2005,Employment ,11010
+18077,Jefferson,2005,Employment ,16459
+18079,Jennings,2005,Employment ,13045
+18081,Johnson ,2005,Employment ,66984
+18083,Knox ,2005,Employment ,18266
+18085,Kosciusko ,2005,Employment ,39539
+18087,LaGrange ,2005,Employment ,16482
+18089,Lake ,2005,Employment ,211454
+18091,LaPorte ,2005,Employment ,49849
+18093,Lawrence ,2005,Employment ,20700
+18095,Madison ,2005,Employment ,59035
+18097,Marion ,2005,Employment ,433930
+18099,Marshall,2005,Employment ,21543
+18101,Martin,2005,Employment ,4879
+18103,Miami,2005,Employment ,16291
+18105,Monroe ,2005,Employment ,63451
+18107,Montgomery ,2005,Employment ,18946
+18109,Morgan ,2005,Employment ,35351
+18111,Newton ,2005,Employment ,6700
+18113,Noble ,2005,Employment ,22320
+18115,Ohio,2005,Employment ,2984
+18117,Orange,2005,Employment ,8622
+18119,Owen ,2005,Employment ,11026
+18121,Parke,2005,Employment ,7587
+18123,Perry,2005,Employment ,9159
+18125,Pike ,2005,Employment ,5889
+18127,Porter,2005,Employment ,77225
+18129,Posey,2005,Employment ,13190
+18131,Pulaski,2005,Employment ,6720
+18133,Putnam ,2005,Employment ,16615
+18135,Randolph ,2005,Employment ,12131
+18137,Ripley,2005,Employment ,14086
+18139,Rush ,2005,Employment ,9105
+18141,St. Joseph,2005,Employment ,126995
+18143,Scott,2005,Employment ,10682
+18145,Shelby ,2005,Employment ,22487
+18147,Spencer ,2005,Employment ,10112
+18149,Starke,2005,Employment ,9889
+18151,Steuben ,2005,Employment ,15940
+18153,Sullivan ,2005,Employment ,8599
+18155,Switzerland ,2005,Employment ,5493
+18157,Tippecanoe ,2005,Employment ,75524
+18159,Tipton,2005,Employment ,7613
+18161,Union ,2005,Employment ,3657
+18163,Vanderburgh ,2005,Employment ,86649
+18165,Vermillion ,2005,Employment ,7527
+18167,Vigo ,2005,Employment ,46501
+18169,Wabash ,2005,Employment ,16545
+18171,Warren ,2005,Employment ,4564
+18173,Warrick ,2005,Employment ,29170
+18175,Washington ,2005,Employment ,13144
+18177,Wayne ,2005,Employment ,30676
+18179,Wells,2005,Employment ,14146
+18181,White ,2005,Employment ,11551
+18183,Whitley,2005,Employment ,16777
+18001,Adams ,2006,Employment ,15512
+18003,Allen,2006,Employment ,173072
+18005,Bartholmew ,2006,Employment ,36566
+18007,Benton,2006,Employment ,4383
+18009,Blackford ,2006,Employment ,6277
+18011,Boone ,2006,Employment ,26994
+18013,Brown ,2006,Employment ,7565
+18015,Carroll ,2006,Employment ,10063
+18017,Cass ,2006,Employment ,17888
+18019,Clark ,2006,Employment ,52255
+18021,Clay,2006,Employment ,12419
+18023,Clinton ,2006,Employment ,16139
+18025,Crawford ,2006,Employment ,4928
+18027,Daviess,2006,Employment ,14549
+18029,Dearborn,2006,Employment ,25053
+18031,Decatur ,2006,Employment ,11959
+18033,DeKalb ,2006,Employment ,20190
+18035,Delaware ,2006,Employment ,53442
+18037,Dubois ,2006,Employment ,21567
+18039,Elkhart ,2006,Employment ,99257
+18041,Fayette,2006,Employment ,9961
+18043,Floyd ,2006,Employment ,36298
+18045,Fountain ,2006,Employment ,8326
+18047,Franklin ,2006,Employment ,11347
+18049,Fulton ,2006,Employment ,9906
+18051,Gibson ,2006,Employment ,16501
+18053,Grant ,2006,Employment ,30550
+18055,Greene,2006,Employment ,15692
+18057,Hamilton ,2006,Employment ,132532
+18059,Hancock ,2006,Employment ,34202
+18061,Harrison ,2006,Employment ,18716
+18063,Hendricks ,2006,Employment ,69080
+18065,Henry,2006,Employment ,21443
+18067,Howard,2006,Employment ,36295
+18069,Huntington ,2006,Employment ,19511
+18071,Jackson ,2006,Employment ,21178
+18073,Jasper,2006,Employment ,14696
+18075,Jay ,2006,Employment ,11226
+18077,Jefferson,2006,Employment ,16521
+18079,Jennings,2006,Employment ,13020
+18081,Johnson ,2006,Employment ,70068
+18083,Knox ,2006,Employment ,18502
+18085,Kosciusko ,2006,Employment ,39840
+18087,LaGrange ,2006,Employment ,16604
+18089,Lake ,2006,Employment ,214057
+18091,LaPorte ,2006,Employment ,50165
+18093,Lawrence ,2006,Employment ,21225
+18095,Madison ,2006,Employment ,58472
+18097,Marion ,2006,Employment ,438492
+18099,Marshall,2006,Employment ,21800
+18101,Martin,2006,Employment ,5041
+18103,Miami,2006,Employment ,16025
+18105,Monroe ,2006,Employment ,64605
+18107,Montgomery ,2006,Employment ,18894
+18109,Morgan ,2006,Employment ,35886
+18111,Newton ,2006,Employment ,6693
+18113,Noble ,2006,Employment ,22180
+18115,Ohio,2006,Employment ,2941
+18117,Orange,2006,Employment ,8898
+18119,Owen ,2006,Employment ,11076
+18121,Parke,2006,Employment ,7499
+18123,Perry,2006,Employment ,9255
+18125,Pike ,2006,Employment ,5891
+18127,Porter,2006,Employment ,79186
+18129,Posey,2006,Employment ,13196
+18131,Pulaski,2006,Employment ,6548
+18133,Putnam ,2006,Employment ,16754
+18135,Randolph ,2006,Employment ,12009
+18137,Ripley,2006,Employment ,13710
+18139,Rush ,2006,Employment ,9072
+18141,St. Joseph,2006,Employment ,127805
+18143,Scott,2006,Employment ,10652
+18145,Shelby ,2006,Employment ,22841
+18147,Spencer ,2006,Employment ,10101
+18149,Starke,2006,Employment ,9887
+18151,Steuben ,2006,Employment ,15562
+18153,Sullivan ,2006,Employment ,8577
+18155,Switzerland ,2006,Employment ,5445
+18157,Tippecanoe ,2006,Employment ,77005
+18159,Tipton,2006,Employment ,7587
+18161,Union ,2006,Employment ,3687
+18163,Vanderburgh ,2006,Employment ,87051
+18165,Vermillion ,2006,Employment ,7623
+18167,Vigo ,2006,Employment ,47050
+18169,Wabash ,2006,Employment ,16743
+18171,Warren ,2006,Employment ,4597
+18173,Warrick ,2006,Employment ,29655
+18175,Washington ,2006,Employment ,13407
+18177,Wayne ,2006,Employment ,32174
+18179,Wells,2006,Employment ,14368
+18181,White ,2006,Employment ,11544
+18183,Whitley,2006,Employment ,17094
+18001,Adams ,2007,Employment ,15277
+18003,Allen,2007,Employment ,172101
+18005,Bartholmew ,2007,Employment ,37156
+18007,Benton,2007,Employment ,4146
+18009,Blackford ,2007,Employment ,6172
+18011,Boone ,2007,Employment ,26995
+18013,Brown ,2007,Employment ,7280
+18015,Carroll ,2007,Employment ,9523
+18017,Cass ,2007,Employment ,17758
+18019,Clark ,2007,Employment ,52748
+18021,Clay,2007,Employment ,12132
+18023,Clinton ,2007,Employment ,16013
+18025,Crawford ,2007,Employment ,4920
+18027,Daviess,2007,Employment ,14660
+18029,Dearborn,2007,Employment ,24778
+18031,Decatur ,2007,Employment ,11751
+18033,DeKalb ,2007,Employment ,19564
+18035,Delaware ,2007,Employment ,52222
+18037,Dubois ,2007,Employment ,21470
+18039,Elkhart ,2007,Employment ,96658
+18041,Fayette,2007,Employment ,9675
+18043,Floyd ,2007,Employment ,36375
+18045,Fountain ,2007,Employment ,8289
+18047,Franklin ,2007,Employment ,11135
+18049,Fulton ,2007,Employment ,9863
+18051,Gibson ,2007,Employment ,15994
+18053,Grant ,2007,Employment ,29731
+18055,Greene,2007,Employment ,15000
+18057,Hamilton ,2007,Employment ,136618
+18059,Hancock ,2007,Employment ,34470
+18061,Harrison ,2007,Employment ,18538
+18063,Hendricks ,2007,Employment ,70048
+18065,Henry,2007,Employment ,21164
+18067,Howard,2007,Employment ,35523
+18069,Huntington ,2007,Employment ,19076
+18071,Jackson ,2007,Employment ,21036
+18073,Jasper,2007,Employment ,14775
+18075,Jay ,2007,Employment ,11105
+18077,Jefferson,2007,Employment ,16243
+18079,Jennings,2007,Employment ,12964
+18081,Johnson ,2007,Employment ,70649
+18083,Knox ,2007,Employment ,18934
+18085,Kosciusko ,2007,Employment ,39272
+18087,LaGrange ,2007,Employment ,16196
+18089,Lake ,2007,Employment ,214416
+18091,LaPorte ,2007,Employment ,49915
+18093,Lawrence ,2007,Employment ,20696
+18095,Madison ,2007,Employment ,56701
+18097,Marion ,2007,Employment ,439218
+18099,Marshall,2007,Employment ,21693
+18101,Martin,2007,Employment ,4933
+18103,Miami,2007,Employment ,15532
+18105,Monroe ,2007,Employment ,66116
+18107,Montgomery ,2007,Employment ,18509
+18109,Morgan ,2007,Employment ,35273
+18111,Newton ,2007,Employment ,6601
+18113,Noble ,2007,Employment ,21903
+18115,Ohio,2007,Employment ,2877
+18117,Orange,2007,Employment ,9918
+18119,Owen ,2007,Employment ,10641
+18121,Parke,2007,Employment ,7626
+18123,Perry,2007,Employment ,9275
+18125,Pike ,2007,Employment ,5749
+18127,Porter,2007,Employment ,79893
+18129,Posey,2007,Employment ,12796
+18131,Pulaski,2007,Employment ,6518
+18133,Putnam ,2007,Employment ,16581
+18135,Randolph ,2007,Employment ,11942
+18137,Ripley,2007,Employment ,13280
+18139,Rush ,2007,Employment ,9020
+18141,St. Joseph,2007,Employment ,126293
+18143,Scott,2007,Employment ,10473
+18145,Shelby ,2007,Employment ,22557
+18147,Spencer ,2007,Employment ,9992
+18149,Starke,2007,Employment ,9835
+18151,Steuben ,2007,Employment ,15506
+18153,Sullivan ,2007,Employment ,8426
+18155,Switzerland ,2007,Employment ,5466
+18157,Tippecanoe ,2007,Employment ,78292
+18159,Tipton,2007,Employment ,7349
+18161,Union ,2007,Employment ,3449
+18163,Vanderburgh ,2007,Employment ,86554
+18165,Vermillion ,2007,Employment ,7447
+18167,Vigo ,2007,Employment ,47466
+18169,Wabash ,2007,Employment ,16173
+18171,Warren ,2007,Employment ,4831
+18173,Warrick ,2007,Employment ,29304
+18175,Washington ,2007,Employment ,13277
+18177,Wayne ,2007,Employment ,31984
+18179,Wells,2007,Employment ,14062
+18181,White ,2007,Employment ,11744
+18183,Whitley,2007,Employment ,16943
+18001,Adams ,2008,Employment ,14334
+18003,Allen,2008,Employment ,170481
+18005,Bartholmew ,2008,Employment ,37724
+18007,Benton,2008,Employment ,4174
+18009,Blackford ,2008,Employment ,5989
+18011,Boone ,2008,Employment ,27197
+18013,Brown ,2008,Employment ,7157
+18015,Carroll ,2008,Employment ,9573
+18017,Cass ,2008,Employment ,17623
+18019,Clark ,2008,Employment ,53075
+18021,Clay,2008,Employment ,11959
+18023,Clinton ,2008,Employment ,15956
+18025,Crawford ,2008,Employment ,4983
+18027,Daviess,2008,Employment ,14620
+18029,Dearborn,2008,Employment ,24707
+18031,Decatur ,2008,Employment ,11886
+18033,DeKalb ,2008,Employment ,19119
+18035,Delaware ,2008,Employment ,51756
+18037,Dubois ,2008,Employment ,21435
+18039,Elkhart ,2008,Employment ,89437
+18041,Fayette,2008,Employment ,8933
+18043,Floyd ,2008,Employment ,36392
+18045,Fountain ,2008,Employment ,8191
+18047,Franklin ,2008,Employment ,11104
+18049,Fulton ,2008,Employment ,9602
+18051,Gibson ,2008,Employment ,15956
+18053,Grant ,2008,Employment ,29924
+18055,Greene,2008,Employment ,15025
+18057,Hamilton ,2008,Employment ,139618
+18059,Hancock ,2008,Employment ,34669
+18061,Harrison ,2008,Employment ,18495
+18063,Hendricks ,2008,Employment ,70815
+18065,Henry,2008,Employment ,21133
+18067,Howard,2008,Employment ,34221
+18069,Huntington ,2008,Employment ,18830
+18071,Jackson ,2008,Employment ,20629
+18073,Jasper,2008,Employment ,14832
+18075,Jay ,2008,Employment ,11070
+18077,Jefferson,2008,Employment ,15727
+18079,Jennings,2008,Employment ,12806
+18081,Johnson ,2008,Employment ,71678
+18083,Knox ,2008,Employment ,19172
+18085,Kosciusko ,2008,Employment ,39317
+18087,LaGrange ,2008,Employment ,15170
+18089,Lake ,2008,Employment ,214202
+18091,LaPorte ,2008,Employment ,49417
+18093,Lawrence ,2008,Employment ,20234
+18095,Madison ,2008,Employment ,57161
+18097,Marion ,2008,Employment ,437123
+18099,Marshall,2008,Employment ,21490
+18101,Martin,2008,Employment ,4894
+18103,Miami,2008,Employment ,15283
+18105,Monroe ,2008,Employment ,66641
+18107,Montgomery ,2008,Employment ,18148
+18109,Morgan ,2008,Employment ,35359
+18111,Newton ,2008,Employment ,6535
+18113,Noble ,2008,Employment ,20822
+18115,Ohio,2008,Employment ,2855
+18117,Orange,2008,Employment ,9738
+18119,Owen ,2008,Employment ,10685
+18121,Parke,2008,Employment ,7568
+18123,Perry,2008,Employment ,9204
+18125,Pike ,2008,Employment ,5692
+18127,Porter,2008,Employment ,80333
+18129,Posey,2008,Employment ,12711
+18131,Pulaski,2008,Employment ,6416
+18133,Putnam ,2008,Employment ,16510
+18135,Randolph ,2008,Employment ,11839
+18137,Ripley,2008,Employment ,13214
+18139,Rush ,2008,Employment ,8663
+18141,St. Joseph,2008,Employment ,124176
+18143,Scott,2008,Employment ,10379
+18145,Shelby ,2008,Employment ,22421
+18147,Spencer ,2008,Employment ,9985
+18149,Starke,2008,Employment ,9871
+18151,Steuben ,2008,Employment ,14965
+18153,Sullivan ,2008,Employment ,8275
+18155,Switzerland ,2008,Employment ,5408
+18157,Tippecanoe ,2008,Employment ,79617
+18159,Tipton,2008,Employment ,7049
+18161,Union ,2008,Employment ,3380
+18163,Vanderburgh ,2008,Employment ,86733
+18165,Vermillion ,2008,Employment ,7245
+18167,Vigo ,2008,Employment ,47164
+18169,Wabash ,2008,Employment ,15299
+18171,Warren ,2008,Employment ,4598
+18173,Warrick ,2008,Employment ,29605
+18175,Washington ,2008,Employment ,13169
+18177,Wayne ,2008,Employment ,30915
+18179,Wells,2008,Employment ,13907
+18181,White ,2008,Employment ,11694
+18183,Whitley,2008,Employment ,16741
+18001,Adams ,2009,Employment ,12911
+18003,Allen,2009,Employment ,159522
+18005,Bartholmew ,2009,Employment ,34763
+18007,Benton,2009,Employment ,3857
+18009,Blackford ,2009,Employment ,5512
+18011,Boone ,2009,Employment ,26091
+18013,Brown ,2009,Employment ,6711
+18015,Carroll ,2009,Employment ,8953
+18017,Cass ,2009,Employment ,16477
+18019,Clark ,2009,Employment ,51137
+18021,Clay,2009,Employment ,11542
+18023,Clinton ,2009,Employment ,15123
+18025,Crawford ,2009,Employment ,4575
+18027,Daviess,2009,Employment ,14056
+18029,Dearborn,2009,Employment ,23533
+18031,Decatur ,2009,Employment ,11061
+18033,DeKalb ,2009,Employment ,17572
+18035,Delaware ,2009,Employment ,49432
+18037,Dubois ,2009,Employment ,20410
+18039,Elkhart ,2009,Employment ,74478
+18041,Fayette,2009,Employment ,8359
+18043,Floyd ,2009,Employment ,34731
+18045,Fountain ,2009,Employment ,7341
+18047,Franklin ,2009,Employment ,10381
+18049,Fulton ,2009,Employment ,8726
+18051,Gibson ,2009,Employment ,15275
+18053,Grant ,2009,Employment ,29181
+18055,Greene,2009,Employment ,14627
+18057,Hamilton ,2009,Employment ,135556
+18059,Hancock ,2009,Employment ,33024
+18061,Harrison ,2009,Employment ,17731
+18063,Hendricks ,2009,Employment ,68044
+18065,Henry,2009,Employment ,19898
+18067,Howard,2009,Employment ,30352
+18069,Huntington ,2009,Employment ,17203
+18071,Jackson ,2009,Employment ,18886
+18073,Jasper,2009,Employment ,14090
+18075,Jay ,2009,Employment ,10084
+18077,Jefferson,2009,Employment ,14772
+18079,Jennings,2009,Employment ,11773
+18081,Johnson ,2009,Employment ,68356
+18083,Knox ,2009,Employment ,18345
+18085,Kosciusko ,2009,Employment ,36272
+18087,LaGrange ,2009,Employment ,12838
+18089,Lake ,2009,Employment ,201966
+18091,LaPorte ,2009,Employment ,46350
+18093,Lawrence ,2009,Employment ,18901
+18095,Madison ,2009,Employment ,55572
+18097,Marion ,2009,Employment ,414853
+18099,Marshall,2009,Employment ,19497
+18101,Martin,2009,Employment ,4841
+18103,Miami,2009,Employment ,13838
+18105,Monroe ,2009,Employment ,65986
+18107,Montgomery ,2009,Employment ,16882
+18109,Morgan ,2009,Employment ,33260
+18111,Newton ,2009,Employment ,6070
+18113,Noble ,2009,Employment ,18358
+18115,Ohio,2009,Employment ,2755
+18117,Orange,2009,Employment ,9333
+18119,Owen ,2009,Employment ,10449
+18121,Parke,2009,Employment ,7229
+18123,Perry,2009,Employment ,8635
+18125,Pike ,2009,Employment ,5291
+18127,Porter,2009,Employment ,76343
+18129,Posey,2009,Employment ,12102
+18131,Pulaski,2009,Employment ,6046
+18133,Putnam ,2009,Employment ,15341
+18135,Randolph ,2009,Employment ,11311
+18137,Ripley,2009,Employment ,12275
+18139,Rush ,2009,Employment ,8132
+18141,St. Joseph,2009,Employment ,114259
+18143,Scott,2009,Employment ,9534
+18145,Shelby ,2009,Employment ,21179
+18147,Spencer ,2009,Employment ,9431
+18149,Starke,2009,Employment ,9207
+18151,Steuben ,2009,Employment ,13930
+18153,Sullivan ,2009,Employment ,7971
+18155,Switzerland ,2009,Employment ,5224
+18157,Tippecanoe ,2009,Employment ,76584
+18159,Tipton,2009,Employment ,6277
+18161,Union ,2009,Employment ,3166
+18163,Vanderburgh ,2009,Employment ,83152
+18165,Vermillion ,2009,Employment ,7010
+18167,Vigo ,2009,Employment ,45807
+18169,Wabash ,2009,Employment ,14199
+18171,Warren ,2009,Employment ,4159
+18173,Warrick ,2009,Employment ,28692
+18175,Washington ,2009,Employment ,12360
+18177,Wayne ,2009,Employment ,28309
+18179,Wells,2009,Employment ,12705
+18181,White ,2009,Employment ,11052
+18183,Whitley,2009,Employment ,15608
+18001,Adams ,2010,Employment ,14745
+18003,Allen,2010,Employment ,157114
+18005,Bartholmew ,2010,Employment ,34727
+18007,Benton,2010,Employment ,4232
+18009,Blackford ,2010,Employment ,5007
+18011,Boone ,2010,Employment ,27163
+18013,Brown ,2010,Employment ,6781
+18015,Carroll ,2010,Employment ,9239
+18017,Cass ,2010,Employment ,16810
+18019,Clark ,2010,Employment ,50043
+18021,Clay,2010,Employment ,11712
+18023,Clinton ,2010,Employment ,15185
+18025,Crawford ,2010,Employment ,4283
+18027,Daviess,2010,Employment ,13790
+18029,Dearborn,2010,Employment ,22752
+18031,Decatur ,2010,Employment ,11415
+18033,DeKalb ,2010,Employment ,18138
+18035,Delaware ,2010,Employment ,48402
+18037,Dubois ,2010,Employment ,20285
+18039,Elkhart ,2010,Employment ,81899
+18041,Fayette,2010,Employment ,8342
+18043,Floyd ,2010,Employment ,34505
+18045,Fountain ,2010,Employment ,7593
+18047,Franklin ,2010,Employment ,10088
+18049,Fulton ,2010,Employment ,9109
+18051,Gibson ,2010,Employment ,15543
+18053,Grant ,2010,Employment ,29667
+18055,Greene,2010,Employment ,12856
+18057,Hamilton ,2010,Employment ,135160
+18059,Hancock ,2010,Employment ,32492
+18061,Harrison ,2010,Employment ,17119
+18063,Hendricks ,2010,Employment ,68853
+18065,Henry,2010,Employment ,18426
+18067,Howard,2010,Employment ,31300
+18069,Huntington ,2010,Employment ,16774
+18071,Jackson ,2010,Employment ,18323
+18073,Jasper,2010,Employment ,14455
+18075,Jay ,2010,Employment ,9494
+18077,Jefferson,2010,Employment ,13709
+18079,Jennings,2010,Employment ,11581
+18081,Johnson ,2010,Employment ,65284
+18083,Knox ,2010,Employment ,17007
+18085,Kosciusko ,2010,Employment ,34900
+18087,LaGrange ,2010,Employment ,14574
+18089,Lake ,2010,Employment ,204394
+18091,LaPorte ,2010,Employment ,45158
+18093,Lawrence ,2010,Employment ,18100
+18095,Madison ,2010,Employment ,52243
+18097,Marion ,2010,Employment ,405074
+18099,Marshall,2010,Employment ,20823
+18101,Martin,2010,Employment ,4865
+18103,Miami,2010,Employment ,13956
+18105,Monroe ,2010,Employment ,62376
+18107,Montgomery ,2010,Employment ,16970
+18109,Morgan ,2010,Employment ,31394
+18111,Newton ,2010,Employment ,6272
+18113,Noble ,2010,Employment ,19984
+18115,Ohio,2010,Employment ,2902
+18117,Orange,2010,Employment ,7948
+18119,Owen ,2010,Employment ,9126
+18121,Parke,2010,Employment ,6530
+18123,Perry,2010,Employment ,7987
+18125,Pike ,2010,Employment ,5611
+18127,Porter,2010,Employment ,73870
+18129,Posey,2010,Employment ,12440
+18131,Pulaski,2010,Employment ,5736
+18133,Putnam ,2010,Employment ,14732
+18135,Randolph ,2010,Employment ,11486
+18137,Ripley,2010,Employment ,12898
+18139,Rush ,2010,Employment ,7716
+18141,St. Joseph,2010,Employment ,115385
+18143,Scott,2010,Employment ,9195
+18145,Shelby ,2010,Employment ,20223
+18147,Spencer ,2010,Employment ,10030
+18149,Starke,2010,Employment ,9052
+18151,Steuben ,2010,Employment ,16386
+18153,Sullivan ,2010,Employment ,8170
+18155,Switzerland ,2010,Employment ,4558
+18157,Tippecanoe ,2010,Employment ,78864
+18159,Tipton,2010,Employment ,7221
+18161,Union ,2010,Employment ,3346
+18163,Vanderburgh ,2010,Employment ,83894
+18165,Vermillion ,2010,Employment ,6799
+18167,Vigo ,2010,Employment ,45402
+18169,Wabash ,2010,Employment ,14133
+18171,Warren ,2010,Employment ,3758
+18173,Warrick ,2010,Employment ,28345
+18175,Washington ,2010,Employment ,12118
+18177,Wayne ,2010,Employment ,27310
+18179,Wells,2010,Employment ,12757
+18181,White ,2010,Employment ,11613
+18183,Whitley,2010,Employment ,15579
+18001,Adams ,2011,Employment ,14891
+18003,Allen,2011,Employment ,159787
+18005,Bartholmew ,2011,Employment ,36982
+18007,Benton,2011,Employment ,4277
+18009,Blackford ,2011,Employment ,4933
+18011,Boone ,2011,Employment ,27812
+18013,Brown ,2011,Employment ,6746
+18015,Carroll ,2011,Employment ,9282
+18017,Cass ,2011,Employment ,16467
+18019,Clark ,2011,Employment ,50607
+18021,Clay,2011,Employment ,11646
+18023,Clinton ,2011,Employment ,15305
+18025,Crawford ,2011,Employment ,4289
+18027,Daviess,2011,Employment ,13978
+18029,Dearborn,2011,Employment ,22898
+18031,Decatur ,2011,Employment ,11741
+18033,DeKalb ,2011,Employment ,18501
+18035,Delaware ,2011,Employment ,49103
+18037,Dubois ,2011,Employment ,20606
+18039,Elkhart ,2011,Employment ,85123
+18041,Fayette,2011,Employment ,8317
+18043,Floyd ,2011,Employment ,34753
+18045,Fountain ,2011,Employment ,7803
+18047,Franklin ,2011,Employment ,10094
+18049,Fulton ,2011,Employment ,9258
+18051,Gibson ,2011,Employment ,16016
+18053,Grant ,2011,Employment ,29968
+18055,Greene,2011,Employment ,12710
+18057,Hamilton ,2011,Employment ,139512
+18059,Hancock ,2011,Employment ,32847
+18061,Harrison ,2011,Employment ,17095
+18063,Hendricks ,2011,Employment ,70713
+18065,Henry,2011,Employment ,18838
+18067,Howard,2011,Employment ,32289
+18069,Huntington ,2011,Employment ,17270
+18071,Jackson ,2011,Employment ,18752
+18073,Jasper,2011,Employment ,14633
+18075,Jay ,2011,Employment ,9583
+18077,Jefferson,2011,Employment ,13687
+18079,Jennings,2011,Employment ,11804
+18081,Johnson ,2011,Employment ,66470
+18083,Knox ,2011,Employment ,17084
+18085,Kosciusko ,2011,Employment ,35490
+18087,LaGrange ,2011,Employment ,15168
+18089,Lake ,2011,Employment ,207344
+18091,LaPorte ,2011,Employment ,45219
+18093,Lawrence ,2011,Employment ,18375
+18095,Madison ,2011,Employment ,52409
+18097,Marion ,2011,Employment ,410963
+18099,Marshall,2011,Employment ,21231
+18101,Martin,2011,Employment ,4944
+18103,Miami,2011,Employment ,14272
+18105,Monroe ,2011,Employment ,62474
+18107,Montgomery ,2011,Employment ,17054
+18109,Morgan ,2011,Employment ,31637
+18111,Newton ,2011,Employment ,6299
+18113,Noble ,2011,Employment ,20801
+18115,Ohio,2011,Employment ,2905
+18117,Orange,2011,Employment ,7817
+18119,Owen ,2011,Employment ,8999
+18121,Parke,2011,Employment ,6443
+18123,Perry,2011,Employment ,8237
+18125,Pike ,2011,Employment ,5745
+18127,Porter,2011,Employment ,75558
+18129,Posey,2011,Employment ,12498
+18131,Pulaski,2011,Employment ,5884
+18133,Putnam ,2011,Employment ,14799
+18135,Randolph ,2011,Employment ,11672
+18137,Ripley,2011,Employment ,13526
+18139,Rush ,2011,Employment ,7766
+18141,St. Joseph,2011,Employment ,117386
+18143,Scott,2011,Employment ,9146
+18145,Shelby ,2011,Employment ,20380
+18147,Spencer ,2011,Employment ,10186
+18149,Starke,2011,Employment ,9153
+18151,Steuben ,2011,Employment ,16902
+18153,Sullivan ,2011,Employment ,8064
+18155,Switzerland ,2011,Employment ,4580
+18157,Tippecanoe ,2011,Employment ,80923
+18159,Tipton,2011,Employment ,7240
+18161,Union ,2011,Employment ,3343
+18163,Vanderburgh ,2011,Employment ,85342
+18165,Vermillion ,2011,Employment ,6749
+18167,Vigo ,2011,Employment ,45311
+18169,Wabash ,2011,Employment ,14205
+18171,Warren ,2011,Employment ,3924
+18173,Warrick ,2011,Employment ,28911
+18175,Washington ,2011,Employment ,12081
+18177,Wayne ,2011,Employment ,27547
+18179,Wells,2011,Employment ,12892
+18181,White ,2011,Employment ,11974
+18183,Whitley,2011,Employment ,15709
+18001,Adams ,2012,Employment ,14773
+18003,Allen,2012,Employment ,159335
+18005,Bartholmew ,2012,Employment ,38784
+18007,Benton,2012,Employment ,4213
+18009,Blackford ,2012,Employment ,4839
+18011,Boone ,2012,Employment ,28404
+18013,Brown ,2012,Employment ,6740
+18015,Carroll ,2012,Employment ,9256
+18017,Cass ,2012,Employment ,16258
+18019,Clark ,2012,Employment ,51099
+18021,Clay,2012,Employment ,11551
+18023,Clinton ,2012,Employment ,15248
+18025,Crawford ,2012,Employment ,4284
+18027,Daviess,2012,Employment ,13908
+18029,Dearborn,2012,Employment ,22768
+18031,Decatur ,2012,Employment ,12488
+18033,DeKalb ,2012,Employment ,18863
+18035,Delaware ,2012,Employment ,49784
+18037,Dubois ,2012,Employment ,20363
+18039,Elkhart ,2012,Employment ,88243
+18041,Fayette,2012,Employment ,8148
+18043,Floyd ,2012,Employment ,35114
+18045,Fountain ,2012,Employment ,7826
+18047,Franklin ,2012,Employment ,9558
+18049,Fulton ,2012,Employment ,9243
+18051,Gibson ,2012,Employment ,16214
+18053,Grant ,2012,Employment ,29205
+18055,Greene,2012,Employment ,12374
+18057,Hamilton ,2012,Employment ,143171
+18059,Hancock ,2012,Employment ,33125
+18061,Harrison ,2012,Employment ,17133
+18063,Hendricks ,2012,Employment ,72068
+18065,Henry,2012,Employment ,19028
+18067,Howard,2012,Employment ,32676
+18069,Huntington ,2012,Employment ,16959
+18071,Jackson ,2012,Employment ,18967
+18073,Jasper,2012,Employment ,14679
+18075,Jay ,2012,Employment ,9290
+18077,Jefferson,2012,Employment ,13937
+18079,Jennings,2012,Employment ,11767
+18081,Johnson ,2012,Employment ,67529
+18083,Knox ,2012,Employment ,17391
+18085,Kosciusko ,2012,Employment ,35778
+18087,LaGrange ,2012,Employment ,15800
+18089,Lake ,2012,Employment ,208109
+18091,LaPorte ,2012,Employment ,44874
+18093,Lawrence ,2012,Employment ,18311
+18095,Madison ,2012,Employment ,52230
+18097,Marion ,2012,Employment ,416320
+18099,Marshall,2012,Employment ,21085
+18101,Martin,2012,Employment ,4720
+18103,Miami,2012,Employment ,14121
+18105,Monroe ,2012,Employment ,61935
+18107,Montgomery ,2012,Employment ,17081
+18109,Morgan ,2012,Employment ,31787
+18111,Newton ,2012,Employment ,6260
+18113,Noble ,2012,Employment ,20683
+18115,Ohio,2012,Employment ,2900
+18117,Orange,2012,Employment ,7835
+18119,Owen ,2012,Employment ,8767
+18121,Parke,2012,Employment ,6278
+18123,Perry,2012,Employment ,8133
+18125,Pike ,2012,Employment ,5682
+18127,Porter,2012,Employment ,76144
+18129,Posey,2012,Employment ,12306
+18131,Pulaski,2012,Employment ,5812
+18133,Putnam ,2012,Employment ,14729
+18135,Randolph ,2012,Employment ,11548
+18137,Ripley,2012,Employment ,12609
+18139,Rush ,2012,Employment ,7669
+18141,St. Joseph,2012,Employment ,115754
+18143,Scott,2012,Employment ,9138
+18145,Shelby ,2012,Employment ,20464
+18147,Spencer ,2012,Employment ,10018
+18149,Starke,2012,Employment ,9041
+18151,Steuben ,2012,Employment ,17545
+18153,Sullivan ,2012,Employment ,7986
+18155,Switzerland ,2012,Employment ,4515
+18157,Tippecanoe ,2012,Employment ,82341
+18159,Tipton,2012,Employment ,7391
+18161,Union ,2012,Employment ,3272
+18163,Vanderburgh ,2012,Employment ,84833
+18165,Vermillion ,2012,Employment ,6621
+18167,Vigo ,2012,Employment ,45185
+18169,Wabash ,2012,Employment ,14369
+18171,Warren ,2012,Employment ,3890
+18173,Warrick ,2012,Employment ,28734
+18175,Washington ,2012,Employment ,11936
+18177,Wayne ,2012,Employment ,27670
+18179,Wells,2012,Employment ,12735
+18181,White ,2012,Employment ,12019
+18183,Whitley,2012,Employment ,15566
+18001,Adams ,2013,Employment ,14946
+18003,Allen,2013,Employment ,161305
+18005,Bartholmew ,2013,Employment ,39165
+18007,Benton,2013,Employment ,4153
+18009,Blackford ,2013,Employment ,4910
+18011,Boone ,2013,Employment ,29355
+18013,Brown ,2013,Employment ,6785
+18015,Carroll ,2013,Employment ,9224
+18017,Cass ,2013,Employment ,16335
+18019,Clark ,2013,Employment ,52427
+18021,Clay,2013,Employment ,11477
+18023,Clinton ,2013,Employment ,15280
+18025,Crawford ,2013,Employment ,4363
+18027,Daviess,2013,Employment ,14050
+18029,Dearborn,2013,Employment ,23080
+18031,Decatur ,2013,Employment ,12954
+18033,DeKalb ,2013,Employment ,19474
+18035,Delaware ,2013,Employment ,49575
+18037,Dubois ,2013,Employment ,20513
+18039,Elkhart ,2013,Employment ,91951
+18041,Fayette,2013,Employment ,8104
+18043,Floyd ,2013,Employment ,36119
+18045,Fountain ,2013,Employment ,7517
+18047,Franklin ,2013,Employment ,9851
+18049,Fulton ,2013,Employment ,9081
+18051,Gibson ,2013,Employment ,16986
+18053,Grant ,2013,Employment ,29579
+18055,Greene,2013,Employment ,12372
+18057,Hamilton ,2013,Employment ,148135
+18059,Hancock ,2013,Employment ,33727
+18061,Harrison ,2013,Employment ,17426
+18063,Hendricks ,2013,Employment ,74214
+18065,Henry,2013,Employment ,19458
+18067,Howard,2013,Employment ,33502
+18069,Huntington ,2013,Employment ,17119
+18071,Jackson ,2013,Employment ,19525
+18073,Jasper,2013,Employment ,14726
+18075,Jay ,2013,Employment ,9286
+18077,Jefferson,2013,Employment ,14124
+18079,Jennings,2013,Employment ,11854
+18081,Johnson ,2013,Employment ,69178
+18083,Knox ,2013,Employment ,17399
+18085,Kosciusko ,2013,Employment ,37171
+18087,LaGrange ,2013,Employment ,16596
+18089,Lake ,2013,Employment ,209412
+18091,LaPorte ,2013,Employment ,44450
+18093,Lawrence ,2013,Employment ,18600
+18095,Madison ,2013,Employment ,52737
+18097,Marion ,2013,Employment ,424644
+18099,Marshall,2013,Employment ,21420
+18101,Martin,2013,Employment ,4644
+18103,Miami,2013,Employment ,14273
+18105,Monroe ,2013,Employment ,62197
+18107,Montgomery ,2013,Employment ,17106
+18109,Morgan ,2013,Employment ,32245
+18111,Newton ,2013,Employment ,6298
+18113,Noble ,2013,Employment ,20994
+18115,Ohio,2013,Employment ,2906
+18117,Orange,2013,Employment ,7899
+18119,Owen ,2013,Employment ,8681
+18121,Parke,2013,Employment ,6302
+18123,Perry,2013,Employment ,8251
+18125,Pike ,2013,Employment ,5846
+18127,Porter,2013,Employment ,77278
+18129,Posey,2013,Employment ,12145
+18131,Pulaski,2013,Employment ,5696
+18133,Putnam ,2013,Employment ,14784
+18135,Randolph ,2013,Employment ,11507
+18137,Ripley,2013,Employment ,12484
+18139,Rush ,2013,Employment ,7730
+18141,St. Joseph,2013,Employment ,116223
+18143,Scott,2013,Employment ,9339
+18145,Shelby ,2013,Employment ,20738
+18147,Spencer ,2013,Employment ,9993
+18149,Starke,2013,Employment ,9261
+18151,Steuben ,2013,Employment ,18138
+18153,Sullivan ,2013,Employment ,7930
+18155,Switzerland ,2013,Employment ,4526
+18157,Tippecanoe ,2013,Employment ,83810
+18159,Tipton,2013,Employment ,7434
+18161,Union ,2013,Employment ,3271
+18163,Vanderburgh ,2013,Employment ,84546
+18165,Vermillion ,2013,Employment ,6548
+18167,Vigo ,2013,Employment ,44951
+18169,Wabash ,2013,Employment ,14298
+18171,Warren ,2013,Employment ,3793
+18173,Warrick ,2013,Employment ,28823
+18175,Washington ,2013,Employment ,12013
+18177,Wayne ,2013,Employment ,27931
+18179,Wells,2013,Employment ,12805
+18181,White ,2013,Employment ,12061
+18183,Whitley,2013,Employment ,15615
+18001,Adams ,2014,Employment ,15670
+18003,Allen,2014,Employment ,165680
+18005,Bartholmew ,2014,Employment ,40757
+18007,Benton,2014,Employment ,4233
+18009,Blackford ,2014,Employment ,4876
+18011,Boone ,2014,Employment ,30788
+18013,Brown ,2014,Employment ,6921
+18015,Carroll ,2014,Employment ,9369
+18017,Cass ,2014,Employment ,16718
+18019,Clark ,2014,Employment ,54526
+18021,Clay,2014,Employment ,11601
+18023,Clinton ,2014,Employment ,15809
+18025,Crawford ,2014,Employment ,4520
+18027,Daviess,2014,Employment ,14504
+18029,Dearborn,2014,Employment ,23474
+18031,Decatur ,2014,Employment ,13491
+18033,DeKalb ,2014,Employment ,20160
+18035,Delaware ,2014,Employment ,49859
+18037,Dubois ,2014,Employment ,21152
+18039,Elkhart ,2014,Employment ,97020
+18041,Fayette,2014,Employment ,8384
+18043,Floyd ,2014,Employment ,37105
+18045,Fountain ,2014,Employment ,7629
+18047,Franklin ,2014,Employment ,10177
+18049,Fulton ,2014,Employment ,9182
+18051,Gibson ,2014,Employment ,17612
+18053,Grant ,2014,Employment ,30430
+18055,Greene,2014,Employment ,12758
+18057,Hamilton ,2014,Employment ,154624
+18059,Hancock ,2014,Employment ,34730
+18061,Harrison ,2014,Employment ,17984
+18063,Hendricks ,2014,Employment ,77012
+18065,Henry,2014,Employment ,20010
+18067,Howard,2014,Employment ,34632
+18069,Huntington ,2014,Employment ,17483
+18071,Jackson ,2014,Employment ,20263
+18073,Jasper,2014,Employment ,15068
+18075,Jay ,2014,Employment ,9519
+18077,Jefferson,2014,Employment ,14153
+18079,Jennings,2014,Employment ,12218
+18081,Johnson ,2014,Employment ,71792
+18083,Knox ,2014,Employment ,17866
+18085,Kosciusko ,2014,Employment ,38367
+18087,LaGrange ,2014,Employment ,17416
+18089,Lake ,2014,Employment ,212424
+18091,LaPorte ,2014,Employment ,45165
+18093,Lawrence ,2014,Employment ,18743
+18095,Madison ,2014,Employment ,53832
+18097,Marion ,2014,Employment ,437229
+18099,Marshall,2014,Employment ,22432
+18101,Martin,2014,Employment ,4693
+18103,Miami,2014,Employment ,14642
+18105,Monroe ,2014,Employment ,63664
+18107,Montgomery ,2014,Employment ,17691
+18109,Morgan ,2014,Employment ,32975
+18111,Newton ,2014,Employment ,6465
+18113,Noble ,2014,Employment ,21943
+18115,Ohio,2014,Employment ,2998
+18117,Orange,2014,Employment ,7884
+18119,Owen ,2014,Employment ,8718
+18121,Parke,2014,Employment ,6468
+18123,Perry,2014,Employment ,8644
+18125,Pike ,2014,Employment ,6028
+18127,Porter,2014,Employment ,78843
+18129,Posey,2014,Employment ,12531
+18131,Pulaski,2014,Employment ,5863
+18133,Putnam ,2014,Employment ,15196
+18135,Randolph ,2014,Employment ,11685
+18137,Ripley,2014,Employment ,12745
+18139,Rush ,2014,Employment ,8054
+18141,St. Joseph,2014,Employment ,120384
+18143,Scott,2014,Employment ,9500
+18145,Shelby ,2014,Employment ,21169
+18147,Spencer ,2014,Employment ,10199
+18149,Starke,2014,Employment ,9495
+18151,Steuben ,2014,Employment ,18860
+18153,Sullivan ,2014,Employment ,8034
+18155,Switzerland ,2014,Employment ,4522
+18157,Tippecanoe ,2014,Employment ,86767
+18159,Tipton,2014,Employment ,7745
+18161,Union ,2014,Employment ,3346
+18163,Vanderburgh ,2014,Employment ,87165
+18165,Vermillion ,2014,Employment ,6609
+18167,Vigo ,2014,Employment ,45739
+18169,Wabash ,2014,Employment ,14617
+18171,Warren ,2014,Employment ,3848
+18173,Warrick ,2014,Employment ,29670
+18175,Washington ,2014,Employment ,12438
+18177,Wayne ,2014,Employment ,28919
+18179,Wells,2014,Employment ,13104
+18181,White ,2014,Employment ,12777
+18183,Whitley,2014,Employment ,15980
+18001,Adams ,2015,Employment ,16279
+18003,Allen,2015,Employment ,170656
+18005,Bartholmew ,2015,Employment ,42090
+18007,Benton,2015,Employment ,4422
+18009,Blackford ,2015,Employment ,4958
+18011,Boone ,2015,Employment ,31747
+18013,Brown ,2015,Employment ,7128
+18015,Carroll ,2015,Employment ,9709
+18017,Cass ,2015,Employment ,16883
+18019,Clark ,2015,Employment ,56141
+18021,Clay,2015,Employment ,11718
+18023,Clinton ,2015,Employment ,16314
+18025,Crawford ,2015,Employment ,4633
+18027,Daviess,2015,Employment ,15095
+18029,Dearborn,2015,Employment ,24018
+18031,Decatur ,2015,Employment ,13793
+18033,DeKalb ,2015,Employment ,20904
+18035,Delaware ,2015,Employment ,51388
+18037,Dubois ,2015,Employment ,21790
+18039,Elkhart ,2015,Employment ,100595
+18041,Fayette,2015,Employment ,8365
+18043,Floyd ,2015,Employment ,38224
+18045,Fountain ,2015,Employment ,7605
+18047,Franklin ,2015,Employment ,10793
+18049,Fulton ,2015,Employment ,9442
+18051,Gibson ,2015,Employment ,18148
+18053,Grant ,2015,Employment ,30675
+18055,Greene,2015,Employment ,12849
+18057,Hamilton ,2015,Employment ,158990
+18059,Hancock ,2015,Employment ,35770
+18061,Harrison ,2015,Employment ,18540
+18063,Hendricks ,2015,Employment ,79162
+18065,Henry,2015,Employment ,20449
+18067,Howard,2015,Employment ,35090
+18069,Huntington ,2015,Employment ,17976
+18071,Jackson ,2015,Employment ,20965
+18073,Jasper,2015,Employment ,15370
+18075,Jay ,2015,Employment ,9437
+18077,Jefferson,2015,Employment ,14513
+18079,Jennings,2015,Employment ,12513
+18081,Johnson ,2015,Employment ,73890
+18083,Knox ,2015,Employment ,18172
+18085,Kosciusko ,2015,Employment ,39159
+18087,LaGrange ,2015,Employment ,18203
+18089,Lake ,2015,Employment ,214469
+18091,LaPorte ,2015,Employment ,45489
+18093,Lawrence ,2015,Employment ,18971
+18095,Madison ,2015,Employment ,55445
+18097,Marion ,2015,Employment ,449216
+18099,Marshall,2015,Employment ,23080
+18101,Martin,2015,Employment ,4820
+18103,Miami,2015,Employment ,14865
+18105,Monroe ,2015,Employment ,63891
+18107,Montgomery ,2015,Employment ,18518
+18109,Morgan ,2015,Employment ,33958
+18111,Newton ,2015,Employment ,6611
+18113,Noble ,2015,Employment ,22700
+18115,Ohio,2015,Employment ,3061
+18117,Orange,2015,Employment ,8249
+18119,Owen ,2015,Employment ,8799
+18121,Parke,2015,Employment ,6679
+18123,Perry,2015,Employment ,8792
+18125,Pike ,2015,Employment ,5880
+18127,Porter,2015,Employment ,79637
+18129,Posey,2015,Employment ,12800
+18131,Pulaski,2015,Employment ,6010
+18133,Putnam ,2015,Employment ,15684
+18135,Randolph ,2015,Employment ,12068
+18137,Ripley,2015,Employment ,12813
+18139,Rush ,2015,Employment ,8470
+18141,St. Joseph,2015,Employment ,124374
+18143,Scott,2015,Employment ,9790
+18145,Shelby ,2015,Employment ,21817
+18147,Spencer ,2015,Employment ,10542
+18149,Starke,2015,Employment ,9900
+18151,Steuben ,2015,Employment ,19225
+18153,Sullivan ,2015,Employment ,8150
+18155,Switzerland ,2015,Employment ,4592
+18157,Tippecanoe ,2015,Employment ,88733
+18159,Tipton,2015,Employment ,8051
+18161,Union ,2015,Employment ,3443
+18163,Vanderburgh ,2015,Employment ,88450
+18165,Vermillion ,2015,Employment ,6700
+18167,Vigo ,2015,Employment ,46012
+18169,Wabash ,2015,Employment ,14712
+18171,Warren ,2015,Employment ,3911
+18173,Warrick ,2015,Employment ,30125
+18175,Washington ,2015,Employment ,12944
+18177,Wayne ,2015,Employment ,29055
+18179,Wells,2015,Employment ,13590
+18181,White ,2015,Employment ,13060
+18183,Whitley,2015,Employment ,16508
