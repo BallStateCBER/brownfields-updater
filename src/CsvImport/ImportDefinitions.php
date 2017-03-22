@@ -115,7 +115,7 @@ class ImportDefinitions
             ]
         ];
 
-        $imports['Households With People Under 18, Breakdown By Type'] = [
+        $imports['Households with people under 18, breakdown by type'] = [
             'filename' => 'Demographics_Householdunder18breakdown.csv',
             'sourceId' => 103,
             'categoryIds' => [
@@ -148,7 +148,7 @@ class ImportDefinitions
             ]
         ];
 
-        $imports['Households With People Under 18'] = [
+        $imports['Households with people under 18'] = [
             'filename' => 'Demographics_Householdwithunder18.csv',
             'sourceId' => 104,
             'categoryId' => 438
