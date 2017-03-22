@@ -174,6 +174,15 @@ class ImportDefinitions
             ]
         ];
 
+        $imports['Poverty'] = [
+            'filename' => 'Demographics_Poverty.csv',
+            'sourceId' => 108,
+            'categoryIds' => [
+                'Poverty Percent, All Ages' => 5686,
+                'Poverty Percent, Age 0-17' => 5688
+            ]
+        ];
+
         return $imports;
     }
 }
