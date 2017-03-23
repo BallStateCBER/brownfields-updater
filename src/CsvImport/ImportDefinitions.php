@@ -235,6 +235,12 @@ class ImportDefinitions
             'categoryId' => 5822
         ];
 
+        $imports['Income inequality'] = [
+            'filename' => 'Economics_IncomeInequality.csv',
+            'sourceId' => 115,
+            'categoryId' => 5668
+        ];
+
         return $imports;
     }
 }
