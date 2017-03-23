@@ -223,6 +223,12 @@ class ImportDefinitions
             'categoryId' => 5815
         ];
 
+        $imports['Employment growth'] = [
+            'filename' => 'Economics_EmploymentGrowth.csv',
+            'sourceId' => 112,
+            'categoryId' => 5815
+        ];
+
         return $imports;
     }
 }
