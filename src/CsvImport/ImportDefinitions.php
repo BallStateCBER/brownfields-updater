@@ -229,6 +229,12 @@ class ImportDefinitions
             'categoryId' => 5815
         ];
 
+        $imports['Federal spending'] = [
+            'filename' => 'Economics_FederalSpending.csv',
+            'sourceId' => 114,
+            'categoryId' => 5822
+        ];
+
         return $imports;
     }
 }
