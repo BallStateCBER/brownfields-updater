@@ -241,6 +241,16 @@ class ImportDefinitions
             'categoryId' => 5668
         ];
 
+        $imports['Percentage Share of Total Establishments'] = [
+            'filename' => 'Economics_PercentageShareofTotalEstablishments.csv',
+            'sourceId' => 116,
+            'categoryIds' => [
+                'Manufacturing Establishments' => 5812,
+                'Logistics Establishments' => 5811,
+                'Total Establishments' => 5810
+            ]
+        ];
+
         return $imports;
     }
 }
