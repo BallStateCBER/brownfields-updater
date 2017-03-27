@@ -277,6 +277,18 @@ class ImportDefinitions
             'categoryId' => 569
         ];
 
+        $imports['Birth measures'] = [
+            'filename' => 'Health_BirthMeasures.csv',
+            'sourceId' => 120,
+            'categoryIds' => [
+                '% Low Birthweight' => 5844,
+                '% Very Low Birthweight' => 5845,
+                '% Less than 37 weeks gestation' => 5846,
+                '% Prenatal care beginning in the first trimester' => 5847,
+                '% Unmarried' => 5848
+            ]
+        ];
+
         return $imports;
     }
 }
