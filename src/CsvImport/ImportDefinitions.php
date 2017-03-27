@@ -271,6 +271,12 @@ class ImportDefinitions
             ]
         ];
 
+        $imports['Unemployment rate'] = [
+            'filename' => 'Economics_UnemploymentRate.csv',
+            'sourceId' => 119,
+            'categoryId' => 569
+        ];
+
         return $imports;
     }
 }
