@@ -251,6 +251,26 @@ class ImportDefinitions
             ]
         ];
 
+        $imports['Personal income'] = [
+            'filename' => 'Economics_PersonalHouseholdIncome.csv',
+            'headerRowCount' => 6,
+            'sourceId' => 117,
+            'categoryIds' => [
+                'Per capita personal income (dollars) 2' => 47,
+                'Median household income in the past 12 months (in 2015 Inflation- adjusted dollar)' => null
+            ]
+        ];
+
+        $imports['Household income'] = [
+            'filename' => 'Economics_PersonalHouseholdIncome.csv',
+            'headerRowCount' => 6,
+            'sourceId' => 118,
+            'categoryIds' => [
+                'Per capita personal income (dollars) 2' => null,
+                'Median household income in the past 12 months (in 2015 Inflation- adjusted dollar)' => 5689
+            ]
+        ];
+
         return $imports;
     }
 }
