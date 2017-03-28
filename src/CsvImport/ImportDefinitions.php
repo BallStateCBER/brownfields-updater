@@ -331,6 +331,12 @@ class ImportDefinitions
             ]
         ];
 
+        $imports['Infant mortality'] = [
+            'filename' => 'Health_InfantMortality.csv',
+            'sourceId' => 128,
+            'categoryId' => 5908
+        ];
+
         return $imports;
     }
 }
