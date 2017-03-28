@@ -337,6 +337,12 @@ class ImportDefinitions
             'categoryId' => 5908
         ];
 
+        $imports['Life expectancy'] = [
+            'filename' => 'Health_LifeExpectancy.csv',
+            'sourceId' => 129,
+            'categoryId' => 5995
+        ];
+
         return $imports;
     }
 }
