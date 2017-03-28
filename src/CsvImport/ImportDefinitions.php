@@ -300,6 +300,12 @@ class ImportDefinitions
             ]
         ];
 
+        $imports['Crude birth rate'] = [
+            'filename' => 'Health_CrudeBirthRate.csv',
+            'sourceId' => 123,
+            'categoryId' => 5827
+        ];
+
         return $imports;
     }
 }
