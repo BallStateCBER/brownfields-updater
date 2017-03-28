@@ -360,6 +360,15 @@ class ImportDefinitions
             'categoryId' => 5997
         ];
 
+        $imports['Unhealthy days'] = [
+            'filename' => 'Health_Unhealthydays.csv',
+            'sourceId' => 132,
+            'categoryIds' => [
+                'poor physical healthy days' => 5999,
+                'poor mental healthy days' => 6000
+            ]
+        ];
+
         return $imports;
     }
 }
