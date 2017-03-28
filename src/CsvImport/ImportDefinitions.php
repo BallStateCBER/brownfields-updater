@@ -347,11 +347,17 @@ class ImportDefinitions
             'filename' => 'Health_LungDisease.csv',
             'sourceId' => 130,
             'categoryIds' => [
-                'Pediatric Asthma' => 5935,
-                'Adult Asthma' => 5936,
-                'COPD' => 6026,
-                'Lung Cancer' => 6027
+                'Pediatric Asthma' => 5930,
+                'Adult Asthma' => 5931,
+                'COPD' => 6028,
+                'Lung Cancer' => 6029
             ]
+        ];
+
+        $imports['Self-rated poor health'] = [
+            'filename' => 'Health_selfratedpoorhealth.csv',
+            'sourceId' => 131,
+            'categoryId' => 5997
         ];
 
         return $imports;
