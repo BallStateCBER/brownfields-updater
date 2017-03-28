@@ -306,6 +306,16 @@ class ImportDefinitions
             'categoryId' => 5827
         ];
 
+        $imports['Deaths by sex'] = [
+            'filename' => 'Health_DeathBySex.csv',
+            'sourceId' => 124,
+            'categoryIds' => [
+                'Total Death' => 5853,
+                'Male Death' => 5854,
+                'Female Death' => 5855
+            ]
+        ];
+
         return $imports;
     }
 }

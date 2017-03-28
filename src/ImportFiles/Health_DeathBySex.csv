@@ -1,0 +1,284 @@
+Source ,Indiana Mortality Report- 2015: Table 5a. Death from Causes by Race and Sex ,,,
+Note ,Death By Sex ,,,
+URL,http://www.in.gov/isdh/reports/mortality/2015/table05/tbl05a.html,,,
+,,,,
+Fips ,Geography ,Year ,Statistic ,Value 
+18000,INDIANA,2015,Total Death,62666
+18001,Adams,2015,Total Death,311
+18003,Allen,2015,Total Death,3160
+18005,Bartholomew,2015,Total Death,751
+18007,Benton,2015,Total Death,95
+18009,Blackford,2015,Total Death,168
+18011,Boone,2015,Total Death,527
+18013,Brown,2015,Total Death,167
+18015,Carroll,2015,Total Death,183
+18017,Cass,2015,Total Death,419
+18019,Clark,2015,Total Death,1273
+18021,Clay,2015,Total Death,330
+18023,Clinton,2015,Total Death,413
+18025,Crawford,2015,Total Death,117
+18027,Daviess,2015,Total Death,325
+18029,Dearborn,2015,Total Death,492
+18031,Decatur,2015,Total Death,265
+18033,DeKalb,2015,Total Death,413
+18035,Delaware,2015,Total Death,1189
+18037,Dubois,2015,Total Death,410
+18039,Elkhart,2015,Total Death,1677
+18041,Fayette,2015,Total Death,327
+18043,Floyd,2015,Total Death,754
+18045,Fountain,2015,Total Death,216
+18047,Franklin,2015,Total Death,214
+18049,Fulton,2015,Total Death,251
+18051,Gibson,2015,Total Death,343
+18053,Grant,2015,Total Death,868
+18055,Greene,2015,Total Death,352
+18057,Hamilton,2015,Total Death,1550
+18059,Hancock,2015,Total Death,669
+18061,Harrison,2015,Total Death,388
+18063,Hendricks,2015,Total Death,1119
+18065,Henry,2015,Total Death,604
+18067,Howard,2015,Total Death,1051
+18069,Huntington,2015,Total Death,403
+18071,Jackson,2015,Total Death,486
+18073,Jasper,2015,Total Death,323
+18075,Jay,2015,Total Death,234
+18077,Jefferson,2015,Total Death,382
+18079,Jennings,2015,Total Death,303
+18081,Johnson,2015,Total Death,1346
+18083,Knox,2015,Total Death,478
+18085,Kosciusko,2015,Total Death,743
+18087,LaGrange,2015,Total Death,276
+18089,Lake,2015,Total Death,4855
+18091,LaPorte,2015,Total Death,1233
+18093,Lawrence,2015,Total Death,533
+18095,Madison,2015,Total Death,1505
+18097,Marion,2015,Total Death,7955
+18099,Marshall,2015,Total Death,444
+18101,Martin,2015,Total Death,103
+18103,Miami,2015,Total Death,411
+18105,Monroe,2015,Total Death,952
+18107,Montgomery,2015,Total Death,386
+18109,Morgan,2015,Total Death,687
+18111,Newton,2015,Total Death,147
+18113,Noble,2015,Total Death,415
+18115,Ohio,2015,Total Death,63
+18117,Orange,2015,Total Death,250
+18119,Owen,2015,Total Death,230
+18121,Parke,2015,Total Death,140
+18123,Perry,2015,Total Death,193
+18125,Pike,2015,Total Death,181
+18127,Porter,2015,Total Death,1483
+18129,Posey,2015,Total Death,267
+18131,Pulaski,2015,Total Death,162
+18133,Putnam,2015,Total Death,362
+18135,Randolph,2015,Total Death,282
+18137,Ripley,2015,Total Death,292
+18139,Rush,2015,Total Death,203
+18141,St. Joseph,2015,Total Death,2679
+18143,Scott,2015,Total Death,290
+18145,Shelby,2015,Total Death,436
+18147,Spencer,2015,Total Death,187
+18149,Starke,2015,Total Death,278
+18151,Steuben,2015,Total Death,328
+18153,Sullivan,2015,Total Death,263
+18155,Switzerland,2015,Total Death,110
+18157,Tippecanoe,2015,Total Death,1186
+18159,Tipton,2015,Total Death,164
+18161,Union,2015,Total Death,66
+18163,Vanderburgh,2015,Total Death,2030
+18165,Vermillion,2015,Total Death,225
+18167,Vigo,2015,Total Death,1158
+18169,Wabash,2015,Total Death,417
+18171,Warren,2015,Total Death,83
+18173,Warrick,2015,Total Death,550
+18175,Washington,2015,Total Death,339
+18177,Wayne,2015,Total Death,885
+18179,Wells,2015,Total Death,302
+18181,White,2015,Total Death,293
+18183,Whitley,2015,Total Death,298
+18000,INDIANA,2015,Male Death ,31253
+18001,Adams,2015,Male Death ,154
+18003,Allen,2015,Male Death ,1564
+18005,Bartholomew,2015,Male Death ,388
+18007,Benton,2015,Male Death ,48
+18009,Blackford,2015,Male Death ,81
+18011,Boone,2015,Male Death ,246
+18013,Brown,2015,Male Death ,103
+18015,Carroll,2015,Male Death ,86
+18017,Cass,2015,Male Death ,190
+18019,Clark,2015,Male Death ,654
+18021,Clay,2015,Male Death ,172
+18023,Clinton,2015,Male Death ,193
+18025,Crawford,2015,Male Death ,56
+18027,Daviess,2015,Male Death ,167
+18029,Dearborn,2015,Male Death ,234
+18031,Decatur,2015,Male Death ,128
+18033,DeKalb,2015,Male Death ,208
+18035,Delaware,2015,Male Death ,600
+18037,Dubois,2015,Male Death ,208
+18039,Elkhart,2015,Male Death ,855
+18041,Fayette,2015,Male Death ,176
+18043,Floyd,2015,Male Death ,362
+18045,Fountain,2015,Male Death ,111
+18047,Franklin,2015,Male Death ,122
+18049,Fulton,2015,Male Death ,136
+18051,Gibson,2015,Male Death ,181
+18053,Grant,2015,Male Death ,438
+18055,Greene,2015,Male Death ,185
+18057,Hamilton,2015,Male Death ,755
+18059,Hancock,2015,Male Death ,316
+18061,Harrison,2015,Male Death ,191
+18063,Hendricks,2015,Male Death ,536
+18065,Henry,2015,Male Death ,298
+18067,Howard,2015,Male Death ,477
+18069,Huntington,2015,Male Death ,190
+18071,Jackson,2015,Male Death ,240
+18073,Jasper,2015,Male Death ,181
+18075,Jay,2015,Male Death ,122
+18077,Jefferson,2015,Male Death ,191
+18079,Jennings,2015,Male Death ,165
+18081,Johnson,2015,Male Death ,611
+18083,Knox,2015,Male Death ,227
+18085,Kosciusko,2015,Male Death ,365
+18087,LaGrange,2015,Male Death ,130
+18089,Lake,2015,Male Death ,2476
+18091,LaPorte,2015,Male Death ,653
+18093,Lawrence,2015,Male Death ,281
+18095,Madison,2015,Male Death ,738
+18097,Marion,2015,Male Death ,3938
+18099,Marshall,2015,Male Death ,232
+18101,Martin,2015,Male Death ,55
+18103,Miami,2015,Male Death ,204
+18105,Monroe,2015,Male Death ,481
+18107,Montgomery,2015,Male Death ,188
+18109,Morgan,2015,Male Death ,359
+18111,Newton,2015,Male Death ,73
+18113,Noble,2015,Male Death ,179
+18115,Ohio,2015,Male Death ,34
+18117,Orange,2015,Male Death ,131
+18119,Owen,2015,Male Death ,120
+18121,Parke,2015,Male Death ,73
+18123,Perry,2015,Male Death ,95
+18125,Pike,2015,Male Death ,102
+18127,Porter,2015,Male Death ,750
+18129,Posey,2015,Male Death ,127
+18131,Pulaski,2015,Male Death ,83
+18133,Putnam,2015,Male Death ,190
+18135,Randolph,2015,Male Death ,146
+18137,Ripley,2015,Male Death ,134
+18139,Rush,2015,Male Death ,106
+18141,St. Joseph,2015,Male Death ,1292
+18143,Scott,2015,Male Death ,161
+18145,Shelby,2015,Male Death ,203
+18147,Spencer,2015,Male Death ,106
+18149,Starke,2015,Male Death ,154
+18151,Steuben,2015,Male Death ,176
+18153,Sullivan,2015,Male Death ,135
+18155,Switzerland,2015,Male Death ,61
+18157,Tippecanoe,2015,Male Death ,598
+18159,Tipton,2015,Male Death ,77
+18161,Union,2015,Male Death ,37
+18163,Vanderburgh,2015,Male Death ,1012
+18165,Vermillion,2015,Male Death ,115
+18167,Vigo,2015,Male Death ,576
+18169,Wabash,2015,Male Death ,214
+18171,Warren,2015,Male Death ,41
+18173,Warrick,2015,Male Death ,244
+18175,Washington,2015,Male Death ,179
+18177,Wayne,2015,Male Death ,428
+18179,Wells,2015,Male Death ,147
+18181,White,2015,Male Death ,158
+18183,Whitley,2015,Male Death ,150
+18000,INDIANA,2015,Female Death ,31412
+18001,Adams,2015,Female Death ,157
+18003,Allen,2015,Female Death ,1596
+18005,Bartholomew,2015,Female Death ,363
+18007,Benton,2015,Female Death ,47
+18009,Blackford,2015,Female Death ,87
+18011,Boone,2015,Female Death ,281
+18013,Brown,2015,Female Death ,64
+18015,Carroll,2015,Female Death ,97
+18017,Cass,2015,Female Death ,229
+18019,Clark,2015,Female Death ,619
+18021,Clay,2015,Female Death ,158
+18023,Clinton,2015,Female Death ,220
+18025,Crawford,2015,Female Death ,61
+18027,Daviess,2015,Female Death ,158
+18029,Dearborn,2015,Female Death ,258
+18031,Decatur,2015,Female Death ,137
+18033,DeKalb,2015,Female Death ,205
+18035,Delaware,2015,Female Death ,589
+18037,Dubois,2015,Female Death ,202
+18039,Elkhart,2015,Female Death ,822
+18041,Fayette,2015,Female Death ,151
+18043,Floyd,2015,Female Death ,392
+18045,Fountain,2015,Female Death ,105
+18047,Franklin,2015,Female Death ,92
+18049,Fulton,2015,Female Death ,115
+18051,Gibson,2015,Female Death ,162
+18053,Grant,2015,Female Death ,430
+18055,Greene,2015,Female Death ,167
+18057,Hamilton,2015,Female Death ,795
+18059,Hancock,2015,Female Death ,353
+18061,Harrison,2015,Female Death ,197
+18063,Hendricks,2015,Female Death ,583
+18065,Henry,2015,Female Death ,306
+18067,Howard,2015,Female Death ,574
+18069,Huntington,2015,Female Death ,213
+18071,Jackson,2015,Female Death ,246
+18073,Jasper,2015,Female Death ,142
+18075,Jay,2015,Female Death ,112
+18077,Jefferson,2015,Female Death ,191
+18079,Jennings,2015,Female Death ,138
+18081,Johnson,2015,Female Death ,734
+18083,Knox,2015,Female Death ,251
+18085,Kosciusko,2015,Female Death ,378
+18087,LaGrange,2015,Female Death ,146
+18089,Lake,2015,Female Death ,2379
+18091,LaPorte,2015,Female Death ,580
+18093,Lawrence,2015,Female Death ,252
+18095,Madison,2015,Female Death ,767
+18097,Marion,2015,Female Death ,4017
+18099,Marshall,2015,Female Death ,212
+18101,Martin,2015,Female Death ,48
+18103,Miami,2015,Female Death ,207
+18105,Monroe,2015,Female Death ,471
+18107,Montgomery,2015,Female Death ,198
+18109,Morgan,2015,Female Death ,328
+18111,Newton,2015,Female Death ,74
+18113,Noble,2015,Female Death ,236
+18115,Ohio,2015,Female Death ,29
+18117,Orange,2015,Female Death ,119
+18119,Owen,2015,Female Death ,110
+18121,Parke,2015,Female Death ,67
+18123,Perry,2015,Female Death ,98
+18125,Pike,2015,Female Death ,79
+18127,Porter,2015,Female Death ,733
+18129,Posey,2015,Female Death ,140
+18131,Pulaski,2015,Female Death ,79
+18133,Putnam,2015,Female Death ,172
+18135,Randolph,2015,Female Death ,136
+18137,Ripley,2015,Female Death ,158
+18139,Rush,2015,Female Death ,97
+18141,St. Joseph,2015,Female Death ,1387
+18143,Scott,2015,Female Death ,129
+18145,Shelby,2015,Female Death ,233
+18147,Spencer,2015,Female Death ,81
+18149,Starke,2015,Female Death ,124
+18151,Steuben,2015,Female Death ,152
+18153,Sullivan,2015,Female Death ,128
+18155,Switzerland,2015,Female Death ,49
+18157,Tippecanoe,2015,Female Death ,588
+18159,Tipton,2015,Female Death ,87
+18161,Union,2015,Female Death ,29
+18163,Vanderburgh,2015,Female Death ,1018
+18165,Vermillion,2015,Female Death ,110
+18167,Vigo,2015,Female Death ,582
+18169,Wabash,2015,Female Death ,203
+18171,Warren,2015,Female Death ,42
+18173,Warrick,2015,Female Death ,306
+18175,Washington,2015,Female Death ,160
+18177,Wayne,2015,Female Death ,457
+18179,Wells,2015,Female Death ,155
+18181,White,2015,Female Death ,135
+18183,Whitley,2015,Female Death ,148
