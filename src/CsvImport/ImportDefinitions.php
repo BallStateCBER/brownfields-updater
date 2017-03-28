@@ -322,6 +322,15 @@ class ImportDefinitions
             'categoryId' => 5852
         ];
 
+        $imports['Fertility rates'] = [
+            'filename' => 'Health_FertilityRates.csv',
+            'sourceId' => 127,
+            'categoryIds' => [
+                'General Fertility Rates (GFR)' => 5849,
+                'Total Fertility Rates (TFR)' => 5850
+            ]
+        ];
+
         return $imports;
     }
 }
