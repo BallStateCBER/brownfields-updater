@@ -289,6 +289,17 @@ class ImportDefinitions
             ]
         ];
 
+        $imports['Cancer death and incidence rates'] = [
+            'filename' => 'Health_CancerDeathandIncidenceRates.csv',
+            'sourceId' => 122,
+            'categoryIds' => [
+                'Incidence Rate All Cancer(Age-Adjusted Incidence Rate (t)- cases per 100,000)' => 6001,
+                'Death Rate All Cancer(Age- Adjusted Death Rate (t)- cases per 100,000)' => 6003,
+                'Incidence Rate Lungs & Bronchus(Age- Adjusted Incidence Rate (t)-cases per 100,000)' => 6005,
+                'Death Rate Lungs & Bronchus(Age- Adjusted Death Rate (t)- cases per 100,000)' => 6007
+            ]
+        ];
+
         return $imports;
     }
 }
