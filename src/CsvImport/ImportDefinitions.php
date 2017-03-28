@@ -369,6 +369,12 @@ class ImportDefinitions
             ]
         ];
 
+        $imports['Years of potential life lost'] = [
+            'filename' => 'Health_YearsofPotienalLifeLost.csv',
+            'sourceId' => 133,
+            'categoryId' => 5996
+        ];
+
         return $imports;
     }
 }
