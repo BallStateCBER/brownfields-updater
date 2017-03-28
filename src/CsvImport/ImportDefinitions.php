@@ -316,6 +316,12 @@ class ImportDefinitions
             ]
         ];
 
+        $imports['Death rates'] = [
+            'filename' => 'Health_DeathRates.csv',
+            'sourceId' => 126,
+            'categoryId' => 5852
+        ];
+
         return $imports;
     }
 }
