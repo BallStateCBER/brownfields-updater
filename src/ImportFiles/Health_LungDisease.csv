@@ -1,0 +1,377 @@
+Source,American Lung Association,,,
+Notes,Estimated Prevalence and Incidence of Lung Disease,,,
+URL,http://www.lung.org/our-initiatives/research/monitoring-trends-in-lung-disease/estimated-prevalence-and-incidence-of-lung-disease/,,,
+,,,,
+FIPS,Geography,Year,Statistic,Value
+18000,Indiana,2015,Pediatric Asthma,150619
+18001,Adams,2015,Pediatric Asthma,996
+18003,Allen,2015,Pediatric Asthma,9073
+18005,Bartholomew,2015,Pediatric Asthma,1839
+18007,Benton,2015,Pediatric Asthma,209
+18009,Blackford,2015,Pediatric Asthma,264
+18011,Boone,2015,Pediatric Asthma,1524
+18013,Brown,2015,Pediatric Asthma,282
+18015,Carroll,2015,Pediatric Asthma,452
+18017,Cass,2015,Pediatric Asthma,924
+18019,Clark,2015,Pediatric Asthma,2493
+18021,Clay,2015,Pediatric Asthma,592
+18023,Clinton,2015,Pediatric Asthma,825
+18025,Crawford,2015,Pediatric Asthma,228
+18027,Daviess,2015,Pediatric Asthma,875
+18029,Dearborn,2015,Pediatric Asthma,1139
+18031,Decatur,2015,Pediatric Asthma,610
+18033,DeKalb,2015,Pediatric Asthma,1026
+18035,Delaware,2015,Pediatric Asthma,2183
+18037,Dubois,2015,Pediatric Asthma,988
+18039,Elkhart,2015,Pediatric Asthma,5317
+18041,Fayette,2015,Pediatric Asthma,536
+18043,Floyd,2015,Pediatric Asthma,1651
+18045,Fountain,2015,Pediatric Asthma,381
+18047,Franklin,2015,Pediatric Asthma,546
+18049,Fulton,2015,Pediatric Asthma,478
+18051,Gibson,2015,Pediatric Asthma,746
+18053,Grant,2015,Pediatric Asthma,1393
+18055,Greene,2015,Pediatric Asthma,712
+18057,Hamilton,2015,Pediatric Asthma,7997
+18059,Hancock,2015,Pediatric Asthma,1684
+18061,Harrison,2015,Pediatric Asthma,845
+18063,Hendricks,2015,Pediatric Asthma,3762
+18065,Henry,2015,Pediatric Asthma,1008
+18067,Howard,2015,Pediatric Asthma,1806
+18069,Huntington,2015,Pediatric Asthma,796
+18071,Jackson,2015,Pediatric Asthma,1000
+18073,Jasper,2015,Pediatric Asthma,787
+18075,Jay,2015,Pediatric Asthma,530
+18077,Jefferson,2015,Pediatric Asthma,683
+18079,Jennings,2015,Pediatric Asthma,676
+18081,Johnson,2015,Pediatric Asthma,3497
+18083,Knox,2015,Pediatric Asthma,766
+18085,Kosciusko,2015,Pediatric Asthma,1836
+18087,LaGrange,2015,Pediatric Asthma,1209
+18089,Lake,2015,Pediatric Asthma,11737
+18091,LaPorte,2015,Pediatric Asthma,2361
+18093,Lawrence,2015,Pediatric Asthma,1006
+18095,Madison,2015,Pediatric Asthma,2794
+18097,Marion,2015,Pediatric Asthma,21880
+18099,Marshall,2015,Pediatric Asthma,1157
+18101,Martin,2015,Pediatric Asthma,226
+18103,Miami,2015,Pediatric Asthma,767
+18105,Monroe,2015,Pediatric Asthma,2154
+18107,Montgomery,2015,Pediatric Asthma,850
+18109,Morgan,2015,Pediatric Asthma,1603
+18111,Newton,2015,Pediatric Asthma,294
+18113,Noble,2015,Pediatric Asthma,1183
+18115,Ohio,2015,Pediatric Asthma,119
+18117,Orange,2015,Pediatric Asthma,453
+18119,Owen,2015,Pediatric Asthma,450
+18121,Parke,2015,Pediatric Asthma,347
+18123,Perry,2015,Pediatric Asthma,379
+18125,Pike,2015,Pediatric Asthma,266
+18127,Porter,2015,Pediatric Asthma,3672
+18129,Posey,2015,Pediatric Asthma,557
+18131,Pulaski,2015,Pediatric Asthma,292
+18133,Putnam,2015,Pediatric Asthma,735
+18135,Randolph,2015,Pediatric Asthma,583
+18137,Ripley,2015,Pediatric Asthma,686
+18139,Rush,2015,Pediatric Asthma,385
+18141,Scott,2015,Pediatric Asthma,523
+18143,Shelby,2015,Pediatric Asthma,1002
+18145,Spencer,2015,Pediatric Asthma,453
+18147,St. Joseph,2015,Pediatric Asthma,6100
+18149,Starke,2015,Pediatric Asthma,518
+18151,Steuben,2015,Pediatric Asthma,696
+18153,Sullivan,2015,Pediatric Asthma,424
+18155,Switzerland,2015,Pediatric Asthma,246
+18157,Tippecanoe,2015,Pediatric Asthma,3452
+18159,Tipton,2015,Pediatric Asthma,325
+18161,Union,2015,Pediatric Asthma,168
+18163,Vanderburgh,2015,Pediatric Asthma,3763
+18165,Vermillion,2015,Pediatric Asthma,349
+18167,Vigo,2015,Pediatric Asthma,2153
+18169,Wabash,2015,Pediatric Asthma,681
+18171,Warren,2015,Pediatric Asthma,174
+18173,Warrick,2015,Pediatric Asthma,1432
+18175,Washington,2015,Pediatric Asthma,644
+18177,Wayne,2015,Pediatric Asthma,1482
+18179,Wells,2015,Pediatric Asthma,630
+18181,White,2015,Pediatric Asthma,550
+18183,Whitley,2015,Pediatric Asthma,754
+18000,Indiana,2015,Adult Asthma,448017
+18001,Adams,2015,Adult Asthma,2158
+18003,Allen,2015,Adult Asthma,23948
+18005,Bartholomew,2015,Adult Asthma,5406
+18007,Benton,2015,Adult Asthma,600
+18009,Blackford,2015,Adult Asthma,884
+18011,Boone,2015,Adult Asthma,3910
+18013,Brown,2015,Adult Asthma,1114
+18015,Carroll,2015,Adult Asthma,1397
+18017,Cass,2015,Adult Asthma,2616
+18019,Clark,2015,Adult Asthma,7764
+18021,Clay,2015,Adult Asthma,1872
+18023,Clinton,2015,Adult Asthma,2206
+18025,Crawford,2015,Adult Asthma,756
+18027,Daviess,2015,Adult Asthma,2067
+18029,Dearborn,2015,Adult Asthma,3454
+18031,Decatur,2015,Adult Asthma,1781
+18033,DeKalb,2015,Adult Asthma,2864
+18035,Delaware,2015,Adult Asthma,8456
+18037,Dubois,2015,Adult Asthma,2885
+18039,Elkhart,2015,Adult Asthma,12976
+18041,Fayette,2015,Adult Asthma,1670
+18043,Floyd,2015,Adult Asthma,5267
+18045,Fountain,2015,Adult Asthma,1191
+18047,Franklin,2015,Adult Asthma,1570
+18049,Fulton,2015,Adult Asthma,1428
+18051,Gibson,2015,Adult Asthma,2326
+18053,Grant,2015,Adult Asthma,4945
+18055,Greene,2015,Adult Asthma,2316
+18057,Hamilton,2015,Adult Asthma,18608
+18059,Hancock,2015,Adult Asthma,4845
+18061,Harrison,2015,Adult Asthma,2756
+18063,Hendricks,2015,Adult Asthma,10045
+18065,Henry,2015,Adult Asthma,3520
+18067,Howard,2015,Adult Asthma,5798
+18069,Huntington,2015,Adult Asthma,2596
+18071,Jackson,2015,Adult Asthma,2950
+18073,Jasper,2015,Adult Asthma,2282
+18075,Jay,2015,Adult Asthma,1431
+18077,Jefferson,2015,Adult Asthma,2301
+18079,Jennings,2015,Adult Asthma,1911
+18081,Johnson,2015,Adult Asthma,9626
+18083,Knox,2015,Adult Asthma,2717
+18085,Kosciusko,2015,Adult Asthma,5285
+18087,LaGrange,2015,Adult Asthma,2234
+18089,Lake,2015,Adult Asthma,33564
+18091,LaPorte,2015,Adult Asthma,7842
+18093,Lawrence,2015,Adult Asthma,3230
+18095,Madison,2015,Adult Asthma,9138
+18097,Marion,2015,Adult Asthma,62019
+18099,Marshall,2015,Adult Asthma,3164
+18101,Martin,2015,Adult Asthma,719
+18103,Miami,2015,Adult Asthma,2577
+18105,Monroe,2015,Adult Asthma,10482
+18107,Montgomery,2015,Adult Asthma,2656
+18109,Morgan,2015,Adult Asthma,4788
+18111,Newton,2015,Adult Asthma,999
+18113,Noble,2015,Adult Asthma,3190
+18115,Ohio,2015,Adult Asthma,441
+18117,Orange,2015,Adult Asthma,1358
+18119,Owen,2015,Adult Asthma,1524
+18121,Parke,2015,Adult Asthma,1221
+18123,Perry,2015,Adult Asthma,1405
+18125,Pike,2015,Adult Asthma,909
+18127,Porter,2015,Adult Asthma,11540
+18129,Posey,2015,Adult Asthma,1806
+18131,Pulaski,2015,Adult Asthma,916
+18133,Putnam,2015,Adult Asthma,2711
+18135,Randolph,2015,Adult Asthma,1788
+18137,Ripley,2015,Adult Asthma,1941
+18139,Rush,2015,Adult Asthma,1186
+18141,Scott,2015,Adult Asthma,1662
+18143,Shelby,2015,Adult Asthma,3090
+18145,Spencer,2015,Adult Asthma,1468
+18147,St. Joseph,2015,Adult Asthma,18264
+18149,Starke,2015,Adult Asthma,1616
+18151,Steuben,2015,Adult Asthma,2436
+18153,Sullivan,2015,Adult Asthma,1514
+18155,Switzerland,2015,Adult Asthma,713
+18157,Tippecanoe,2015,Adult Asthma,12529
+18159,Tipton,2015,Adult Asthma,1116
+18161,Union,2015,Adult Asthma,510
+18163,Vanderburgh,2015,Adult Asthma,12768
+18165,Vermillion,2015,Adult Asthma,1125
+18167,Vigo,2015,Adult Asthma,7716
+18169,Wabash,2015,Adult Asthma,2283
+18171,Warren,2015,Adult Asthma,594
+18173,Warrick,2015,Adult Asthma,4135
+18175,Washington,2015,Adult Asthma,1924
+18177,Wayne,2015,Adult Asthma,4782
+18179,Wells,2015,Adult Asthma,1913
+18181,White,2015,Adult Asthma,1698
+18183,Whitley,2015,Adult Asthma,2315
+18000,Indiana,2015,COPD,378338
+18001,Adams,2015,COPD,1876
+18003,Allen,2015,COPD,19927
+18005,Bartholomew,2015,COPD,4616
+18007,Benton,2015,COPD,537
+18009,Blackford,2015,COPD,821
+18011,Boone,2015,COPD,3355
+18013,Brown,2015,COPD,1073
+18015,Carroll,2015,COPD,1270
+18017,Cass,2015,COPD,2309
+18019,Clark,2015,COPD,6569
+18021,Clay,2015,COPD,1657
+18023,Clinton,2015,COPD,1930
+18025,Crawford,2015,COPD,685
+18027,Daviess,2015,COPD,1791
+18029,Dearborn,2015,COPD,3040
+18031,Decatur,2015,COPD,1556
+18033,DeKalb,2015,COPD,2487
+18035,Delaware,2015,COPD,6949
+18037,Dubois,2015,COPD,2566
+18039,Elkhart,2015,COPD,10868
+18041,Fayette,2015,COPD,1515
+18043,Floyd,2015,COPD,4534
+18045,Fountain,2015,COPD,1094
+18047,Franklin,2015,COPD,1400
+18049,Fulton,2015,COPD,1293
+18051,Gibson,2015,COPD,2066
+18053,Grant,2015,COPD,4352
+18055,Greene,2015,COPD,2103
+18057,Hamilton,2015,COPD,14960
+18059,Hancock,2015,COPD,4222
+18061,Harrison,2015,COPD,2435
+18063,Hendricks,2015,COPD,8308
+18065,Henry,2015,COPD,3161
+18067,Howard,2015,COPD,5241
+18069,Huntington,2015,COPD,2268
+18071,Jackson,2015,COPD,2561
+18073,Jasper,2015,COPD,1990
+18075,Jay,2015,COPD,1275
+18077,Jefferson,2015,COPD,2007
+18079,Jennings,2015,COPD,1651
+18081,Johnson,2015,COPD,8094
+18083,Knox,2015,COPD,2354
+18085,Kosciusko,2015,COPD,4570
+18087,LaGrange,2015,COPD,1875
+18089,Lake,2015,COPD,28781
+18091,LaPorte,2015,COPD,6803
+18093,Lawrence,2015,COPD,2935
+18095,Madison,2015,COPD,8019
+18097,Marion,2015,COPD,49201
+18099,Marshall,2015,COPD,2808
+18101,Martin,2015,COPD,655
+18103,Miami,2015,COPD,2223
+18105,Monroe,2015,COPD,7497
+18107,Montgomery,2015,COPD,2343
+18109,Morgan,2015,COPD,4200
+18111,Newton,2015,COPD,915
+18113,Noble,2015,COPD,2751
+18115,Ohio,2015,COPD,409
+18117,Orange,2015,COPD,1227
+18119,Owen,2015,COPD,1386
+18121,Parke,2015,COPD,1090
+18123,Perry,2015,COPD,1232
+18125,Pike,2015,COPD,838
+18127,Porter,2015,COPD,9842
+18129,Posey,2015,COPD,1627
+18131,Pulaski,2015,COPD,838
+18133,Putnam,2015,COPD,2276
+18135,Randolph,2015,COPD,1632
+18137,Ripley,2015,COPD,1736
+18139,Rush,2015,COPD,1072
+18141,Scott,2015,COPD,1452
+18143,Shelby,2015,COPD,2719
+18145,Spencer,2015,COPD,1342
+18147,St. Joseph,2015,COPD,15388
+18149,Starke,2015,COPD,1447
+18151,Steuben,2015,COPD,2165
+18153,Sullivan,2015,COPD,1309
+18155,Switzerland,2015,COPD,637
+18157,Tippecanoe,2015,COPD,9026
+18159,Tipton,2015,COPD,1033
+18161,Union,2015,COPD,457
+18163,Vanderburgh,2015,COPD,10854
+18165,Vermillion,2015,COPD,1027
+18167,Vigo,2015,COPD,6331
+18169,Wabash,2015,COPD,2087
+18171,Warren,2015,COPD,547
+18173,Warrick,2015,COPD,3660
+18175,Washington,2015,COPD,1689
+18177,Wayne,2015,COPD,4277
+18179,Wells,2015,COPD,1723
+18181,White,2015,COPD,1570
+18183,Whitley,2015,COPD,2051
+18000,Indiana,2015,Lung Cancer,4782
+18001,Adams,2015,Lung Cancer,25
+18003,Allen,2015,Lung Cancer,263
+18005,Bartholomew,2015,Lung Cancer,58
+18007,Benton,2015,Lung Cancer,6
+18009,Blackford,2015,Lung Cancer,9
+18011,Boone,2015,Lung Cancer,43
+18013,Brown,2015,Lung Cancer,11
+18015,Carroll,2015,Lung Cancer,15
+18017,Cass,2015,Lung Cancer,28
+18019,Clark,2015,Lung Cancer,82
+18021,Clay,2015,Lung Cancer,20
+18023,Clinton,2015,Lung Cancer,24
+18025,Crawford,2015,Lung Cancer,8
+18027,Daviess,2015,Lung Cancer,23
+18029,Dearborn,2015,Lung Cancer,37
+18031,Decatur,2015,Lung Cancer,19
+18033,DeKalb,2015,Lung Cancer,31
+18035,Delaware,2015,Lung Cancer,85
+18037,Dubois,2015,Lung Cancer,31
+18039,Elkhart,2015,Lung Cancer,146
+18041,Fayette,2015,Lung Cancer,18
+18043,Floyd,2015,Lung Cancer,55
+18045,Fountain,2015,Lung Cancer,13
+18047,Franklin,2015,Lung Cancer,17
+18049,Fulton,2015,Lung Cancer,15
+18051,Gibson,2015,Lung Cancer,25
+18053,Grant,2015,Lung Cancer,50
+18055,Greene,2015,Lung Cancer,24
+18057,Hamilton,2015,Lung Cancer,211
+18059,Hancock,2015,Lung Cancer,52
+18061,Harrison,2015,Lung Cancer,29
+18063,Hendricks,2015,Lung Cancer,110
+18065,Henry,2015,Lung Cancer,36
+18067,Howard,2015,Lung Cancer,60
+18069,Huntington,2015,Lung Cancer,27
+18071,Jackson,2015,Lung Cancer,32
+18073,Jasper,2015,Lung Cancer,25
+18075,Jay,2015,Lung Cancer,16
+18077,Jefferson,2015,Lung Cancer,24
+18079,Jennings,2015,Lung Cancer,21
+18081,Johnson,2015,Lung Cancer,105
+18083,Knox,2015,Lung Cancer,28
+18085,Kosciusko,2015,Lung Cancer,57
+18087,LaGrange,2015,Lung Cancer,28
+18089,Lake,2015,Lung Cancer,360
+18091,LaPorte,2015,Lung Cancer,82
+18093,Lawrence,2015,Lung Cancer,34
+18095,Madison,2015,Lung Cancer,96
+18097,Marion,2015,Lung Cancer,669
+18099,Marshall,2015,Lung Cancer,34
+18101,Martin,2015,Lung Cancer,8
+18103,Miami,2015,Lung Cancer,27
+18105,Monroe,2015,Lung Cancer,103
+18107,Montgomery,2015,Lung Cancer,28
+18109,Morgan,2015,Lung Cancer,51
+18111,Newton,2015,Lung Cancer,10
+18113,Noble,2015,Lung Cancer,35
+18115,Ohio,2015,Lung Cancer,4
+18117,Orange,2015,Lung Cancer,14
+18119,Owen,2015,Lung Cancer,16
+18121,Parke,2015,Lung Cancer,12
+18123,Perry,2015,Lung Cancer,14
+18125,Pike,2015,Lung Cancer,9
+18127,Porter,2015,Lung Cancer,121
+18129,Posey,2015,Lung Cancer,19
+18131,Pulaski,2015,Lung Cancer,10
+18133,Putnam,2015,Lung Cancer,28
+18135,Randolph,2015,Lung Cancer,19
+18137,Ripley,2015,Lung Cancer,21
+18139,Rush,2015,Lung Cancer,13
+18141,Scott,2015,Lung Cancer,17
+18143,Shelby,2015,Lung Cancer,33
+18145,Spencer,2015,Lung Cancer,15
+18147,St. Joseph,2015,Lung Cancer,194
+18149,Starke,2015,Lung Cancer,17
+18151,Steuben,2015,Lung Cancer,25
+18153,Sullivan,2015,Lung Cancer,16
+18155,Switzerland,2015,Lung Cancer,8
+18157,Tippecanoe,2015,Lung Cancer,131
+18159,Tipton,2015,Lung Cancer,12
+18161,Union,2015,Lung Cancer,5
+18163,Vanderburgh,2015,Lung Cancer,132
+18165,Vermillion,2015,Lung Cancer,12
+18167,Vigo,2015,Lung Cancer,80
+18169,Wabash,2015,Lung Cancer,24
+18171,Warren,2015,Lung Cancer,6
+18173,Warrick,2015,Lung Cancer,44
+18175,Washington,2015,Lung Cancer,20
+18177,Wayne,2015,Lung Cancer,50
+18179,Wells,2015,Lung Cancer,20
+18181,White,2015,Lung Cancer,18
+18183,Whitley,2015,Lung Cancer,24

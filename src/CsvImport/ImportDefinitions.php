@@ -343,6 +343,17 @@ class ImportDefinitions
             'categoryId' => 5995
         ];
 
+        $imports['Lung disease'] = [
+            'filename' => 'Health_LungDisease.csv',
+            'sourceId' => 130,
+            'categoryIds' => [
+                'Pediatric Asthma' => 5935,
+                'Adult Asthma' => 5936,
+                'COPD' => 6026,
+                'Lung Cancer' => 6027
+            ]
+        ];
+
         return $imports;
     }
 }
