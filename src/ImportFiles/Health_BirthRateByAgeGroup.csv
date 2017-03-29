@@ -1,0 +1,656 @@
+Source ,Indiana Natality Report- 2015: Table B3. population Estimates for Females Ages 10-49 by Race & Ethnicity / American Community Survey   ,,,
+Note ,Birth Rate by Age Group / Total Female population ,,,
+URL ,http://www.in.gov/isdh/reports/natality/2015/tblb3_t.htm / https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_15_5YR_B01001&prodType=table,,,
+,,,,
+Fips ,Geography ,Years,Statistics ,Value 
+18000,INDIANA,2015,Total 10-49,1724110
+18001,Adams,2015,Total 10-49,8464
+18003,Allen,2015,Total 10-49,98760
+18005,Bartholomew,2015,Total 10-49,20346
+18007,Benton,2015,Total 10-49,2094
+18009,Blackford,2015,Total 10-49,2722
+18011,Boone,2015,Total 10-49,16635
+18013,Brown,2015,Total 10-49,3202
+18015,Carroll,2015,Total 10-49,4698
+18017,Cass,2015,Total 10-49,9041
+18019,Clark,2015,Total 10-49,29843
+18021,Clay,2015,Total 10-49,6553
+18023,Clinton,2015,Total 10-49,7908
+18025,Crawford,2015,Total 10-49,2392
+18027,Daviess,2015,Total 10-49,8056
+18029,Dearborn,2015,Total 10-49,12172
+18031,Decatur,2015,Total 10-49,6599
+18033,DeKalb,2015,Total 10-49,10613
+18035,Delaware,2015,Total 10-49,33057
+18037,Dubois,2015,Total 10-49,10194
+18039,Elkhart,2015,Total 10-49,53196
+18041,Fayette,2015,Total 10-49,5514
+18043,Floyd,2015,Total 10-49,19972
+18045,Fountain,2015,Total 10-49,3810
+18047,Franklin,2015,Total 10-49,5530
+18049,Fulton,2015,Total 10-49,4802
+18051,Gibson,2015,Total 10-49,8154
+18053,Grant,2015,Total 10-49,17408
+18055,Greene,2015,Total 10-49,7602
+18057,Hamilton,2015,Total 10-49,87425
+18059,Hancock,2015,Total 10-49,18637
+18061,Harrison,2015,Total 10-49,9501
+18063,Hendricks,2015,Total 10-49,42411
+18065,Henry,2015,Total 10-49,10924
+18067,Howard,2015,Total 10-49,19991
+18069,Huntington,2015,Total 10-49,9106
+18071,Jackson,2015,Total 10-49,10881
+18073,Jasper,2015,Total 10-49,8358
+18075,Jay,2015,Total 10-49,5146
+18077,Jefferson,2015,Total 10-49,8593
+18079,Jennings,2015,Total 10-49,6994
+18081,Johnson,2015,Total 10-49,39940
+18083,Knox,2015,Total 10-49,9011
+18085,Kosciusko,2015,Total 10-49,19720
+18087,LaGrange,2015,Total 10-49,9735
+18089,Lake,2015,Total 10-49,127005
+18091,LaPorte,2015,Total 10-49,25423
+18093,Lawrence,2015,Total 10-49,10655
+18095,Madison,2015,Total 10-49,31603
+18097,Marion,2015,Total 10-49,264602
+18099,Marshall,2015,Total 10-49,11461
+18101,Martin,2015,Total 10-49,2321
+18103,Miami,2015,Total 10-49,8027
+18105,Monroe,2015,Total 10-49,45664
+18107,Montgomery,2015,Total 10-49,8961
+18109,Morgan,2015,Total 10-49,17393
+18111,Newton,2015,Total 10-49,3150
+18113,Noble,2015,Total 10-49,11882
+18115,Ohio,2015,Total 10-49,1312
+18117,Orange,2015,Total 10-49,4665
+18119,Owen,2015,Total 10-49,4787
+18121,Parke,2015,Total 10-49,4558
+18123,Perry,2015,Total 10-49,4066
+18125,Pike,2015,Total 10-49,2812
+18127,Porter,2015,Total 10-49,43421
+18129,Posey,2015,Total 10-49,6028
+18131,Pulaski,2015,Total 10-49,2940
+18133,Putnam,2015,Total 10-49,8962
+18135,Randolph,2015,Total 10-49,5936
+18137,Ripley,2015,Total 10-49,7097
+18139,Rush,2015,Total 10-49,4076
+18141,St.Joseph,2015,Total 10-49,71448
+18143,Scott,2015,Total 10-49,5910
+18145,Shelby,2015,Total 10-49,10916
+18147,Spencer,2015,Total 10-49,4684
+18149,Starke,2015,Total 10-49,5519
+18151,Steuben,2015,Total 10-49,8082
+18153,Sullivan,2015,Total 10-49,4559
+18155,Switzerland,2015,Total 10-49,2463
+18157,Tippecanoe,2015,Total 10-49,54647
+18159,Tipton,2015,Total 10-49,3533
+18161,Union,2015,Total 10-49,1786
+18163,Vanderburgh,2015,Total 10-49,47134
+18165,Vermillion,2015,Total 10-49,3615
+18167,Vigo,2015,Total 10-49,27606
+18169,Wabash,2015,Total 10-49,7617
+18171,Warren,2015,Total 10-49,1902
+18173,Warrick,2015,Total 10-49,15268
+18175,Washington,2015,Total 10-49,6809
+18177,Wayne,2015,Total 10-49,16200
+18179,Wells,2015,Total 10-49,6481
+18181,White,2015,Total 10-49,5482
+18183,Whitley,2015,Total 10-49,7932
+18000,INDIANA,2015,Total 10-19,441405
+18001,Adams,2015,Total 10-19,2687
+18003,Allen,2015,Total 10-19,25908
+18005,Bartholomew,2015,Total 10-19,5067
+18007,Benton,2015,Total 10-19,582
+18009,Blackford,2015,Total 10-19,674
+18011,Boone,2015,Total 10-19,4526
+18013,Brown,2015,Total 10-19,870
+18015,Carroll,2015,Total 10-19,1349
+18017,Cass,2015,Total 10-19,2345
+18019,Clark,2015,Total 10-19,6788
+18021,Clay,2015,Total 10-19,1724
+18023,Clinton,2015,Total 10-19,2261
+18025,Crawford,2015,Total 10-19,618
+18027,Daviess,2015,Total 10-19,2417
+18029,Dearborn,2015,Total 10-19,3391
+18031,Decatur,2015,Total 10-19,1785
+18033,DeKalb,2015,Total 10-19,2922
+18035,Delaware,2015,Total 10-19,8550
+18037,Dubois,2015,Total 10-19,2864
+18039,Elkhart,2015,Total 10-19,14947
+18041,Fayette,2015,Total 10-19,1456
+18043,Floyd,2015,Total 10-19,5158
+18045,Fountain,2015,Total 10-19,1014
+18047,Franklin,2015,Total 10-19,1560
+18049,Fulton,2015,Total 10-19,1337
+18051,Gibson,2015,Total 10-19,2087
+18053,Grant,2015,Total 10-19,4645
+18055,Greene,2015,Total 10-19,2008
+18057,Hamilton,2015,Total 10-19,23802
+18059,Hancock,2015,Total 10-19,5016
+18061,Harrison,2015,Total 10-19,2460
+18063,Hendricks,2015,Total 10-19,11463
+18065,Henry,2015,Total 10-19,2915
+18067,Howard,2015,Total 10-19,5087
+18069,Huntington,2015,Total 10-19,2382
+18071,Jackson,2015,Total 10-19,2687
+18073,Jasper,2015,Total 10-19,2406
+18075,Jay,2015,Total 10-19,1472
+18077,Jefferson,2015,Total 10-19,2159
+18079,Jennings,2015,Total 10-19,1888
+18081,Johnson,2015,Total 10-19,10290
+18083,Knox,2015,Total 10-19,2502
+18085,Kosciusko,2015,Total 10-19,5298
+18087,LaGrange,2015,Total 10-19,3170
+18089,Lake,2015,Total 10-19,33021
+18091,LaPorte,2015,Total 10-19,6547
+18093,Lawrence,2015,Total 10-19,2784
+18095,Madison,2015,Total 10-19,7859
+18097,Marion,2015,Total 10-19,58630
+18099,Marshall,2015,Total 10-19,3294
+18101,Martin,2015,Total 10-19,612
+18103,Miami,2015,Total 10-19,2218
+18105,Monroe,2015,Total 10-19,10804
+18107,Montgomery,2015,Total 10-19,2372
+18109,Morgan,2015,Total 10-19,4608
+18111,Newton,2015,Total 10-19,847
+18113,Noble,2015,Total 10-19,3355
+18115,Ohio,2015,Total 10-19,357
+18117,Orange,2015,Total 10-19,1288
+18119,Owen,2015,Total 10-19,1331
+18121,Parke,2015,Total 10-19,953
+18123,Perry,2015,Total 10-19,1047
+18125,Pike,2015,Total 10-19,758
+18127,Porter,2015,Total 10-19,11231
+18129,Posey,2015,Total 10-19,1616
+18131,Pulaski,2015,Total 10-19,803
+18133,Putnam,2015,Total 10-19,2546
+18135,Randolph,2015,Total 10-19,1704
+18137,Ripley,2015,Total 10-19,1987
+18139,Rush,2015,Total 10-19,1139
+18141,St.Joseph,2015,Total 10-19,18775
+18143,Scott,2015,Total 10-19,1462
+18145,Shelby,2015,Total 10-19,2816
+18147,Spencer,2015,Total 10-19,1252
+18149,Starke,2015,Total 10-19,1471
+18151,Steuben,2015,Total 10-19,2206
+18153,Sullivan,2015,Total 10-19,1119
+18155,Switzerland,2015,Total 10-19,652
+18157,Tippecanoe,2015,Total 10-19,12989
+18159,Tipton,2015,Total 10-19,974
+18161,Union,2015,Total 10-19,489
+18163,Vanderburgh,2015,Total 10-19,11178
+18165,Vermillion,2015,Total 10-19,933
+18167,Vigo,2015,Total 10-19,6736
+18169,Wabash,2015,Total 10-19,2102
+18171,Warren,2015,Total 10-19,517
+18173,Warrick,2015,Total 10-19,4201
+18175,Washington,2015,Total 10-19,1820
+18177,Wayne,2015,Total 10-19,4083
+18179,Wells,2015,Total 10-19,1758
+18181,White,2015,Total 10-19,1533
+18183,Whitley,2015,Total 10-19,2091
+18000,INDIANA,2015,20-39,866890
+18001,Adams,2015,20-39,3906
+18003,Allen,2015,20-39,49752
+18005,Bartholomew,2015,20-39,10099
+18007,Benton,2015,20-39,947
+18009,Blackford,2015,20-39,1299
+18011,Boone,2015,20-39,7509
+18013,Brown,2015,20-39,1391
+18015,Carroll,2015,20-39,2142
+18017,Cass,2015,20-39,4349
+18019,Clark,2015,20-39,15375
+18021,Clay,2015,20-39,3155
+18023,Clinton,2015,20-39,3710
+18025,Crawford,2015,20-39,1099
+18027,Daviess,2015,20-39,3843
+18029,Dearborn,2015,20-39,5443
+18031,Decatur,2015,20-39,3207
+18033,DeKalb,2015,20-39,5027
+18035,Delaware,2015,20-39,18000
+18037,Dubois,2015,20-39,4771
+18039,Elkhart,2015,20-39,25497
+18041,Fayette,2015,20-39,2597
+18043,Floyd,2015,20-39,9687
+18045,Fountain,2015,20-39,1748
+18047,Franklin,2015,20-39,2452
+18049,Fulton,2015,20-39,2260
+18051,Gibson,2015,20-39,3941
+18053,Grant,2015,20-39,8819
+18055,Greene,2015,20-39,3455
+18057,Hamilton,2015,20-39,39156
+18059,Hancock,2015,20-39,8481
+18061,Harrison,2015,20-39,4535
+18063,Hendricks,2015,20-39,19593
+18065,Henry,2015,20-39,5071
+18067,Howard,2015,20-39,9749
+18069,Huntington,2015,20-39,4504
+18071,Jackson,2015,20-39,5430
+18073,Jasper,2015,20-39,3882
+18075,Jay,2015,20-39,2312
+18077,Jefferson,2015,20-39,4274
+18079,Jennings,2015,20-39,3147
+18081,Johnson,2015,20-39,19546
+18083,Knox,2015,20-39,4533
+18085,Kosciusko,2015,20-39,9659
+18087,LaGrange,2015,20-39,4507
+18089,Lake,2015,20-39,62343
+18091,LaPorte,2015,20-39,12331
+18093,Lawrence,2015,20-39,5040
+18095,Madison,2015,20-39,15544
+18097,Marion,2015,20-39,147620
+18099,Marshall,2015,20-39,5274
+18101,Martin,2015,20-39,1087
+18103,Miami,2015,20-39,3683
+18105,Monroe,2015,20-39,27884
+18107,Montgomery,2015,20-39,4242
+18109,Morgan,2015,20-39,7971
+18111,Newton,2015,20-39,1482
+18113,Noble,2015,20-39,5577
+18115,Ohio,2015,20-39,595
+18117,Orange,2015,20-39,2178
+18119,Owen,2015,20-39,2131
+18121,Parke,2015,20-39,2413
+18123,Perry,2015,20-39,1979
+18125,Pike,2015,20-39,1288
+18127,Porter,2015,20-39,21094
+18129,Posey,2015,20-39,2787
+18131,Pulaski,2015,20-39,1344
+18133,Putnam,2015,20-39,4306
+18135,Randolph,2015,20-39,2711
+18137,Ripley,2015,20-39,3227
+18139,Rush,2015,20-39,1871
+18141,St.Joseph,2015,20-39,36413
+18143,Scott,2015,20-39,2804
+18145,Shelby,2015,20-39,5182
+18147,Spencer,2015,20-39,2156
+18149,Starke,2015,20-39,2619
+18151,Steuben,2015,20-39,3722
+18153,Sullivan,2015,20-39,2249
+18155,Switzerland,2015,20-39,1156
+18157,Tippecanoe,2015,20-39,32268
+18159,Tipton,2015,20-39,1539
+18161,Union,2015,20-39,798
+18163,Vanderburgh,2015,20-39,25585
+18165,Vermillion,2015,20-39,1682
+18167,Vigo,2015,20-39,14970
+18169,Wabash,2015,20-39,3577
+18171,Warren,2015,20-39,853
+18173,Warrick,2015,20-39,6960
+18175,Washington,2015,20-39,3171
+18177,Wayne,2015,20-39,7873
+18179,Wells,2015,20-39,3156
+18181,White,2015,20-39,2525
+18183,Whitley,2015,20-39,3771
+18000,INDIANA,2015,40-49,415815
+18001,Adams,2015,40-49,1871
+18003,Allen,2015,40-49,23100
+18005,Bartholomew,2015,40-49,5180
+18007,Benton,2015,40-49,565
+18009,Blackford,2015,40-49,749
+18011,Boone,2015,40-49,4600
+18013,Brown,2015,40-49,941
+18015,Carroll,2015,40-49,1207
+18017,Cass,2015,40-49,2347
+18019,Clark,2015,40-49,7680
+18021,Clay,2015,40-49,1674
+18023,Clinton,2015,40-49,1937
+18025,Crawford,2015,40-49,675
+18027,Daviess,2015,40-49,1796
+18029,Dearborn,2015,40-49,3338
+18031,Decatur,2015,40-49,1607
+18033,DeKalb,2015,40-49,2664
+18035,Delaware,2015,40-49,6507
+18037,Dubois,2015,40-49,2559
+18039,Elkhart,2015,40-49,12752
+18041,Fayette,2015,40-49,1461
+18043,Floyd,2015,40-49,5127
+18045,Fountain,2015,40-49,1048
+18047,Franklin,2015,40-49,1518
+18049,Fulton,2015,40-49,1205
+18051,Gibson,2015,40-49,2126
+18053,Grant,2015,40-49,3944
+18055,Greene,2015,40-49,2139
+18057,Hamilton,2015,40-49,24467
+18059,Hancock,2015,40-49,5140
+18061,Harrison,2015,40-49,2506
+18063,Hendricks,2015,40-49,11355
+18065,Henry,2015,40-49,2938
+18067,Howard,2015,40-49,5155
+18069,Huntington,2015,40-49,2220
+18071,Jackson,2015,40-49,2764
+18073,Jasper,2015,40-49,2070
+18075,Jay,2015,40-49,1362
+18077,Jefferson,2015,40-49,2160
+18079,Jennings,2015,40-49,1959
+18081,Johnson,2015,40-49,10104
+18083,Knox,2015,40-49,1976
+18085,Kosciusko,2015,40-49,4763
+18087,LaGrange,2015,40-49,2058
+18089,Lake,2015,40-49,31641
+18091,LaPorte,2015,40-49,6545
+18093,Lawrence,2015,40-49,2831
+18095,Madison,2015,40-49,8200
+18097,Marion,2015,40-49,58352
+18099,Marshall,2015,40-49,2893
+18101,Martin,2015,40-49,622
+18103,Miami,2015,40-49,2126
+18105,Monroe,2015,40-49,6976
+18107,Montgomery,2015,40-49,2347
+18109,Morgan,2015,40-49,4814
+18111,Newton,2015,40-49,821
+18113,Noble,2015,40-49,2950
+18115,Ohio,2015,40-49,360
+18117,Orange,2015,40-49,1199
+18119,Owen,2015,40-49,1325
+18121,Parke,2015,40-49,1192
+18123,Perry,2015,40-49,1040
+18125,Pike,2015,40-49,766
+18127,Porter,2015,40-49,11096
+18129,Posey,2015,40-49,1625
+18131,Pulaski,2015,40-49,793
+18133,Putnam,2015,40-49,2110
+18135,Randolph,2015,40-49,1521
+18137,Ripley,2015,40-49,1883
+18139,Rush,2015,40-49,1066
+18141,St.Joseph,2015,40-49,16260
+18143,Scott,2015,40-49,1644
+18145,Shelby,2015,40-49,2918
+18147,Spencer,2015,40-49,1276
+18149,Starke,2015,40-49,1429
+18151,Steuben,2015,40-49,2154
+18153,Sullivan,2015,40-49,1191
+18155,Switzerland,2015,40-49,655
+18157,Tippecanoe,2015,40-49,9390
+18159,Tipton,2015,40-49,1020
+18161,Union,2015,40-49,499
+18163,Vanderburgh,2015,40-49,10371
+18165,Vermillion,2015,40-49,1000
+18167,Vigo,2015,40-49,5900
+18169,Wabash,2015,40-49,1938
+18171,Warren,2015,40-49,532
+18173,Warrick,2015,40-49,4107
+18175,Washington,2015,40-49,1818
+18177,Wayne,2015,40-49,4244
+18179,Wells,2015,40-49,1567
+18181,White,2015,40-49,1424
+18183,Whitley,2015,40-49,2070
+18000,INDIANA,2015,Total female population 10-19,446011
+18001,Adams,2015,Total female population 10-19,2521
+18003,Allen,2015,Total female population 10-19,26089
+18005,Bartholomew,2015,Total female population 10-19,4535
+18007,Benton,2015,Total female population 10-19,564
+18009,Blackford,2015,Total female population 10-19,766
+18011,Boone,2015,Total female population 10-19,4275
+18013,Brown,2015,Total female population 10-19,857
+18015,Carroll,2015,Total female population 10-19,1389
+18017,Cass,2015,Total female population 10-19,2840
+18019,Clark,2015,Total female population 10-19,7087
+18021,Clay,2015,Total female population 10-19,1785
+18023,Clinton,2015,Total female population 10-19,2342
+18025,Crawford,2015,Total female population 10-19,521
+18027,Daviess,2015,Total female population 10-19,2206
+18029,Dearborn,2015,Total female population 10-19,3304
+18031,Decatur,2015,Total female population 10-19,1943
+18033,DeKalb,2015,Total female population 10-19,2934
+18035,Delaware,2015,Total female population 10-19,8829
+18037,Dubois,2015,Total female population 10-19,3224
+18039,Elkhart,2015,Total female population 10-19,14575
+18041,Fayette,2015,Total female population 10-19,1516
+18043,Floyd,2015,Total female population 10-19,5207
+18045,Fountain,2015,Total female population 10-19,1095
+18047,Franklin,2015,Total female population 10-19,1553
+18049,Fulton,2015,Total female population 10-19,1275
+18051,Gibson,2015,Total female population 10-19,2201
+18053,Grant,2015,Total female population 10-19,4717
+18055,Greene,2015,Total female population 10-19,2041
+18057,Hamilton,2015,Total female population 10-19,22788
+18059,Hancock,2015,Total female population 10-19,5166
+18061,Harrison,2015,Total female population 10-19,2747
+18063,Hendricks,2015,Total female population 10-19,11306
+18065,Henry,2015,Total female population 10-19,2922
+18067,Howard,2015,Total female population 10-19,5480
+18069,Huntington,2015,Total female population 10-19,2555
+18071,Jackson,2015,Total female population 10-19,2759
+18073,Jasper,2015,Total female population 10-19,2094
+18075,Jay,2015,Total female population 10-19,1542
+18077,Jefferson,2015,Total female population 10-19,2239
+18079,Jennings,2015,Total female population 10-19,1893
+18081,Johnson,2015,Total female population 10-19,9584
+18083,Knox,2015,Total female population 10-19,2614
+18085,Kosciusko,2015,Total female population 10-19,5295
+18087,LaGrange,2015,Total female population 10-19,3219
+18089,Lake,2015,Total female population 10-19,33609
+18091,LaPorte,2015,Total female population 10-19,6872
+18093,Lawrence,2015,Total female population 10-19,2954
+18095,Madison,2015,Total female population 10-19,7903
+18097,Marion,2015,Total female population 10-19,60070
+18099,Marshall,2015,Total female population 10-19,3211
+18101,Martin,2015,Total female population 10-19,730
+18103,Miami,2015,Total female population 10-19,2260
+18105,Monroe,2015,Total female population 10-19,10781
+18107,Montgomery,2015,Total female population 10-19,2469
+18109,Morgan,2015,Total female population 10-19,4688
+18111,Newton,2015,Total female population 10-19,900
+18113,Noble,2015,Total female population 10-19,3439
+18115,Ohio,2015,Total female population 10-19,336
+18117,Orange,2015,Total female population 10-19,1405
+18119,Owen,2015,Total female population 10-19,1338
+18121,Parke,2015,Total female population 10-19,984
+18123,Perry,2015,Total female population 10-19,1087
+18125,Pike,2015,Total female population 10-19,740
+18127,Porter,2015,Total female population 10-19,11436
+18129,Posey,2015,Total female population 10-19,1695
+18131,Pulaski,2015,Total female population 10-19,836
+18133,Putnam,2015,Total female population 10-19,2641
+18135,Randolph,2015,Total female population 10-19,1836
+18137,Ripley,2015,Total female population 10-19,1924
+18139,Rush,2015,Total female population 10-19,1165
+18141,St.Joseph,2015,Total female population 10-19,19154
+18143,Scott,2015,Total female population 10-19,1635
+18145,Shelby,2015,Total female population 10-19,2680
+18147,Spencer,2015,Total female population 10-19,1331
+18149,Starke,2015,Total female population 10-19,1604
+18151,Steuben,2015,Total female population 10-19,2235
+18153,Sullivan,2015,Total female population 10-19,1217
+18155,Switzerland,2015,Total female population 10-19,546
+18157,Tippecanoe,2015,Total female population 10-19,12728
+18159,Tipton,2015,Total female population 10-19,933
+18161,Union,2015,Total female population 10-19,440
+18163,Vanderburgh,2015,Total female population 10-19,11145
+18165,Vermillion,2015,Total female population 10-19,1026
+18167,Vigo,2015,Total female population 10-19,7103
+18169,Wabash,2015,Total female population 10-19,2090
+18171,Warren,2015,Total female population 10-19,495
+18173,Warrick,2015,Total female population 10-19,3922
+18175,Washington,2015,Total female population 10-19,2001
+18177,Wayne,2015,Total female population 10-19,4338
+18179,Wells,2015,Total female population 10-19,1836
+18181,White,2015,Total female population 10-19,1552
+18183,Whitley,2015,Total female population 10-19,2297
+18000,INDIANA,2015,Total Female Population 20-39,853973
+18001,Adams,2015,Total Female Population 20-39,3812
+18003,Allen,2015,Total Female Population 20-39,48922
+18005,Bartholomew,2015,Total Female Population 20-39,9925
+18007,Benton,2015,Total Female Population 20-39,934
+18009,Blackford,2015,Total Female Population 20-39,1270
+18011,Boone,2015,Total Female Population 20-39,6816
+18013,Brown,2015,Total Female Population 20-39,1213
+18015,Carroll,2015,Total Female Population 20-39,2167
+18017,Cass,2015,Total Female Population 20-39,4197
+18019,Clark,2015,Total Female Population 20-39,14976
+18021,Clay,2015,Total Female Population 20-39,3269
+18023,Clinton,2015,Total Female Population 20-39,3788
+18025,Crawford,2015,Total Female Population 20-39,1196
+18027,Daviess,2015,Total Female Population 20-39,3737
+18029,Dearborn,2015,Total Female Population 20-39,5297
+18031,Decatur,2015,Total Female Population 20-39,3064
+18033,DeKalb,2015,Total Female Population 20-39,5095
+18035,Delaware,2015,Total Female Population 20-39,17953
+18037,Dubois,2015,Total Female Population 20-39,4401
+18039,Elkhart,2015,Total Female Population 20-39,25395
+18041,Fayette,2015,Total Female Population 20-39,2591
+18043,Floyd,2015,Total Female Population 20-39,9501
+18045,Fountain,2015,Total Female Population 20-39,1738
+18047,Franklin,2015,Total Female Population 20-39,2396
+18049,Fulton,2015,Total Female Population 20-39,2193
+18051,Gibson,2015,Total Female Population 20-39,3958
+18053,Grant,2015,Total Female Population 20-39,8709
+18055,Greene,2015,Total Female Population 20-39,3413
+18057,Hamilton,2015,Total Female Population 20-39,37960
+18059,Hancock,2015,Total Female Population 20-39,8259
+18061,Harrison,2015,Total Female Population 20-39,4402
+18063,Hendricks,2015,Total Female Population 20-39,18791
+18065,Henry,2015,Total Female Population 20-39,4984
+18067,Howard,2015,Total Female Population 20-39,9404
+18069,Huntington,2015,Total Female Population 20-39,4489
+18071,Jackson,2015,Total Female Population 20-39,5593
+18073,Jasper,2015,Total Female Population 20-39,3961
+18075,Jay,2015,Total Female Population 20-39,2322
+18077,Jefferson,2015,Total Female Population 20-39,4167
+18079,Jennings,2015,Total Female Population 20-39,3208
+18081,Johnson,2015,Total Female Population 20-39,18843
+18083,Knox,2015,Total Female Population 20-39,4313
+18085,Kosciusko,2015,Total Female Population 20-39,9236
+18087,LaGrange,2015,Total Female Population 20-39,4307
+18089,Lake,2015,Total Female Population 20-39,62952
+18091,LaPorte,2015,Total Female Population 20-39,12130
+18093,Lawrence,2015,Total Female Population 20-39,5179
+18095,Madison,2015,Total Female Population 20-39,15887
+18097,Marion,2015,Total Female Population 20-39,145059
+18099,Marshall,2015,Total Female Population 20-39,4968
+18101,Martin,2015,Total Female Population 20-39,1078
+18103,Miami,2015,Total Female Population 20-39,3644
+18105,Monroe,2015,Total Female Population 20-39,27607
+18107,Montgomery,2015,Total Female Population 20-39,4244
+18109,Morgan,2015,Total Female Population 20-39,7970
+18111,Newton,2015,Total Female Population 20-39,1428
+18113,Noble,2015,Total Female Population 20-39,5567
+18115,Ohio,2015,Total Female Population 20-39,570
+18117,Orange,2015,Total Female Population 20-39,2230
+18119,Owen,2015,Total Female Population 20-39,2236
+18121,Parke,2015,Total Female Population 20-39,2415
+18123,Perry,2015,Total Female Population 20-39,1921
+18125,Pike,2015,Total Female Population 20-39,1299
+18127,Porter,2015,Total Female Population 20-39,20897
+18129,Posey,2015,Total Female Population 20-39,2587
+18131,Pulaski,2015,Total Female Population 20-39,1394
+18133,Putnam,2015,Total Female Population 20-39,4472
+18135,Randolph,2015,Total Female Population 20-39,2695
+18137,Ripley,2015,Total Female Population 20-39,3132
+18139,Rush,2015,Total Female Population 20-39,1883
+18141,St.Joseph,2015,Total Female Population 20-39,35962
+18143,Scott,2015,Total Female Population 20-39,2886
+18145,Shelby,2015,Total Female Population 20-39,5044
+18147,Spencer,2015,Total Female Population 20-39,2137
+18149,Starke,2015,Total Female Population 20-39,2620
+18151,Steuben,2015,Total Female Population 20-39,3665
+18153,Sullivan,2015,Total Female Population 20-39,2262
+18155,Switzerland,2015,Total Female Population 20-39,1170
+18157,Tippecanoe,2015,Total Female Population 20-39,31449
+18159,Tipton,2015,Total Female Population 20-39,1685
+18161,Union,2015,Total Female Population 20-39,752
+18163,Vanderburgh,2015,Total Female Population 20-39,25124
+18165,Vermillion,2015,Total Female Population 20-39,1714
+18167,Vigo,2015,Total Female Population 20-39,14810
+18169,Wabash,2015,Total Female Population 20-39,3422
+18171,Warren,2015,Total Female Population 20-39,894
+18173,Warrick,2015,Total Female Population 20-39,6592
+18175,Washington,2015,Total Female Population 20-39,2952
+18177,Wayne,2015,Total Female Population 20-39,8009
+18179,Wells,2015,Total Female Population 20-39,3013
+18181,White,2015,Total Female Population 20-39,2609
+18183,Whitley,2015,Total Female Population 20-39,3593
+18000,INDIANA,2015,Total Female Population 40-49,431686
+18001,Adams,2015,Total Female Population 40-49,2036
+18003,Allen,2015,Total Female Population 40-49,23260
+18005,Bartholomew,2015,Total Female Population 40-49,5340
+18007,Benton,2015,Total Female Population 40-49,597
+18009,Blackford,2015,Total Female Population 40-49,807
+18011,Boone,2015,Total Female Population 40-49,4774
+18013,Brown,2015,Total Female Population 40-49,1019
+18015,Carroll,2015,Total Female Population 40-49,1255
+18017,Cass,2015,Total Female Population 40-49,2639
+18019,Clark,2015,Total Female Population 40-49,7765
+18021,Clay,2015,Total Female Population 40-49,1690
+18023,Clinton,2015,Total Female Population 40-49,2127
+18025,Crawford,2015,Total Female Population 40-49,638
+18027,Daviess,2015,Total Female Population 40-49,1931
+18029,Dearborn,2015,Total Female Population 40-49,3730
+18031,Decatur,2015,Total Female Population 40-49,1650
+18033,DeKalb,2015,Total Female Population 40-49,2659
+18035,Delaware,2015,Total Female Population 40-49,6599
+18037,Dubois,2015,Total Female Population 40-49,2900
+18039,Elkhart,2015,Total Female Population 40-49,12725
+18041,Fayette,2015,Total Female Population 40-49,1535
+18043,Floyd,2015,Total Female Population 40-49,5341
+18045,Fountain,2015,Total Female Population 40-49,1139
+18047,Franklin,2015,Total Female Population 40-49,1696
+18049,Fulton,2015,Total Female Population 40-49,1315
+18051,Gibson,2015,Total Female Population 40-49,2066
+18053,Grant,2015,Total Female Population 40-49,4330
+18055,Greene,2015,Total Female Population 40-49,2323
+18057,Hamilton,2015,Total Female Population 40-49,24180
+18059,Hancock,2015,Total Female Population 40-49,5471
+18061,Harrison,2015,Total Female Population 40-49,2737
+18063,Hendricks,2015,Total Female Population 40-49,11559
+18065,Henry,2015,Total Female Population 40-49,3290
+18067,Howard,2015,Total Female Population 40-49,5682
+18069,Huntington,2015,Total Female Population 40-49,2338
+18071,Jackson,2015,Total Female Population 40-49,2582
+18073,Jasper,2015,Total Female Population 40-49,2057
+18075,Jay,2015,Total Female Population 40-49,1443
+18077,Jefferson,2015,Total Female Population 40-49,2382
+18079,Jennings,2015,Total Female Population 40-49,1974
+18081,Johnson,2015,Total Female Population 40-49,10202
+18083,Knox,2015,Total Female Population 40-49,2214
+18085,Kosciusko,2015,Total Female Population 40-49,5172
+18087,LaGrange,2015,Total Female Population 40-49,2186
+18089,Lake,2015,Total Female Population 40-49,32701
+18091,LaPorte,2015,Total Female Population 40-49,7065
+18093,Lawrence,2015,Total Female Population 40-49,3053
+18095,Madison,2015,Total Female Population 40-49,8103
+18097,Marion,2015,Total Female Population 40-49,60383
+18099,Marshall,2015,Total Female Population 40-49,3223
+18101,Martin,2015,Total Female Population 40-49,653
+18103,Miami,2015,Total Female Population 40-49,2208
+18105,Monroe,2015,Total Female Population 40-49,6963
+18107,Montgomery,2015,Total Female Population 40-49,2500
+18109,Morgan,2015,Total Female Population 40-49,5034
+18111,Newton,2015,Total Female Population 40-49,941
+18113,Noble,2015,Total Female Population 40-49,3037
+18115,Ohio,2015,Total Female Population 40-49,399
+18117,Orange,2015,Total Female Population 40-49,1196
+18119,Owen,2015,Total Female Population 40-49,1462
+18121,Parke,2015,Total Female Population 40-49,1232
+18123,Perry,2015,Total Female Population 40-49,1165
+18125,Pike,2015,Total Female Population 40-49,822
+18127,Porter,2015,Total Female Population 40-49,11650
+18129,Posey,2015,Total Female Population 40-49,1966
+18131,Pulaski,2015,Total Female Population 40-49,803
+18133,Putnam,2015,Total Female Population 40-49,2071
+18135,Randolph,2015,Total Female Population 40-49,1733
+18137,Ripley,2015,Total Female Population 40-49,1996
+18139,Rush,2015,Total Female Population 40-49,1040
+18141,St.Joseph,2015,Total Female Population 40-49,16920
+18143,Scott,2015,Total Female Population 40-49,1613
+18145,Shelby,2015,Total Female Population 40-49,3254
+18147,Spencer,2015,Total Female Population 40-49,1339
+18149,Starke,2015,Total Female Population 40-49,1497
+18151,Steuben,2015,Total Female Population 40-49,2199
+18153,Sullivan,2015,Total Female Population 40-49,1169
+18155,Switzerland,2015,Total Female Population 40-49,697
+18157,Tippecanoe,2015,Total Female Population 40-49,9363
+18159,Tipton,2015,Total Female Population 40-49,902
+18161,Union,2015,Total Female Population 40-49,576
+18163,Vanderburgh,2015,Total Female Population 40-49,11184
+18165,Vermillion,2015,Total Female Population 40-49,1095
+18167,Vigo,2015,Total Female Population 40-49,6208
+18169,Wabash,2015,Total Female Population 40-49,2059
+18171,Warren,2015,Total Female Population 40-49,553
+18173,Warrick,2015,Total Female Population 40-49,4402
+18175,Washington,2015,Total Female Population 40-49,2093
+18177,Wayne,2015,Total Female Population 40-49,4396
+18179,Wells,2015,Total Female Population 40-49,1758
+18181,White,2015,Total Female Population 40-49,1476
+18183,Whitley,2015,Total Female Population 40-49,2179

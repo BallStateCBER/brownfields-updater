@@ -375,6 +375,34 @@ class ImportDefinitions
             'categoryId' => 5996
         ];
 
+        $imports['Births by age group'] = [
+            'filename' => 'Health_BirthRateByAgeGroup.csv',
+            'sourceId' => 121,
+            'categoryIds' => [
+                'Total 10-49' => 6033,
+                'Total 10-19' => 6034,
+                '20-39' => 6035,
+                '40-49' => 6036,
+                'Total female population 10-19' => null,
+                'Total Female Population 20-39' => null,
+                'Total Female Population 40-49' => null
+            ]
+        ];
+
+        $imports['Female age breakdown 2'] = [
+            'filename' => 'Health_BirthRateByAgeGroup.csv',
+            'sourceId' => 134,
+            'categoryIds' => [
+                'Total 10-49' => null,
+                'Total 10-19' => null,
+                '20-39' => null,
+                '40-49' => null,
+                'Total female population 10-19' => 6030,
+                'Total Female Population 20-39' => 6031,
+                'Total Female Population 40-49' => 6032
+            ]
+        ];
+
         return $imports;
     }
 }
