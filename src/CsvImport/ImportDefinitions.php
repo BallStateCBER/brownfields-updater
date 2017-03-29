@@ -403,6 +403,22 @@ class ImportDefinitions
             ]
         ];
 
+        $imports['Death rate by cause'] = [
+            'filename' => 'Health_DeathRateByCause.csv',
+            'sourceId' => 125,
+            'categoryIds' => [
+                'Malignant neoplasms (cancer)' => 5868,
+                'Diabetes mellitus' => 5872,
+                'Alzheimer\'s disease' => 5876,
+                'Major cardiovascular diseases' => 5880,
+                'Influenza and pneumonia' => 5884,
+                'Chronic lower respiratory diseases' => 5888,
+                'Nephritis, nephrotic syndrome and nephrosis (kidney disease)' => 5896,
+                'Motor Vehicle Accidents' => 5900,
+                'Chronic Liver Disease and Cirrhosis' => 5892
+            ]
+        ];
+
         return $imports;
     }
 }
