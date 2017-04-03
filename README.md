@@ -66,3 +66,16 @@ Grant Writers' Tool with the appropriate new year.
 - If the relevant report description (set in the `chart_descriptions` database table) mentions the previously-used
 year, update it to the new year.
 - Load `http://brownfield.cberdata.org/data_center/pages/clear_cache` to clear old cached charts/tables.
+
+Data Categories Tree Repair
+---------------------------
+
+The `data_categories` database table is arranged in a tree structure via the `parent_id`, `lft`, and `rght` fields. 
+When new data categories are manually added to the database and given non-null `parent_id` values in order to group
+them with related categories, their `lft` and `rght` values need to then be updated with 
+`$dataCategoriesTable->recover()` to avoid breaking CakePHP's 
+[TreeBehavior](https://book.cakephp.org/3.0/en/orm/behaviors/tree.html). To accomplish this, just run the following 
+command:
+
+    cd C:\path\to\app
+    bin\cake repair
