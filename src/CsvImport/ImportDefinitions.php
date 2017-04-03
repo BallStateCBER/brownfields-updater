@@ -375,17 +375,13 @@ class ImportDefinitions
             'categoryId' => 5996
         ];
 
-        $imports['Births by age group'] = [
+        $imports['Birth rate by age group'] = [
             'filename' => 'Health_BirthRateByAgeGroup.csv',
-            'sourceId' => 121,
+            'sourceId' => 135,
             'categoryIds' => [
-                'Total 10-49' => 6033,
-                'Total 10-19' => 6034,
-                '20-39' => 6035,
-                '40-49' => 6036,
-                'Total female population 10-19' => null,
-                'Total Female Population 20-39' => null,
-                'Total Female Population 40-49' => null
+                '15-19' => 6037,
+                '20-39' => 6038,
+                '40-44' => 6039
             ]
         ];
 
