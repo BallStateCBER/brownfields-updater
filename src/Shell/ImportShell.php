@@ -246,6 +246,7 @@ class ImportShell extends Shell
             if (! $this->autoImport) {
                 $this->_stop();
             }
+
             return false;
         }
 
@@ -254,6 +255,7 @@ class ImportShell extends Shell
             if (! $this->autoImport) {
                 $this->_stop();
             }
+
             return false;
         }
 
