@@ -1,6 +1,6 @@
 # CBER Brownfield Grant Writers' Tool Data Importer
 
-[![Build Status](https://travis-ci.org/BallStateCBER/brownfields-updater.svg?branch=master)](https://travis-ci.org/BallStateCBER/brownfields-updater)
+[![Build Status](https://travis-ci.org/BallStateCBER/brownfields-updater.svg?branch=development)](https://travis-ci.org/BallStateCBER/brownfields-updater)
 [![Code Climate](https://codeclimate.com/repos/58c87aab1ad9f8026500004f/badges/f2334785c15ce05ff698/gpa.svg)](https://codeclimate.com/repos/58c87aab1ad9f8026500004f/feed)
 [![Test Coverage](https://codeclimate.com/repos/58c87aab1ad9f8026500004f/badges/f2334785c15ce05ff698/coverage.svg)](https://codeclimate.com/repos/58c87aab1ad9f8026500004f/coverage)
 [![Issue Count](https://codeclimate.com/repos/58c87aab1ad9f8026500004f/badges/f2334785c15ce05ff698/issue_count.svg)](https://codeclimate.com/repos/58c87aab1ad9f8026500004f/feed)
